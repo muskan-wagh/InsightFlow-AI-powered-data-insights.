@@ -17,15 +17,7 @@ DuckDB-Wasm executes on your rows → chart + table + narrative grounded in the 
 
 ![Workspace — upload state](docs/screenshots/02-workspace-empty.png)
 
-## Demo & Screenshots
-
-- 🎥 **Demo video:** [docs/project.mp4](docs/project.mp4) (short walkthrough of upload → question → chart → insights → anomalies)
-
-<video src="https://github.com/user-attachments/assets/c5a614e2-27fa-445c-8415-a8c112099880" controls width="100%"></video>
-- 🌐 **Live app:** _add link if deployed_
-- 📸 **Screenshots:** see [`docs/screenshots/`](docs/screenshots/) (landing, upload, answer with chart, explorer, insights, anomalies, dark mode)
-
-> The user uploads the demo video / live link here; screenshot files are already committed under `docs/screenshots/`.
+- **Live app:** https://insight-flow-sable.vercel.app/
 
 ## Contents
 

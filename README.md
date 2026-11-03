@@ -19,9 +19,9 @@ DuckDB-Wasm executes on your rows → chart + table + narrative grounded in the 
 
 ## Demo & Screenshots
 
-- 🎥 **Demo video:** [Watch demo (project.mp4)](https://raw.githubusercontent.com/muskan-wagh/InsightFlow-AI-powered-data-insights./main/docs/project.mp4) (short walkthrough of upload → question → chart → insights → anomalies)
+- 🎥 **Demo video:** [Watch full demo (project.mp4)](https://raw.githubusercontent.com/muskan-wagh/InsightFlow-AI-powered-data-insights./main/docs/project.mp4) (short walkthrough of upload → question → chart → insights → anomalies)
 
-<video src="https://raw.githubusercontent.com/muskan-wagh/InsightFlow-AI-powered-data-insights./main/docs/project.mp4" controls width="100%"></video>
+![Demo preview](docs/demo.gif)
 - 🌐 **Live app:** _add link if deployed_
 - 📸 **Screenshots:** see [`docs/screenshots/`](docs/screenshots/) (landing, upload, answer with chart, explorer, insights, anomalies, dark mode)
 

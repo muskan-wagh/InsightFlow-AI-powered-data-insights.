@@ -13,6 +13,8 @@ DuckDB-Wasm executes on your rows → chart + table + narrative grounded in the 
 | **Privacy** | Parsing, profiling, storage and query execution run **entirely in your browser**. The only server call is the LLM proxy (your CSV bytes never leave the client — the server sees schema metadata only). |
 | **AI** | Any OpenRouter model; key lives server-side only. Works fully without a key (deterministic fallback + all analytics views). |
 
+![Landing page](docs/screenshots/01-landing.png)
+
 ![Workspace — upload state](docs/screenshots/02-workspace-empty.png)
 
 ## Demo & Screenshots

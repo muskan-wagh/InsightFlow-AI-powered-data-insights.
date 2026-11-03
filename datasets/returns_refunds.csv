@@ -1,0 +1,421 @@
+return_id,order_id,customer_name,reason,refund_amount,return_date
+RT-00001,SO-10907,Jack Rivera,Late delivery,145.94,2025-03-07
+RT-00002,SO-10827,James Hall,Quality issue,436.87,2025-02-01
+RT-00003,SO-10982,Hudson Reed,Late delivery,31.67,2025-04-03
+RT-00004,SO-10622,Lucas Nguyen,Late delivery,33.18,2024-10-30
+RT-00005,SO-10095,Noah Patel,Quality issue,27.21,2024-02-23
+RT-00006,SO-10389,Ava Thompson,Quality issue,19.55,2024-07-08
+RT-00007,SO-10393,Ava Thompson,Late delivery,67.92,2024-07-22
+RT-00008,SO-10489,Noah Patel,Quality issue,615.31,2024-09-03
+RT-00009,SO-10901,Elijah Torres,Damaged in transit,40.48,2025-02-27
+RT-00010,SO-10220,Noah Patel,Damaged in transit,75.13,2024-05-04
+RT-00011,SO-10219,Amelia Scott,Changed mind,42.87,2024-05-06
+RT-00012,SO-10523,Ava Thompson,Changed mind,19.68,2024-09-16
+RT-00013,SO-10202,Ava Thompson,Changed mind,17.07,2024-04-12
+RT-00014,SO-11059,Luna Cooper,Wrong item,19.37,2025-05-07
+RT-00015,SO-10777,Ava Thompson,Damaged in transit,64.92,2024-12-27
+RT-00016,SO-10612,Chloe Diaz,Late delivery,377.36,2024-10-24
+RT-00017,SO-10507,Hudson Reed,Wrong item,70.31,2024-09-13
+RT-00018,SO-10600,Harper Wright,Wrong item,194.84,2024-10-21
+RT-00019,SO-10789,James Hall,Late delivery,142.23,2025-01-10
+RT-00020,SO-10146,Aria Nelson,Damaged in transit,,2024-03-23
+RT-00021,SO-10793,Leo Martin,Damaged in transit,51.44,2025-01-13
+RT-00022,SO-11202,Owen Price,Wrong item,119.58,2025-06-29
+RT-00023,SO-10371,Chloe Diaz,Quality issue,63.63,2024-07-17
+RT-00024,SO-10586,Luna Cooper,Late delivery,88.91,2024-09-30
+RT-00025,SO-10856,Jack Rivera,Wrong item,29.68,2025-02-14
+RT-00026,SO-11191,Ethan Brown,Quality issue,35.88,2025-06-17
+RT-00027,SO-11213,Lucas Nguyen,Changed mind,427.98,2025-07-05
+RT-00028,SO-10258,Ethan Walker,Quality issue,130.37,2024-05-09
+RT-00029,SO-10128,Sofia Kim,Damaged in transit,64.87,2024-03-13
+RT-00030,SO-10107,Noah Patel,Quality issue,232.1,2024-03-02
+RT-00031,SO-11095,Ava Thompson,Quality issue,147.07,2025-05-27
+RT-00032,SO-11124,Ethan Brown,Late delivery,157.46,2025-06-01
+RT-00033,SO-10179,Sofia Kim,Late delivery,254.62,2024-03-28
+RT-00034,SO-10143,Ethan Brown,Quality issue,130.04,2024-03-25
+RT-00035,SO-11164,Amelia Scott,Changed mind,86.19,2025-06-25
+RT-00036,SO-10721,Amelia Scott,Damaged in transit,183.33,2024-12-02
+RT-00037,SO-10914,Chloe Diaz,Late delivery,83.28,2025-03-10
+RT-00038,SO-11098,Noah Patel,Wrong item,1054.99,2025-05-13
+RT-00039,SO-10923,Aria Nelson,Damaged in transit,654.88,2025-03-12
+RT-00040,SO-10822,Mason Hill,Quality issue,,2025-01-21
+RT-00041,SO-10334,Liam Rodriguez,Late delivery,54.61,2024-06-19
+RT-00042,SO-10603,Isabella Garcia,Damaged in transit,362.01,2024-10-24
+RT-00043,SO-11174,Lucas Nguyen,Late delivery,464.63,2025-06-14
+RT-00044,SO-11163,Lucas Nguyen,Changed mind,412.46,2025-06-08
+RT-00045,SO-11067,Harper Wright,Damaged in transit,147.03,2025-05-12
+RT-00046,SO-10095,Noah Patel,Quality issue,27.41,2024-02-17
+RT-00047,SO-10741,Isabella Garcia,Wrong item,23.2,2024-12-10
+RT-00048,SO-10050,Evelyn Adams,Wrong item,37.75,2024-02-07
+RT-00049,SO-10676,Luna Cooper,Damaged in transit,99.13,2024-11-22
+RT-00050,SO-10555,James Hall,Quality issue,263.28,2024-09-30
+RT-00051,SO-10749,Luna Cooper,Changed mind,52.94,2024-12-17
+RT-00052,SO-10583,Oliver King,Wrong item,174.42,2024-10-02
+RT-00053,SO-10099,Amelia Scott,Late delivery,27.37,2024-03-08
+RT-00054,SO-10082,Charlotte Lee,Quality issue,100.29,2024-02-23
+RT-00055,SO-10296,Nora Sanders,Damaged in transit,17.3,2024-06-09
+RT-00056,SO-10065,Mia Chen,Changed mind,137.82,2024-02-03
+RT-00057,SO-10133,Mia Chen,Late delivery,14.02,2024-03-19
+RT-00058,SO-10052,Mason Hill,Damaged in transit,46.35,2024-02-13
+RT-00059,SO-11094,Lucas Nguyen,Damaged in transit,420.6,2025-05-16
+RT-00060,SO-10160,Noah Patel,Wrong item,207.76,2024-03-22
+RT-00061,SO-10030,Lucas Nguyen,Wrong item,143.94,2024-01-14
+RT-00062,SO-10823,Ethan Brown,Late delivery,99.66,2025-01-16
+RT-00063,SO-10174,Charlotte Lee,Quality issue,113.28,2024-04-02
+RT-00064,SO-10794,Owen Price,Late delivery,63.97,2025-01-15
+RT-00065,SO-11216,Evelyn Adams,Wrong item,150.38,2025-07-15
+RT-00066,SO-10005,Ethan Walker,Late delivery,,2024-01-14
+RT-00067,SO-10259,Ava Thompson,Quality issue,39.37,2024-05-13
+RT-00068,SO-10759,Lucas Nguyen,Late delivery,51.8,2025-01-01
+RT-00069,SO-10578,Sofia Kim,Damaged in transit,757.43,2024-09-29
+RT-00070,SO-10033,Nora Sanders,Late delivery,94.17,2024-01-17
+RT-00071,SO-10449,Noah Patel,Damaged in transit,116.89,2024-08-12
+RT-00072,SO-10072,Noah Patel,Late delivery,420.39,2024-02-23
+RT-00073,SO-10978,Ethan Brown,Wrong item,337.92,2025-03-27
+RT-00074,SO-10168,Owen Price,Wrong item,88.44,2024-04-08
+RT-00075,SO-10100,Lucas Nguyen,Wrong item,158.58,2024-02-28
+RT-00076,SO-11148,Jack Rivera,Quality issue,59.78,2025-06-19
+RT-00077,SO-10822,Mason Hill,Changed mind,127.13,2025-01-28
+RT-00078,SO-10420,Ethan Walker,Late delivery,80.38,2024-08-01
+RT-00079,SO-11068,Luna Cooper,Quality issue,176.31,2025-05-06
+RT-00080,SO-10905,Harper Wright,Late delivery,449.25,2025-03-04
+RT-00081,SO-10684,Charlotte Lee,Quality issue,29.89,2024-11-29
+RT-00082,SO-10175,Lucas Nguyen,Damaged in transit,78.66,2024-04-12
+RT-00083,SO-10620,Chloe Diaz,Wrong item,48.07,2024-10-22
+RT-00084,SO-10426,Noah Patel,Wrong item,217.81,2024-07-23
+RT-00085,SO-10624,Leo Martin,Quality issue,222.13,2024-10-27
+RT-00086,SO-10579,Ava Thompson,Damaged in transit,81.18,2024-09-28
+RT-00087,SO-10015,Lucas Nguyen,Damaged in transit,69.69,2024-01-18
+RT-00088,SO-10285,Mason Hill,Changed mind,47.26,2024-05-27
+RT-00089,SO-11174,Lucas Nguyen,Wrong item,411.6,2025-06-26
+RT-00090,SO-10639,Noah Patel,Late delivery,,2024-11-10
+RT-00091,SO-10582,Oliver King,Quality issue,81.12,2024-10-06
+RT-00092,SO-10399,Jack Rivera,Wrong item,79.72,2024-07-28
+RT-00093,SO-10983,Lucas Nguyen,Damaged in transit,,2025-03-31
+RT-00094,SO-10252,Oliver King,Damaged in transit,36.87,2024-05-06
+RT-00095,SO-10508,Elijah Torres,Quality issue,150.72,2024-09-02
+RT-00096,SO-10784,Ethan Brown,Wrong item,63.45,2025-01-11
+RT-00097,SO-10885,Mia Chen,Late delivery,,2025-02-16
+RT-00098,SO-10986,Nora Sanders,Changed mind,228.72,2025-04-04
+RT-00099,SO-10883,Mason Hill,Late delivery,724.2,2025-02-09
+RT-00100,SO-10633,Aria Nelson,Wrong item,491.33,2024-10-30
+RT-00101,SO-11111,Lucas Nguyen,Late delivery,203.31,2025-05-20
+RT-00102,SO-10267,Harper Wright,Changed mind,253.14,2024-05-19
+RT-00103,SO-11142,Leo Martin,Changed mind,33.01,2025-06-06
+RT-00104,SO-10248,Noah Patel,Late delivery,,2024-05-10
+RT-00105,SO-10298,Liam Rodriguez,Late delivery,64.68,2024-06-10
+RT-00106,SO-10156,Harper Wright,Wrong item,13.74,2024-03-16
+RT-00107,SO-11140,Leo Martin,Quality issue,164.96,2025-06-14
+RT-00108,SO-10746,Henry Green,Wrong item,287.72,2024-12-22
+RT-00109,SO-11157,Ethan Brown,Changed mind,207.62,2025-06-25
+RT-00110,SO-11139,James Hall,Changed mind,,2025-06-05
+RT-00111,SO-11148,Jack Rivera,Changed mind,42.6,2025-06-05
+RT-00112,SO-10021,Ava Thompson,Quality issue,64.87,2024-01-10
+RT-00113,SO-10341,Hudson Reed,Late delivery,63.96,2024-06-26
+RT-00114,SO-10802,Chloe Diaz,Changed mind,27.53,2025-01-21
+RT-00115,SO-10615,Sofia Kim,Quality issue,42.1,2024-10-30
+RT-00116,SO-10372,Nora Sanders,Late delivery,160.33,2024-07-13
+RT-00117,SO-10251,James Hall,Wrong item,50.84,2024-05-13
+RT-00118,SO-10932,Lucas Nguyen,Late delivery,388.16,2025-03-07
+RT-00119,SO-10974,Jack Rivera,Damaged in transit,43.29,2025-03-28
+RT-00120,SO-10946,Ethan Walker,Changed mind,76.98,2025-03-14
+RT-00121,SO-10385,Hudson Reed,Late delivery,116.08,2024-07-07
+RT-00122,SO-10512,Aria Nelson,Damaged in transit,36.63,2024-09-11
+RT-00123,SO-11032,James Hall,Changed mind,134.73,2025-05-02
+RT-00124,SO-10209,Chloe Diaz,Damaged in transit,193.32,2024-04-13
+RT-00125,SO-10452,Noah Patel,Changed mind,361.24,2024-08-19
+RT-00126,SO-10257,Oliver King,Late delivery,135.35,2024-05-19
+RT-00127,SO-10273,Ava Thompson,Changed mind,57.17,2024-05-15
+RT-00128,SO-10500,Ella Lewis,Wrong item,57.15,2024-09-06
+RT-00129,SO-10899,Lucas Nguyen,Changed mind,139.53,2025-03-04
+RT-00130,SO-10432,Lucas Nguyen,Wrong item,53.64,2024-08-06
+RT-00131,SO-10543,Ella Lewis,Damaged in transit,333.02,2024-09-17
+RT-00132,SO-10305,Nora Sanders,Late delivery,314.25,2024-06-07
+RT-00133,SO-10198,Noah Patel,Damaged in transit,61.46,2024-04-14
+RT-00134,SO-10865,Lucas Nguyen,Late delivery,61.46,2025-02-13
+RT-00135,SO-11078,Ethan Walker,Quality issue,179.08,2025-05-21
+RT-00136,SO-10150,Ava Thompson,Quality issue,271.82,2024-03-26
+RT-00137,SO-10329,Abigail Young,Quality issue,81.79,2024-06-11
+RT-00138,SO-10426,Noah Patel,Damaged in transit,239.3,2024-07-25
+RT-00139,SO-10776,Ava Thompson,Late delivery,119.54,2024-12-28
+RT-00140,SO-11173,Jack Rivera,Quality issue,139.47,2025-06-28
+RT-00141,SO-11157,Ethan Brown,Wrong item,155.51,2025-06-18
+RT-00142,SO-11007,Ava Thompson,Damaged in transit,72.09,2025-04-19
+RT-00143,SO-10851,Isabella Garcia,Late delivery,62.87,2025-02-04
+RT-00144,SO-10545,Luna Cooper,Quality issue,229.96,2024-09-24
+RT-00145,SO-10547,Ella Lewis,Quality issue,104.98,2024-09-24
+RT-00146,SO-10833,Lucas Nguyen,Wrong item,59.2,2025-02-02
+RT-00147,SO-10536,Owen Price,Changed mind,1026.54,2024-09-10
+RT-00148,SO-10664,Isabella Garcia,Changed mind,48.27,2024-11-11
+RT-00149,SO-10461,Hudson Reed,Changed mind,54.69,2024-08-19
+RT-00150,SO-10167,Oliver King,Damaged in transit,132.35,2024-03-25
+RT-00151,SO-10691,Harper Wright,Damaged in transit,143.03,2024-11-18
+RT-00152,SO-10017,Chloe Diaz,Quality issue,446.68,2024-01-25
+RT-00153,SO-10654,Noah Patel,Damaged in transit,226.38,2024-11-01
+RT-00154,SO-11099,Scarlet Clark,Quality issue,208.85,2025-05-18
+RT-00155,SO-11210,Ethan Brown,Quality issue,273.69,2025-07-02
+RT-00156,SO-10777,Ava Thompson,Wrong item,59.4,2025-01-05
+RT-00157,SO-11167,Owen Baker,Wrong item,99.15,2025-06-28
+RT-00158,SO-10655,Noah Patel,Quality issue,,2024-11-10
+RT-00159,SO-10170,Lucas Nguyen,Late delivery,62.58,2024-04-09
+RT-00160,SO-10064,Chloe Diaz,Quality issue,83.41,2024-02-14
+RT-00161,SO-10510,Amelia Scott,Quality issue,92.93,2024-08-31
+RT-00162,SO-10773,Ava Thompson,Damaged in transit,474.5,2024-12-27
+RT-00163,SO-10814,Chloe Diaz,Changed mind,265.16,2025-01-12
+RT-00164,SO-10185,Lucas Nguyen,Changed mind,58.53,2024-04-16
+RT-00165,SO-10911,Charlotte Lee,Damaged in transit,136.29,2025-02-21
+RT-00166,SO-10885,Mia Chen,Late delivery,274.16,2025-02-25
+RT-00167,SO-10236,Ava Thompson,Damaged in transit,1315.08,2024-05-01
+RT-00168,SO-10597,Noah Patel,Changed mind,125.76,2024-10-09
+RT-00169,SO-10139,Ava Thompson,Wrong item,326.48,2024-03-23
+RT-00170,SO-10134,Owen Price,Quality issue,226.08,2024-03-21
+RT-00171,SO-10043,Harper Wright,Quality issue,150.54,2024-01-30
+RT-00172,SO-10107,Noah Patel,Wrong item,166.1,2024-03-04
+RT-00173,SO-10537,Ethan Walker,Quality issue,441.7,2024-09-13
+RT-00174,SO-10408,Noah Patel,Late delivery,417.29,2024-07-16
+RT-00175,SO-10924,Evelyn Adams,Damaged in transit,557.07,2025-02-27
+RT-00176,SO-10302,Noah Patel,Changed mind,67.91,2024-06-11
+RT-00177,SO-11187,Lucas Nguyen,Wrong item,383.8,2025-06-19
+RT-00178,SO-11158,Ella Lewis,Quality issue,34.24,2025-06-15
+RT-00179,SO-10405,Owen Baker,Late delivery,475.14,2024-07-17
+RT-00180,SO-10778,Owen Price,Damaged in transit,14.26,2025-01-06
+RT-00181,SO-10187,Lucas Nguyen,Quality issue,86.97,2024-04-13
+RT-00182,SO-11145,Leo Martin,Changed mind,170.64,2025-06-04
+RT-00183,SO-10779,Mason Hill,Wrong item,490.09,2025-01-01
+RT-00184,SO-10854,Ava Thompson,Changed mind,191.61,2025-01-28
+RT-00185,SO-10433,Sofia Kim,Late delivery,474.09,2024-08-07
+RT-00186,SO-10244,Noah Patel,Changed mind,66.61,2024-05-03
+RT-00187,SO-10020,Noah Patel,Changed mind,156.5,2024-01-10
+RT-00188,SO-10683,Evelyn Adams,Wrong item,172.49,2024-11-26
+RT-00189,SO-10129,Henry Green,Wrong item,15.31,2024-03-13
+RT-00190,SO-10247,Ava Thompson,Late delivery,46.64,2024-05-09
+RT-00191,SO-11120,Lucas Nguyen,Damaged in transit,28.25,2025-05-29
+RT-00192,SO-10346,Lucas Nguyen,Wrong item,123.98,2024-06-18
+RT-00193,SO-10514,Harper Wright,Quality issue,222.21,2024-09-14
+RT-00194,SO-10384,Lucas Nguyen,Quality issue,,2024-07-09
+RT-00195,SO-11162,Leo Martin,Late delivery,,2025-06-20
+RT-00196,SO-10420,Ethan Walker,Wrong item,61.26,2024-07-27
+RT-00197,SO-10712,Henry Green,Quality issue,126.4,2024-12-13
+RT-00198,SO-10365,Noah Patel,Wrong item,92.21,2024-07-12
+RT-00199,SO-10692,Harper Wright,Quality issue,552.73,2024-11-27
+RT-00200,SO-10066,Amelia Scott,Late delivery,,2024-02-03
+RT-00201,SO-10453,James Hall,Quality issue,104.01,2024-08-12
+RT-00202,SO-10940,Lucas Nguyen,Late delivery,80.99,2025-03-24
+RT-00203,SO-10459,Lucas Nguyen,Damaged in transit,613.78,2024-08-11
+RT-00204,SO-10258,Ethan Walker,Changed mind,173.55,2024-05-22
+RT-00205,SO-10178,Harper Wright,Quality issue,364.16,2024-04-11
+RT-00206,SO-10665,Aria Nelson,Late delivery,127.16,2024-11-06
+RT-00207,SO-10707,Lucas Nguyen,Changed mind,477.18,2024-11-28
+RT-00208,SO-10923,Aria Nelson,Wrong item,544.11,2025-03-11
+RT-00209,SO-10018,Ava Thompson,Late delivery,67.83,2024-01-10
+RT-00210,SO-10058,Chloe Diaz,Damaged in transit,724.97,2024-02-01
+RT-00211,SO-11025,Ava Thompson,Changed mind,342.73,2025-04-21
+RT-00212,SO-11048,Owen Price,Wrong item,151.78,2025-04-20
+RT-00213,SO-10661,Noah Patel,Late delivery,136.3,2024-11-06
+RT-00214,SO-10533,Owen Baker,Late delivery,102.51,2024-09-24
+RT-00215,SO-10659,Chloe Diaz,Damaged in transit,148.32,2024-11-16
+RT-00216,SO-10002,Noah Patel,Damaged in transit,,2024-01-20
+RT-00217,SO-11124,Ethan Brown,Changed mind,167.58,2025-06-03
+RT-00218,SO-11050,Liam Rodriguez,Damaged in transit,299.82,2025-05-04
+RT-00219,SO-10886,Sofia Kim,Wrong item,249.07,2025-02-11
+RT-00220,SO-11050,Liam Rodriguez,Quality issue,445.34,2025-05-03
+RT-00221,SO-11037,Ava Thompson,Quality issue,32.94,2025-05-04
+RT-00222,SO-11158,Ella Lewis,Late delivery,18.09,2025-06-21
+RT-00223,SO-11085,Sofia Kim,Wrong item,126.36,2025-05-10
+RT-00224,SO-10376,Abigail Young,Late delivery,51.36,2024-07-05
+RT-00225,SO-10581,Sofia Kim,Quality issue,,2024-09-28
+RT-00226,SO-10088,Noah Patel,Changed mind,223.64,2024-02-16
+RT-00227,SO-10532,Ava Thompson,Late delivery,30.15,2024-09-18
+RT-00228,SO-10890,Amelia Scott,Quality issue,828.59,2025-03-02
+RT-00229,SO-10137,Luna Cooper,Late delivery,233.31,2024-03-25
+RT-00230,SO-10372,Nora Sanders,Late delivery,104.04,2024-07-15
+RT-00231,SO-10169,Evelyn Adams,Damaged in transit,224.79,2024-03-29
+RT-00232,SO-10579,Ava Thompson,Wrong item,70.46,2024-09-30
+RT-00233,SO-10292,Amelia Scott,Wrong item,587.8,2024-06-02
+RT-00234,SO-10373,Noah Patel,Late delivery,115.91,2024-07-14
+RT-00235,SO-10117,Ava Thompson,Damaged in transit,,2024-02-29
+RT-00236,SO-10429,Leo Martin,Quality issue,251.91,2024-08-11
+RT-00237,SO-10479,Owen Price,Changed mind,726.04,2024-08-24
+RT-00238,SO-10721,Amelia Scott,Damaged in transit,184.6,2024-12-17
+RT-00239,SO-10887,Noah Patel,Wrong item,407.85,2025-02-28
+RT-00240,SO-10695,Mia Chen,Quality issue,131.33,2024-11-22
+RT-00241,SO-10207,Harper Wright,Damaged in transit,108.15,2024-04-21
+RT-00242,SO-10522,Henry Green,Quality issue,25.86,2024-09-07
+RT-00243,SO-10335,Noah Patel,Damaged in transit,929.36,2024-06-21
+RT-00244,SO-10576,Jack Rivera,Late delivery,371.47,2024-10-11
+RT-00245,SO-10672,Abigail Young,Wrong item,111.54,2024-11-17
+RT-00246,SO-10184,Ava Thompson,Damaged in transit,135.06,2024-04-16
+RT-00247,SO-11214,Henry Green,Wrong item,119.65,2025-07-07
+RT-00248,SO-10132,Evelyn Adams,Damaged in transit,205.98,2024-03-18
+RT-00249,SO-10361,Noah Patel,Damaged in transit,14.68,2024-07-01
+RT-00250,SO-10791,Harper Wright,Changed mind,41.4,2025-01-03
+RT-00251,SO-10539,Ava Thompson,Quality issue,193.67,2024-09-25
+RT-00252,SO-10627,Ava Thompson,Wrong item,27.61,2024-10-23
+RT-00253,SO-10814,Chloe Diaz,Damaged in transit,,2025-01-29
+RT-00254,SO-10924,Evelyn Adams,Damaged in transit,,2025-03-07
+RT-00255,SO-10232,Mason Hill,Changed mind,38.21,2024-05-04
+RT-00256,SO-10376,Abigail Young,Changed mind,85.37,2024-07-11
+RT-00257,SO-10700,Ethan Walker,Damaged in transit,98.97,2024-11-27
+RT-00258,SO-10016,Mason Hill,Late delivery,309.26,2024-01-20
+RT-00259,SO-10411,Ethan Brown,Damaged in transit,173.48,2024-07-29
+RT-00260,SO-10610,Noah Patel,Quality issue,45.15,2024-10-10
+RT-00261,SO-10475,Ella Lewis,Damaged in transit,53.14,2024-08-19
+RT-00262,SO-10704,Harper Wright,Damaged in transit,224.87,2024-11-28
+RT-00263,SO-10645,Chloe Diaz,Damaged in transit,82.75,2024-11-08
+RT-00264,SO-10028,Hudson Reed,Changed mind,94.26,2024-01-25
+RT-00265,SO-10080,Mia Chen,Wrong item,31.39,2024-02-10
+RT-00266,SO-10873,Ethan Walker,Changed mind,50.66,2025-02-16
+RT-00267,SO-10637,Abigail Young,Changed mind,102.82,2024-10-28
+RT-00268,SO-10868,Scarlet Clark,Wrong item,179.96,2025-02-18
+RT-00269,SO-10052,Mason Hill,Wrong item,29.51,2024-02-14
+RT-00270,SO-10627,Ava Thompson,Damaged in transit,22.57,2024-11-05
+RT-00271,SO-10997,Ava Thompson,Damaged in transit,,2025-04-18
+RT-00272,SO-10232,Mason Hill,Late delivery,38.06,2024-04-24
+RT-00273,SO-10382,Luna Cooper,Late delivery,147.73,2024-07-17
+RT-00274,SO-10583,Oliver King,Wrong item,159.36,2024-10-07
+RT-00275,SO-10541,Charlotte Lee,Damaged in transit,607.17,2024-09-13
+RT-00276,SO-10747,Ava Thompson,Damaged in transit,18.81,2024-12-23
+RT-00277,SO-10636,Mia Chen,Quality issue,,2024-11-12
+RT-00278,SO-11121,Noah Patel,Late delivery,51.18,2025-06-02
+RT-00279,SO-10652,Jack Rivera,Late delivery,111.24,2024-11-14
+RT-00280,SO-10735,Ava Thompson,Quality issue,479.48,2024-12-08
+RT-00281,SO-10315,Ava Thompson,Late delivery,759.17,2024-06-21
+RT-00282,SO-10483,Amelia Scott,Quality issue,81.75,2024-08-28
+RT-00283,SO-10822,Mason Hill,Quality issue,102.55,2025-01-21
+RT-00284,SO-10242,Ava Thompson,Damaged in transit,320.89,2024-05-02
+RT-00285,SO-10040,Amelia Scott,Changed mind,195.97,2024-01-26
+RT-00286,SO-10803,Scarlet Clark,Changed mind,78.83,2025-01-17
+RT-00287,SO-10741,Isabella Garcia,Wrong item,17.83,2024-12-19
+RT-00288,SO-10438,Lucas Nguyen,Wrong item,380.8,2024-08-11
+RT-00289,SO-10718,Ava Thompson,Damaged in transit,305.32,2024-12-01
+RT-00290,SO-10626,Ava Thompson,Wrong item,71.7,2024-11-04
+RT-00291,SO-10298,Liam Rodriguez,Late delivery,51.14,2024-06-05
+RT-00292,SO-10463,Jack Rivera,Changed mind,,2024-08-25
+RT-00293,SO-10812,Lucas Nguyen,Changed mind,57.2,2025-01-25
+RT-00294,SO-10571,Ethan Brown,Damaged in transit,73.83,2024-09-28
+RT-00295,SO-10248,Noah Patel,Late delivery,163.44,2024-05-11
+RT-00296,SO-10944,Liam Rodriguez,Late delivery,66.97,2025-03-19
+RT-00297,SO-11123,Amelia Scott,Changed mind,862.94,2025-05-26
+RT-00298,SO-10290,Chloe Diaz,Late delivery,103.79,2024-06-01
+RT-00299,SO-10270,Sofia Kim,Wrong item,56.28,2024-05-28
+RT-00300,SO-10371,Chloe Diaz,Changed mind,74.45,2024-07-10
+RT-00301,SO-10274,Ava Thompson,Changed mind,127.46,2024-06-03
+RT-00302,SO-10847,Harper Wright,Changed mind,245.24,2025-02-03
+RT-00303,SO-11209,Ella Lewis,Late delivery,29.55,2025-06-27
+RT-00304,SO-10483,Amelia Scott,Changed mind,118.01,2024-08-22
+RT-00305,SO-10757,Ava Thompson,Late delivery,56.53,2025-01-02
+RT-00306,SO-10932,Lucas Nguyen,Quality issue,408.68,2025-03-21
+RT-00307,SO-10682,Ava Thompson,Changed mind,768.6,2024-11-21
+RT-00308,SO-10470,Henry Green,Wrong item,29.45,2024-08-10
+RT-00309,SO-11103,Chloe Diaz,Changed mind,104.23,2025-06-03
+RT-00310,SO-11049,Ava Thompson,Wrong item,259.43,2025-04-26
+RT-00311,SO-10571,Ethan Brown,Quality issue,50.39,2024-10-10
+RT-00312,SO-10819,Ella Lewis,Changed mind,81.32,2025-01-25
+RT-00313,SO-10311,Ava Thompson,Late delivery,134.53,2024-06-11
+RT-00314,SO-10380,Leo Martin,Wrong item,41.95,2024-07-17
+RT-00315,SO-10129,Henry Green,Changed mind,18.86,2024-03-06
+RT-00316,SO-10604,Noah Patel,Wrong item,,2024-10-26
+RT-00317,SO-11109,Noah Patel,Changed mind,122.01,2025-05-19
+RT-00318,SO-10376,Abigail Young,Damaged in transit,55.52,2024-07-15
+RT-00319,SO-10687,Noah Patel,Damaged in transit,148.83,2024-12-02
+RT-00320,SO-11157,Ethan Brown,Late delivery,242.86,2025-06-08
+RT-00321,SO-11196,Elijah Torres,Changed mind,,2025-07-07
+RT-00322,SO-10657,Isabella Garcia,Quality issue,539.16,2024-11-13
+RT-00323,SO-10185,Lucas Nguyen,Quality issue,50.18,2024-04-15
+RT-00324,SO-10877,Amelia Scott,Changed mind,107.32,2025-02-14
+RT-00325,SO-10864,Aria Nelson,Changed mind,231.91,2025-02-06
+RT-00326,SO-11110,Chloe Diaz,Damaged in transit,51.81,2025-06-04
+RT-00327,SO-10916,Liam Rodriguez,Wrong item,203.43,2025-03-12
+RT-00328,SO-10142,Lucas Nguyen,Changed mind,31.46,2024-03-11
+RT-00329,SO-10076,Owen Price,Quality issue,174.27,2024-02-08
+RT-00330,SO-10171,Jack Rivera,Damaged in transit,193.51,2024-03-29
+RT-00331,SO-11041,Leo Martin,Wrong item,30.01,2025-04-22
+RT-00332,SO-10757,Ava Thompson,Quality issue,62.74,2025-01-01
+RT-00333,SO-10845,Liam Rodriguez,Late delivery,29.74,2025-02-11
+RT-00334,SO-10332,Owen Price,Quality issue,279.38,2024-06-29
+RT-00335,SO-10844,Lucas Nguyen,Damaged in transit,98.61,2025-01-24
+RT-00336,SO-10031,Scarlet Clark,Late delivery,93.8,2024-02-01
+RT-00337,SO-10710,Lucas Nguyen,Late delivery,418.74,2024-11-27
+RT-00338,SO-10966,Scarlet Clark,Damaged in transit,35.59,2025-03-28
+RT-00339,SO-10775,Scarlet Clark,Damaged in transit,54.29,2024-12-29
+RT-00340,SO-11160,Ava Thompson,Late delivery,401.16,2025-06-23
+RT-00341,SO-11073,Ava Thompson,Changed mind,248.12,2025-04-30
+RT-00342,SO-10070,Ethan Walker,Late delivery,,2024-02-13
+RT-00343,SO-10422,Ava Thompson,Late delivery,75.49,2024-07-30
+RT-00344,SO-10459,Lucas Nguyen,Quality issue,584.08,2024-08-07
+RT-00345,SO-10302,Noah Patel,Quality issue,46.59,2024-05-29
+RT-00346,SO-10082,Charlotte Lee,Wrong item,107.66,2024-02-22
+RT-00347,SO-10015,Lucas Nguyen,Late delivery,95.44,2024-01-08
+RT-00348,SO-10235,Noah Patel,Damaged in transit,170.75,2024-05-05
+RT-00349,SO-10744,Ethan Brown,Changed mind,56.99,2024-12-20
+RT-00350,SO-10159,Sofia Kim,Quality issue,210.46,2024-03-31
+RT-00351,SO-10320,Ava Thompson,Damaged in transit,113.68,2024-06-14
+RT-00352,SO-10842,Noah Patel,Changed mind,722.67,2025-02-06
+RT-00353,SO-11110,Chloe Diaz,Damaged in transit,,2025-05-29
+RT-00354,SO-11219,Elijah Torres,Damaged in transit,460.8,2025-07-04
+RT-00355,SO-10560,Mason Hill,Wrong item,148.21,2024-09-21
+RT-00356,SO-10185,Lucas Nguyen,Damaged in transit,87.87,2024-04-05
+RT-00357,SO-10912,Lucas Nguyen,Quality issue,167.36,2025-02-26
+RT-00358,SO-10340,Ava Thompson,Late delivery,22.49,2024-06-18
+RT-00359,SO-10142,Lucas Nguyen,Late delivery,36.91,2024-03-26
+RT-00360,SO-10813,Nora Sanders,Changed mind,41.05,2025-01-24
+RT-00361,SO-11106,Oliver King,Late delivery,107.1,2025-05-20
+RT-00362,SO-10904,Jack Rivera,Quality issue,114.2,2025-02-26
+RT-00363,SO-11128,Aria Nelson,Changed mind,89.88,2025-05-31
+RT-00364,SO-10257,Oliver King,Changed mind,162.56,2024-05-10
+RT-00365,SO-11060,James Hall,Late delivery,205.03,2025-04-29
+RT-00366,SO-10770,Lucas Nguyen,Quality issue,222.19,2025-01-06
+RT-00367,SO-10718,Ava Thompson,Changed mind,295.22,2024-12-02
+RT-00368,SO-10664,Isabella Garcia,Wrong item,67.07,2024-11-13
+RT-00369,SO-10149,Ava Thompson,Wrong item,140.58,2024-03-20
+RT-00370,SO-10664,Isabella Garcia,Damaged in transit,46.37,2024-11-14
+RT-00371,SO-10539,Ava Thompson,Late delivery,143.94,2024-09-24
+RT-00372,SO-10553,Oliver King,Changed mind,307.53,2024-09-21
+RT-00373,SO-10318,Liam Rodriguez,Quality issue,644.96,2024-06-06
+RT-00374,SO-10937,Ava Thompson,Damaged in transit,96.19,2025-03-22
+RT-00375,SO-10298,Liam Rodriguez,Late delivery,62.94,2024-06-06
+RT-00376,SO-10771,Noah Patel,Changed mind,77.54,2025-01-05
+RT-00377,SO-10303,Isabella Garcia,Quality issue,156.44,2024-06-11
+RT-00378,SO-10693,Mia Chen,Quality issue,110.93,2024-12-06
+RT-00379,SO-10966,Scarlet Clark,Wrong item,40.92,2025-04-09
+RT-00380,SO-10267,Harper Wright,Wrong item,253.4,2024-05-23
+RT-00381,SO-10560,Mason Hill,Quality issue,152.95,2024-10-08
+RT-00382,SO-11046,Ella Lewis,Wrong item,69.33,2025-05-05
+RT-00383,SO-11195,Lucas Nguyen,Changed mind,109.23,2025-06-25
+RT-00384,SO-10241,Leo Martin,Changed mind,867.85,2024-04-29
+RT-00385,SO-10514,Harper Wright,Damaged in transit,311.33,2024-09-17
+RT-00386,SO-10028,Hudson Reed,Wrong item,102.39,2024-02-01
+RT-00387,SO-10898,Owen Baker,Late delivery,339.79,2025-02-16
+RT-00388,SO-11132,Ava Thompson,Changed mind,94.85,2025-06-10
+RT-00389,SO-10754,Noah Patel,Late delivery,94.05,2024-12-17
+RT-00390,SO-10420,Ethan Walker,Late delivery,80.45,2024-07-22
+RT-00391,SO-10829,Lucas Nguyen,Damaged in transit,45.58,2025-01-22
+RT-00392,SO-10873,Ethan Walker,Quality issue,72.93,2025-02-13
+RT-00393,SO-10041,Noah Patel,Changed mind,110.42,2024-01-25
+RT-00394,SO-10064,Chloe Diaz,Changed mind,73.56,2024-02-03
+RT-00395,SO-10201,Ava Thompson,Damaged in transit,345.84,2024-04-13
+RT-00396,SO-10212,Elijah Torres,Wrong item,83.46,2024-04-28
+RT-00397,SO-10738,Ava Thompson,Damaged in transit,,2024-12-17
+RT-00398,SO-10486,Noah Patel,Changed mind,212.65,2024-08-28
+RT-00399,SO-10153,Ava Thompson,Wrong item,67.71,2024-03-14
+RT-00400,SO-10149,Ava Thompson,Wrong item,218.24,2024-03-27
+RT-00401,SO-10544,Noah Patel,Changed mind,73.65,2024-09-29
+RT-00402,SO-10120,Lucas Nguyen,Wrong item,115.77,2024-03-10
+RT-00403,SO-10319,Ava Thompson,Wrong item,26.61,2024-06-07
+RT-00404,SO-11008,Lucas Nguyen,Wrong item,126.8,2025-04-18
+RT-00405,SO-10646,Luna Cooper,Changed mind,25.73,2024-11-14
+RT-00406,SO-10433,Sofia Kim,Damaged in transit,631.92,2024-07-29
+RT-00407,SO-10166,Noah Patel,Damaged in transit,70.31,2024-03-25
+RT-00408,SO-10009,Noah Patel,Damaged in transit,49.47,2024-01-14
+RT-00409,SO-10674,Ella Lewis,Quality issue,270.54,2024-11-28
+RT-00410,SO-10462,Sofia Kim,Late delivery,98.76,2024-08-21
+RT-00411,SO-10225,Liam Rodriguez,Wrong item,,2024-04-21
+RT-00412,SO-10623,Nora Sanders,Wrong item,128.24,2024-10-24
+RT-00413,SO-11049,Ava Thompson,Late delivery,268.44,2025-04-26
+RT-00414,SO-10365,Noah Patel,Changed mind,79.08,2024-07-09
+RT-00415,SO-10298,Liam Rodriguez,Quality issue,93,2024-05-27
+RT-00416,SO-10400,Ava Thompson,Changed mind,316.84,2024-07-13
+RT-00417,SO-11153,Lucas Nguyen,Late delivery,360.83,2025-06-21
+RT-00418,SO-10768,Evelyn Adams,Wrong item,232.43,2024-12-27
+RT-00419,SO-10749,Luna Cooper,Late delivery,,2024-12-20
+RT-00420,SO-11032,James Hall,Damaged in transit,128.59,2025-05-01

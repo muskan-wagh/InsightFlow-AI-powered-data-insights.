@@ -1,0 +1,1224 @@
+order_id,order_date,region,product_category,product_name,customer_name,quantity,currency,unit_price,discount,revenue,sales_channel
+SO-10001,2024-01-01,West,Sports,Cycling Helmet,Owen Baker,4,USD,63.45,0.1,228.42,Partner
+SO-10002,2024-01-01,North,Electronics,Wireless Keyboard,Noah Patel,1,USD,87.19,0,87.19,Retail Store
+SO-10003,2024-01-01,Central,Electronics,USB-C Hub 8-in-1,Liam Rodriguez,1,USD,63.97,0,63.97,Retail Store
+SO-10004,2024-01-02,East,Electronics,Noise-Cancelling Headphones,Noah Patel,1,USD,227.56,0.05,216.18,Partner
+SO-10005,2024-01-02,West,Sports,Trail Running Shoes,Ethan Walker,1,USD,148.93,0,148.93,Retail Store
+SO-10006,2024-01-03,East,Books,Growth Analytics 101,James Hall,1,USD,23.06,0,23.06,Online
+SO-10007,2024-01-03,South,Home & Kitchen,Stand Mixer,Noah Patel,2,USD,192.59,0,385.18,Partner
+SO-10008,2024-01-04,Central,Beauty,Ceramic Hair Dryer,Chloe Diaz,1,USD,93.08,0,93.08,Retail Store
+SO-10009,2024-01-04,East,Electronics,USB-C Hub 8-in-1,Noah Patel,1,USD,61.28,0.1,55.15,Online
+SO-10010,2024-01-05,West,Electronics,Wireless Keyboard,Noah Patel,1,USD,90.24,0.1,81.22,Online
+SO-10011,2024-01-05,Central,Beauty,Ceramic Hair Dryer,Noah Patel,2,USD,96.22,0.15,163.57,Retail Store
+SO-10012,2024-01-06,North,Beauty,Lavender Candle Set,Ethan Brown,3,USD,33.11,0.05,94.36,Online
+SO-10013,2024-01-06,Central,Books,Design Systems Handbook,Evelyn Adams,3,USD,49.59,0.05,141.33,Partner
+SO-10014,2024-01-06,South,Electronics,Smart Watch S2,Lucas Nguyen,1,USD,390.74,0.1,351.67,Partner
+SO-10015,2024-01-07,West,Beauty,Lavender Candle Set,Lucas Nguyen,3,USD,33.16,0,99.48,Retail Store
+SO-10016,2024-01-07,West,Home & Kitchen,Espresso Machine,Mason Hill,2,USD,154.67,0,309.34,Online
+SO-10017,2024-01-07,East,Electronics,Smart Watch S2,Chloe Diaz,2,USD,406.45,0.05,772.26,Partner
+SO-10018,2024-01-08,East,Home & Kitchen,Espresso Machine,Ava Thompson,1,USD,136.62,0.05,129.79,Partner
+SO-10019,2024-01-08,Central,Home & Kitchen,Espresso Machine,Luna Cooper,3,USD,142.17,0.05,405.18,Online
+SO-10020,2024-01-09,West,Electronics,Noise-Cancelling Headphones,Noah Patel,1,USD,255.33,0,255.33,Partner
+SO-10021,2024-01-09,South,Beauty,Ceramic Hair Dryer,Ava Thompson,1,USD,86.46,0.1,77.81,Online
+SO-10022,2024-01-10,East,Sports,Yoga Mat Pro,Noah Patel,1,USD,76.28,0,76.28,Partner
+SO-10023,2024-01-10,East,Beauty,Ceramic Hair Dryer,Lucas Nguyen,1,USD,84.55,0,84.55,Retail Store
+SO-10024,2024-01-11,East,Books,Growth Analytics 101,Ava Thompson,1,USD,22.66,0,22.66,Retail Store
+SO-10025,2024-01-11,West,Electronics,4K Action Camera,Henry Green,2,USD,162.68,0.1,292.82,Retail Store
+SO-10026,2024-01-12,South,Electronics,USB-C Hub 8-in-1,Mason Hill,3,USD,56.2,0,168.6,Online
+SO-10027,2024-01-13,South,Beauty,Lavender Candle Set,Evelyn Adams,2,USD,32.72,0,65.44,Retail Store
+SO-10028,2024-01-13,South,Books,Design Systems Handbook,Hudson Reed,2,USD,54.3,0,108.6,Online
+SO-10029,2024-01-13,West,Electronics,Noise-Cancelling Headphones,Nora Sanders,3,USD,248.2,0.1,670.14,Online
+SO-10030,2024-01-14,East,Sports,Trail Running Shoes,Lucas Nguyen,2,USD,129.92,0.1,233.86,Retail Store
+SO-10031,2024-01-14,South,Beauty,Lavender Candle Set,Scarlet Clark,3,USD,36.12,0.05,102.94,Partner
+SO-10032,2024-01-14,South,Books,Design Systems Handbook,Leo Martin,1,USD,50.81,0,50.81,Retail Store
+SO-10033,2024-01-15,East,Home & Kitchen,Nonstick Cookware Set,Nora Sanders,1,USD,110.1,0,110.1,Partner
+SO-10034,2024-01-15,West,Beauty,Lavender Candle Set,Leo Martin,2,USD,38.35,0,76.7,Online
+SO-10035,2024-01-16,East,Books,Design Systems Handbook,Sofia Kim,2,USD,49.7,0,99.4,Partner
+SO-10036,2024-01-16,Central,Electronics,Noise-Cancelling Headphones,Mia Chen,2,USD,252.74,0,505.48,Partner
+SO-10037,2024-01-17,West,Sports,Adjustable Dumbbells,Aria Nelson,2,USD,246.38,0.05,468.12,Partner
+SO-10038,2024-01-18,West,Electronics,4K Action Camera,Noah Patel,2,USD,181.1,0.15,307.87,Retail Store
+SO-10039,2024-01-19,East,Home & Kitchen,Nonstick Cookware Set,Mia Chen,1,USD,128.27,0,128.27,Online
+SO-10040,2024-01-20,East,Home & Kitchen,Nonstick Cookware Set,Amelia Scott,3,USD,118.83,0,356.49,Retail Store
+SO-10041,2024-01-21,West,Books,Design Systems Handbook,Noah Patel,3,USD,53.01,0.15,135.18,Retail Store
+SO-10042,2024-01-21,West,Home & Kitchen,Stand Mixer,Aria Nelson,1,USD,212.25,0.15,180.41,Partner
+SO-10043,2024-01-21,West,Electronics,4K Action Camera,Harper Wright,1,USD,175.78,0.05,166.99,Retail Store
+SO-10044,2024-01-22,West,Beauty,Ceramic Hair Dryer,Noah Patel,1,USD,93.57,0,93.57,Retail Store
+SO-10045,2024-01-23,North,Home & Kitchen,Nonstick Cookware Set,Isabella Garcia,1,USD,117.96,0.05,112.06,Online
+SO-10046,2024-01-23,South,Sports,Cycling Helmet,Evelyn Adams,4,USD,63.45,0.1,228.42,Online
+SO-10047,2024-01-24,North,Books,The Data Cookbook,Abigail Young,2,USD,42.41,0,84.82,Retail Store
+SO-10048,2024-01-24,East,Electronics,Smart Watch S2,Elijah Torres,3,USD,425.34,0.1,1148.42,Retail Store
+SO-10049,2024-01-25,South,Sports,Trail Running Shoes,Amelia Scott,3,USD,149.25,0,447.75,Partner
+SO-10050,2024-01-26,West,Sports,Cycling Helmet,Evelyn Adams,1,USD,65.29,0,65.29,Partner
+SO-10051,2024-01-26,West,Sports,Trail Running Shoes,Chloe Diaz,1,USD,128.6,0.1,115.74,Retail Store
+SO-10052,2024-01-27,West,Books,Growth Analytics 101,Mason Hill,2,USD,26.89,0,53.78,Retail Store
+SO-10053,2024-01-27,West,Home & Kitchen,Stand Mixer,Harper Wright,2,USD,220.83,0,441.66,Partner
+SO-10054,2024-01-27,South,Books,The Data Cookbook,Noah Patel,1,USD,37.06,0,37.06,Partner
+SO-10055,2024-01-28,Central,Sports,Cycling Helmet,Noah Patel,3,USD,68.2,0,204.6,Partner
+SO-10056,2024-01-28,Central,Electronics,Wireless Keyboard,Lucas Nguyen,2,USD,83.3,0,166.6,Online
+SO-10057,2024-01-28,North,Books,The Data Cookbook,Luna Cooper,1,USD,43.46,0.15,36.94,Retail Store
+SO-10058,2024-01-29,West,Home & Kitchen,Robot Vacuum E5,Chloe Diaz,3,USD,280.95,0,842.85,Retail Store
+SO-10059,2024-01-29,South,Beauty,Facial Serum 30ml,Aria Nelson,3,USD,41.61,0,124.83,Retail Store
+SO-10060,2024-01-30,West,Books,Growth Analytics 101,Ethan Brown,1,USD,26.18,0.15,22.25,Retail Store
+SO-10061,2024-01-30,West,Sports,Yoga Mat Pro,Ava Thompson,1,USD,82.02,0,82.02,Partner
+SO-10062,2024-01-31,West,Home & Kitchen,Stand Mixer,Lucas Nguyen,1,USD,199.82,0.1,179.84,Online
+SO-10063,2024-01-31,South,Home & Kitchen,Nonstick Cookware Set,Ethan Walker,3,USD,125.74,0,377.22,Retail Store
+SO-10064,2024-01-31,West,Beauty,Facial Serum 30ml,Chloe Diaz,3,USD,46.97,0,140.91,Retail Store
+SO-10065,2024-02-01,East,Beauty,Ceramic Hair Dryer,Mia Chen,2,USD,84.64,0.15,143.89,Retail Store
+SO-10066,2024-02-02,North,Sports,Yoga Mat Pro,Amelia Scott,2,USD,78.91,0.1,142.04,Partner
+SO-10067,2024-02-02,East,Home & Kitchen,Espresso Machine,Noah Patel,1,USD,153.84,0.05,146.15,Online
+SO-10068,2024-02-03,East,Sports,Adjustable Dumbbells,Noah Patel,2,USD,222.42,0.1,400.36,Retail Store
+SO-10069,2024-02-03,West,Beauty,Facial Serum 30ml,Leo Martin,1,USD,42.49,0.05,40.37,Partner
+SO-10070,2024-02-03,South,Electronics,Smart Watch S2,Ethan Walker,1,USD,413.57,0,413.57,Partner
+SO-10071,2024-02-04,West,Sports,Cycling Helmet,Scarlet Clark,1,USD,68.2,0,68.2,Online
+SO-10072,2024-02-04,Central,Sports,Trail Running Shoes,Noah Patel,4,USD,127.82,0.15,434.59,Online
+SO-10073,2024-02-04,East,Beauty,Facial Serum 30ml,Noah Patel,3,USD,47.03,0.05,134.04,Retail Store
+SO-10074,2024-02-05,South,Beauty,Lavender Candle Set,Ethan Brown,4,USD,32.23,0,128.92,Retail Store
+SO-10075,2024-02-05,West,Electronics,USB-C Hub 8-in-1,Owen Baker,1,USD,65.71,0,65.71,Online
+SO-10076,2024-02-06,South,Sports,Yoga Mat Pro,Owen Price,3,USD,81.15,0,243.45,Retail Store
+SO-10077,2024-02-06,East,Beauty,Facial Serum 30ml,Isabella Garcia,2,USD,47.87,0.05,90.95,Online
+SO-10078,2024-02-07,South,Sports,Trail Running Shoes,Aria Nelson,3,USD,133.63,0,400.89,Retail Store
+SO-10079,2024-02-07,North,Home & Kitchen,Espresso Machine,Hudson Reed,3,USD,155.97,0,467.91,Partner
+SO-10080,2024-02-08,East,Sports,Cycling Helmet,Mia Chen,1,USD,62.45,0,62.45,Retail Store
+SO-10081,2024-02-08,West,Books,Growth Analytics 101,Elijah Torres,1,USD,26.13,0.15,22.21,Online
+SO-10082,2024-02-09,West,Sports,Trail Running Shoes,Charlotte Lee,1,USD,147.09,0,147.09,Retail Store
+SO-10083,2024-02-10,South,Sports,Trail Running Shoes,Amelia Scott,1,USD,145.21,0,145.21,Partner
+SO-10084,2024-02-10,South,Electronics,USB-C Hub 8-in-1,Noah Patel,1,USD,61.28,0,61.28,Online
+SO-10085,2024-02-11,West,Books,The Data Cookbook,Owen Price,3,USD,39.31,0.15,100.24,Partner
+SO-10086,2024-02-11,West,Beauty,Ceramic Hair Dryer,Lucas Nguyen,3,USD,84.67,0.05,241.31,Retail Store
+SO-10087,2024-02-12,West,Electronics,Smart Watch S2,Leo Martin,3,USD,366.65,0.15,934.96,Retail Store
+SO-10088,2024-02-12,West,Beauty,Ceramic Hair Dryer,Noah Patel,3,USD,91.4,0,274.2,Partner
+SO-10089,2024-02-13,East,Electronics,Wireless Keyboard,Noah Patel,4,USD,91.2,0.05,346.56,Retail Store
+SO-10090,2024-02-13,West,Sports,Adjustable Dumbbells,Isabella Garcia,3,USD,221.27,0,663.81,Retail Store
+SO-10091,2024-02-14,North,Electronics,4K Action Camera,James Hall,1,USD,175.77,0,175.77,Online
+SO-10092,2024-02-15,North,Sports,Cycling Helmet,Mason Hill,2,USD,65.66,0,131.32,Partner
+SO-10093,2024-02-15,West,Beauty,Lavender Candle Set,Oliver King,1,USD,37.69,0,37.69,Retail Store
+SO-10094,2024-02-16,West,Beauty,Ceramic Hair Dryer,Charlotte Lee,1,USD,95.57,0,95.57,Partner
+SO-10095,2024-02-16,North,Books,The Data Cookbook,Noah Patel,1,USD,41.04,0,41.04,Retail Store
+SO-10096,2024-02-17,West,Electronics,USB-C Hub 8-in-1,Mia Chen,4,USD,57.5,0.1,207,Retail Store
+SO-10097,2024-02-17,East,Books,Design Systems Handbook,Leo Martin,4,USD,47.24,0,188.96,Online
+SO-10098,2024-02-18,Central,Home & Kitchen,Robot Vacuum E5,Noah Patel,3,USD,303.19,0.05,864.09,Retail Store
+SO-10099,2024-02-18,Central,Beauty,Lavender Candle Set,Amelia Scott,1,USD,37.68,0,37.68,Partner
+SO-10100,2024-02-19,East,Home & Kitchen,Espresso Machine,Lucas Nguyen,2,USD,141.9,0.05,269.61,Online
+SO-10101,2024-02-19,East,Books,The Data Cookbook,Ethan Walker,2,USD,41.75,0,83.5,Partner
+SO-10102,2024-02-20,West,Books,Design Systems Handbook,Lucas Nguyen,3,USD,53.26,0,159.78,Retail Store
+SO-10103,2024-02-20,Central,Home & Kitchen,Air Purifier XL,Noah Patel,2,USD,121.68,0.1,219.02,Online
+SO-10104,2024-02-21,Central,Sports,Cycling Helmet,Ava Thompson,1,USD,59,0.1,53.1,Retail Store
+SO-10105,2024-02-21,West,Home & Kitchen,Nonstick Cookware Set,Owen Price,1,USD,123.75,0,123.75,Retail Store
+SO-10106,2024-02-22,West,Sports,Cycling Helmet,Scarlet Clark,1,USD,67.17,0,67.17,Partner
+SO-10107,2024-02-22,East,Electronics,Noise-Cancelling Headphones,Noah Patel,1,USD,234.52,0,234.52,Online
+SO-10108,2024-02-22,West,Sports,Adjustable Dumbbells,Amelia Scott,4,USD,209.51,0.05,796.14,Retail Store
+SO-10109,2024-02-23,East,Sports,Adjustable Dumbbells,Hudson Reed,3,USD,212.05,0.15,540.73,Retail Store
+SO-10110,2024-02-23,North,Electronics,4K Action Camera,Charlotte Lee,4,USD,188.25,0,753,Partner
+SO-10111,2024-02-24,South,Electronics,USB-C Hub 8-in-1,Ava Thompson,3,USD,58.5,0,175.5,Online
+SO-10112,2024-02-24,South,Home & Kitchen,Espresso Machine,Noah Patel,3,USD,147.79,0.15,376.86,Online
+SO-10113,2024-02-25,South,Sports,Adjustable Dumbbells,Evelyn Adams,4,USD,250.58,0,1002.32,Partner
+SO-10114,2024-02-25,East,Electronics,4K Action Camera,Mia Chen,4,USD,168.27,0,673.08,Online
+SO-10115,2024-02-26,North,Beauty,Ceramic Hair Dryer,Ava Thompson,4,USD,87.11,0,348.44,Partner
+SO-10116,2024-02-26,South,Electronics,Wireless Keyboard,Lucas Nguyen,1,USD,90.08,0.15,76.57,Partner
+SO-10117,2024-02-27,South,Books,Design Systems Handbook,Ava Thompson,1,USD,46.86,0,46.86,Partner
+SO-10118,2024-02-28,West,Books,Growth Analytics 101,Oliver King,1,USD,23.6,0.1,21.24,Online
+SO-10119,2024-02-28,South,Home & Kitchen,Espresso Machine,Jack Rivera,3,USD,147.35,0.15,375.74,Online
+SO-10120,2024-02-29,East,Sports,Cycling Helmet,Lucas Nguyen,2,USD,66.65,0.1,119.97,Retail Store
+SO-10121,2024-02-29,West,Beauty,Lavender Candle Set,Owen Baker,3,USD,35.47,0,106.41,Online
+SO-10122,2024-03-01,East,Books,Growth Analytics 101,Sofia Kim,2,USD,25.95,0.15,44.11,Partner
+SO-10123,2024-03-01,South,Beauty,Lavender Candle Set,Lucas Nguyen,1,USD,37.99,0,37.99,Online
+SO-10124,2024-03-02,West,Sports,Trail Running Shoes,Owen Price,3,USD,135.11,0,405.33,Online
+SO-10125,2024-03-02,East,Books,The Data Cookbook,Abigail Young,2,USD,36.22,0,72.44,Partner
+SO-10126,2024-03-02,West,Home & Kitchen,Espresso Machine,Ethan Walker,1,USD,139.79,0.05,132.8,Partner
+SO-10127,2024-03-03,North,Beauty,Ceramic Hair Dryer,Ava Thompson,3,USD,92.34,0.15,235.47,Retail Store
+SO-10128,2024-03-03,Central,Books,Growth Analytics 101,Sofia Kim,3,USD,25.71,0,77.13,Partner
+SO-10129,2024-03-03,East,Books,Growth Analytics 101,Henry Green,1,USD,24.98,0,24.98,Retail Store
+SO-10130,2024-03-04,West,Electronics,Noise-Cancelling Headphones,Noah Patel,3,USD,226.74,0.15,578.19,Online
+SO-10131,2024-03-04,West,Books,The Data Cookbook,Ethan Brown,1,USD,37.46,0,37.46,Online
+SO-10132,2024-03-05,Central,Home & Kitchen,Air Purifier XL,Evelyn Adams,2,USD,121.92,0,243.84,Online
+SO-10133,2024-03-06,Central,Books,Growth Analytics 101,Mia Chen,1,USD,26.32,0,26.32,Online
+SO-10134,2024-03-06,West,Home & Kitchen,Espresso Machine,Owen Price,2,USD,155.1,0,310.2,Online
+SO-10135,2024-03-07,North,Home & Kitchen,Espresso Machine,James Hall,1,USD,152.19,0.05,144.58,Retail Store
+SO-10136,2024-03-07,East,Beauty,Lavender Candle Set,Elijah Torres,1,USD,34.49,0.1,31.04,Online
+SO-10137,2024-03-07,West,Beauty,Ceramic Hair Dryer,Luna Cooper,3,USD,92.14,0.05,262.6,Online
+SO-10138,2024-03-08,West,Beauty,Lavender Candle Set,Ava Thompson,2,USD,36.94,0.1,66.49,Retail Store
+SO-10139,2024-03-08,West,Home & Kitchen,Air Purifier XL,Ava Thompson,3,USD,140.34,0.15,357.87,Online
+SO-10140,2024-03-09,East,Books,Design Systems Handbook,Ella Lewis,4,USD,46.73,0.05,177.57,Partner
+SO-10141,2024-03-09,West,Sports,Trail Running Shoes,Hudson Reed,1,USD,134.94,0,134.94,Retail Store
+SO-10142,2024-03-09,West,Beauty,Facial Serum 30ml,Lucas Nguyen,1,USD,42.09,0,42.09,Retail Store
+SO-10143,2024-03-10,West,Home & Kitchen,Nonstick Cookware Set,Ethan Brown,1,USD,130.1,0,130.1,Online
+SO-10144,2024-03-10,West,Electronics,USB-C Hub 8-in-1,Ava Thompson,1,USD,60.69,0.15,51.59,Retail Store
+SO-10145,2024-03-11,South,Beauty,Ceramic Hair Dryer,Liam Rodriguez,2,USD,86.02,0.05,163.44,Partner
+SO-10146,2024-03-11,West,Sports,Adjustable Dumbbells,Aria Nelson,1,USD,219.57,0.05,208.59,Partner
+SO-10147,2024-03-11,North,Home & Kitchen,Stand Mixer,Nora Sanders,1,USD,189.66,0.05,180.18,Partner
+SO-10148,2024-03-12,South,Electronics,Wireless Keyboard,Noah Patel,3,USD,86.46,0.1,233.44,Retail Store
+SO-10149,2024-03-12,North,Home & Kitchen,Nonstick Cookware Set,Ava Thompson,2,USD,113.13,0,226.26,Partner
+SO-10150,2024-03-13,West,Electronics,4K Action Camera,Ava Thompson,2,USD,182.57,0.05,346.88,Retail Store
+SO-10151,2024-03-13,East,Electronics,Noise-Cancelling Headphones,Luna Cooper,1,USD,251.39,0,251.39,Retail Store
+SO-10152,2024-03-14,West,Sports,Trail Running Shoes,Mason Hill,1,USD,143.13,0,143.13,Online
+SO-10153,2024-03-14,West,Sports,Trail Running Shoes,Ava Thompson,1,USD,136.67,0.15,116.17,Retail Store
+SO-10154,2024-03-14,West,Electronics,Noise-Cancelling Headphones,Charlotte Lee,3,USD,238.97,0.05,681.06,Retail Store
+SO-10155,2024-03-15,Central,Electronics,Smart Watch S2,James Hall,1,USD,403.93,0,403.93,Online
+SO-10156,2024-03-16,West,Books,Growth Analytics 101,Harper Wright,1,USD,25.51,0.05,24.23,Online
+SO-10157,2024-03-17,East,Sports,Cycling Helmet,Ava Thompson,2,USD,65.11,0,130.22,Retail Store
+SO-10158,2024-03-17,South,Home & Kitchen,Espresso Machine,Noah Patel,1,USD,163.66,0,163.66,Retail Store
+SO-10159,2024-03-18,West,Home & Kitchen,Stand Mixer,Sofia Kim,1,USD,228.51,0,228.51,Online
+SO-10160,2024-03-18,Central,Home & Kitchen,Air Purifier XL,Noah Patel,3,USD,130.18,0,390.54,Online
+SO-10161,2024-03-19,West,Electronics,USB-C Hub 8-in-1,Mia Chen,1,USD,54.76,0.15,46.55,Partner
+SO-10162,2024-03-20,East,Home & Kitchen,Air Purifier XL,Nora Sanders,3,USD,128.32,0.05,365.71,Retail Store
+SO-10163,2024-03-20,North,Home & Kitchen,Stand Mixer,Noah Patel,3,USD,206.69,0.15,527.06,Online
+SO-10164,2024-03-21,West,Books,The Data Cookbook,Ava Thompson,1,USD,38.99,0,38.99,Retail Store
+SO-10165,2024-03-21,West,Electronics,Wireless Keyboard,Nora Sanders,4,USD,92.36,0,369.44,Partner
+SO-10166,2024-03-22,West,Books,Design Systems Handbook,Noah Patel,2,USD,47.61,0.15,80.94,Partner
+SO-10167,2024-03-22,West,Sports,Adjustable Dumbbells,Oliver King,1,USD,215.76,0,215.76,Online
+SO-10168,2024-03-22,West,Electronics,Wireless Keyboard,Owen Price,2,USD,89.99,0.15,152.98,Online
+SO-10169,2024-03-23,East,Home & Kitchen,Air Purifier XL,Evelyn Adams,2,USD,118.66,0.05,225.45,Partner
+SO-10170,2024-03-23,South,Beauty,Facial Serum 30ml,Lucas Nguyen,2,USD,44.12,0.1,79.42,Online
+SO-10171,2024-03-23,Central,Home & Kitchen,Robot Vacuum E5,Jack Rivera,1,USD,273.73,0,273.73,Partner
+SO-10172,2024-03-24,West,Home & Kitchen,Nonstick Cookware Set,Scarlet Clark,3,USD,116.74,0.05,332.71,Partner
+SO-10173,2024-03-24,East,Home & Kitchen,Nonstick Cookware Set,Ethan Brown,1,USD,124.22,0.15,105.59,Online
+SO-10174,2024-03-25,Central,Electronics,4K Action Camera,Charlotte Lee,1,USD,188.88,0,188.88,Online
+SO-10175,2024-03-25,North,Books,Design Systems Handbook,Lucas Nguyen,2,USD,47.68,0.05,90.59,Partner
+SO-10176,2024-03-25,East,Sports,Yoga Mat Pro,Owen Price,2,USD,80.73,0,161.46,Online
+SO-10177,2024-03-26,North,Home & Kitchen,Stand Mixer,Ava Thompson,2,USD,206.01,0.1,370.82,Online
+SO-10178,2024-03-27,South,Home & Kitchen,Stand Mixer,Harper Wright,2,USD,222.89,0.1,401.2,Partner
+SO-10179,2024-03-27,West,Electronics,4K Action Camera,Sofia Kim,2,USD,186.48,0,372.96,Partner
+SO-10180,2024-03-28,West,Sports,Adjustable Dumbbells,Chloe Diaz,3,USD,245.49,0,736.47,Partner
+SO-10181,2024-03-28,South,Beauty,Ceramic Hair Dryer,Jack Rivera,3,USD,90.92,0,272.76,Online
+SO-10182,2024-03-29,South,Sports,Yoga Mat Pro,Oliver King,1,USD,80.89,0,80.89,Online
+SO-10183,2024-03-29,South,Electronics,Smart Watch S2,Mason Hill,1,USD,384.06,0.05,364.86,Partner
+SO-10184,2024-03-30,North,Electronics,4K Action Camera,Ava Thompson,1,USD,175.83,0,175.83,Retail Store
+SO-10185,2024-03-30,West,Beauty,Lavender Candle Set,Lucas Nguyen,3,USD,32.78,0,98.34,Retail Store
+SO-10186,2024-03-30,East,Electronics,USB-C Hub 8-in-1,Mia Chen,1,USD,54.11,0.1,48.7,Online
+SO-10187,2024-03-31,Central,Sports,Trail Running Shoes,Lucas Nguyen,1,USD,146.39,0.1,131.75,Retail Store
+SO-10188,2024-03-31,Central,Beauty,Facial Serum 30ml,Owen Baker,3,USD,46.55,0.05,132.67,Online
+SO-10189,2024-03-31,West,Beauty,Ceramic Hair Dryer,Luna Cooper,3,USD,92.17,0,276.51,Online
+SO-10190,2024-04-01,East,Electronics,4K Action Camera,Henry Green,3,USD,178.33,0.15,454.74,Retail Store
+SO-10191,2024-04-01,East,Sports,Adjustable Dumbbells,Amelia Scott,3,USD,238.84,0,716.52,Online
+SO-10192,2024-04-02,West,Books,Design Systems Handbook,Noah Patel,2,USD,54.42,0,108.84,Partner
+SO-10193,2024-04-03,North,Books,Design Systems Handbook,Sofia Kim,2,USD,45.27,0.15,76.96,Partner
+SO-10194,2024-04-03,Central,Beauty,Ceramic Hair Dryer,Ava Thompson,4,USD,88.71,0,354.84,Retail Store
+SO-10195,2024-04-04,South,Books,The Data Cookbook,Isabella Garcia,2,USD,43.13,0,86.26,Partner
+SO-10196,2024-04-04,Central,Books,The Data Cookbook,Noah Patel,1,USD,38.3,0,38.3,Retail Store
+SO-10197,2024-04-05,West,Beauty,Facial Serum 30ml,James Hall,1,USD,49.17,0.05,46.71,Partner
+SO-10198,2024-04-05,North,Sports,Trail Running Shoes,Noah Patel,1,USD,128.02,0.1,115.22,Retail Store
+SO-10199,2024-04-06,East,Electronics,4K Action Camera,Elijah Torres,3,USD,162.01,0.05,461.73,Online
+SO-10200,2024-04-06,North,Books,Design Systems Handbook,Aria Nelson,4,USD,50.62,0,202.48,Retail Store
+SO-10201,2024-04-07,East,Sports,Trail Running Shoes,Ava Thompson,3,USD,140.68,0.05,400.94,Retail Store
+SO-10202,2024-04-07,West,Books,Growth Analytics 101,Ava Thompson,1,USD,23.99,0.05,22.79,Online
+SO-10203,2024-04-08,North,Beauty,Facial Serum 30ml,Noah Patel,2,USD,45.94,0.1,82.69,Retail Store
+SO-10204,2024-04-09,Central,Home & Kitchen,Robot Vacuum E5,Mia Chen,4,USD,281.13,0.05,1068.29,Retail Store
+SO-10205,2024-04-10,East,Beauty,Facial Serum 30ml,Lucas Nguyen,2,USD,46.18,0.15,78.51,Online
+SO-10206,2024-04-10,North,Home & Kitchen,Nonstick Cookware Set,Noah Patel,2,USD,124.01,0.15,210.82,Online
+SO-10207,2024-04-11,East,Home & Kitchen,Espresso Machine,Harper Wright,1,USD,144.28,0.15,122.64,Online
+SO-10208,2024-04-11,West,Home & Kitchen,Robot Vacuum E5,Chloe Diaz,2,USD,298.52,0,597.04,Retail Store
+SO-10209,2024-04-12,West,Home & Kitchen,Nonstick Cookware Set,Chloe Diaz,3,USD,129.59,0.05,369.33,Partner
+SO-10210,2024-04-12,East,Beauty,Lavender Candle Set,Abigail Young,4,USD,32.05,0,128.2,Online
+SO-10211,2024-04-13,East,Electronics,Noise-Cancelling Headphones,Nora Sanders,2,USD,233.18,0,466.36,Retail Store
+SO-10212,2024-04-13,Central,Electronics,Wireless Keyboard,Elijah Torres,2,USD,93.47,0.15,158.9,Retail Store
+SO-10213,2024-04-14,East,Beauty,Lavender Candle Set,Chloe Diaz,3,USD,37.84,0.15,96.49,Retail Store
+SO-10214,2024-04-14,Central,Beauty,Lavender Candle Set,Noah Patel,2,USD,34.73,0,69.46,Online
+SO-10215,2024-04-15,East,Home & Kitchen,Robot Vacuum E5,Ava Thompson,1,USD,286.85,0.15,243.82,Online
+SO-10216,2024-04-15,South,Books,The Data Cookbook,Lucas Nguyen,4,USD,40.22,0.15,136.75,Online
+SO-10217,2024-04-16,Central,Home & Kitchen,Nonstick Cookware Set,Jack Rivera,3,USD,121.28,0,363.84,Online
+SO-10218,2024-04-16,East,Sports,Cycling Helmet,Nora Sanders,1,USD,68.66,0,68.66,Retail Store
+SO-10219,2024-04-17,Central,Beauty,Lavender Candle Set,Amelia Scott,2,USD,32.66,0,65.32,Retail Store
+SO-10220,2024-04-17,Central,Beauty,Facial Serum 30ml,Noah Patel,2,USD,45.71,0,91.42,Partner
+SO-10221,2024-04-17,Central,Sports,Yoga Mat Pro,Leo Martin,1,USD,87.44,0.1,78.7,Retail Store
+SO-10222,2024-04-18,South,Beauty,Lavender Candle Set,Aria Nelson,1,USD,31.63,0,31.63,Online
+SO-10223,2024-04-18,South,Sports,Cycling Helmet,Ethan Walker,3,USD,58.49,0.15,149.15,Online
+SO-10224,2024-04-19,North,Home & Kitchen,Stand Mixer,Nora Sanders,2,USD,195.23,0,390.46,Online
+SO-10225,2024-04-20,West,Home & Kitchen,Robot Vacuum E5,Liam Rodriguez,1,USD,295.26,0,295.26,Partner
+SO-10226,2024-04-20,South,Home & Kitchen,Espresso Machine,Ava Thompson,3,USD,154.3,0,462.9,Online
+SO-10227,2024-04-20,South,Books,The Data Cookbook,Lucas Nguyen,4,USD,36.16,0,144.64,Online
+SO-10228,2024-04-21,Central,Beauty,Ceramic Hair Dryer,Liam Rodriguez,1,USD,84.93,0.15,72.19,Retail Store
+SO-10229,2024-04-21,West,Sports,Yoga Mat Pro,Henry Green,1,USD,76.43,0.05,72.61,Retail Store
+SO-10230,2024-04-22,North,Sports,Trail Running Shoes,Noah Patel,3,USD,147.74,0,443.22,Retail Store
+SO-10231,2024-04-23,East,Books,Growth Analytics 101,Nora Sanders,2,USD,27.24,0,54.48,Retail Store
+SO-10232,2024-04-23,West,Beauty,Facial Serum 30ml,Mason Hill,1,USD,48.61,0,48.61,Retail Store
+SO-10233,2024-04-24,East,Electronics,Wireless Keyboard,Chloe Diaz,1,USD,85.67,0.05,81.39,Retail Store
+SO-10234,2024-04-24,West,Home & Kitchen,Stand Mixer,Lucas Nguyen,1,USD,210.23,0.15,178.7,Online
+SO-10235,2024-04-25,West,Electronics,4K Action Camera,Noah Patel,1,USD,189.55,0,189.55,Online
+SO-10236,2024-04-26,South,Electronics,Smart Watch S2,Ava Thompson,4,USD,410,0.15,1394,Partner
+SO-10237,2024-04-26,West,Sports,Trail Running Shoes,Sofia Kim,3,USD,146.59,0.1,395.79,Retail Store
+SO-10238,2024-04-27,Central,Electronics,Smart Watch S2,Noah Patel,3,USD,386.26,0,1158.78,Retail Store
+SO-10239,2024-04-27,South,Sports,Adjustable Dumbbells,Aria Nelson,3,USD,211.84,0.15,540.19,Retail Store
+SO-10240,2024-04-28,North,Home & Kitchen,Robot Vacuum E5,Mason Hill,1,USD,303.67,0.1,273.3,Partner
+SO-10241,2024-04-28,South,Electronics,Smart Watch S2,Leo Martin,2,USD,438.03,0,876.06,Partner
+SO-10242,2024-04-29,East,Sports,Trail Running Shoes,Ava Thompson,3,USD,151.87,0.1,410.05,Online
+SO-10243,2024-04-30,West,Home & Kitchen,Stand Mixer,Ethan Brown,1,USD,191.83,0.05,182.24,Retail Store
+SO-10244,2024-04-30,North,Beauty,Facial Serum 30ml,Noah Patel,2,USD,45.9,0.05,87.21,Online
+SO-10245,2024-04-30,Central,Sports,Cycling Helmet,Mason Hill,1,USD,58.76,0,58.76,Partner
+SO-10246,2024-05-01,Central,Electronics,4K Action Camera,Mia Chen,1,USD,179.08,0.15,152.22,Online
+SO-10247,2024-05-02,East,Sports,Yoga Mat Pro,Ava Thompson,1,USD,82.51,0,82.51,Retail Store
+SO-10248,2024-05-02,East,Electronics,USB-C Hub 8-in-1,Noah Patel,3,USD,62.5,0,187.5,Retail Store
+SO-10249,2024-05-03,South,Sports,Cycling Helmet,Ava Thompson,2,USD,60.79,0.1,109.42,Partner
+SO-10250,2024-05-03,Central,Home & Kitchen,Stand Mixer,Scarlet Clark,2,USD,211.01,0,422.02,Retail Store
+SO-10251,2024-05-04,West,Beauty,Ceramic Hair Dryer,James Hall,1,USD,92.04,0,92.04,Partner
+SO-10252,2024-05-04,West,Beauty,Facial Serum 30ml,Oliver King,1,USD,45.1,0,45.1,Retail Store
+SO-10253,2024-05-04,East,Books,Design Systems Handbook,Noah Patel,2,USD,46.16,0,92.32,Online
+SO-10254,2024-05-05,West,Books,The Data Cookbook,Ethan Walker,2,USD,36,0,72,Online
+SO-10255,2024-05-05,South,Books,Design Systems Handbook,Ava Thompson,3,USD,47.37,0,142.11,Partner
+SO-10256,2024-05-06,East,Sports,Trail Running Shoes,Lucas Nguyen,1,USD,152.28,0,152.28,Partner
+SO-10257,2024-05-07,West,Sports,Yoga Mat Pro,Oliver King,3,USD,79.67,0.1,215.11,Partner
+SO-10258,2024-05-07,West,Home & Kitchen,Nonstick Cookware Set,Ethan Walker,2,USD,126.29,0,252.58,Partner
+SO-10259,2024-05-08,Central,Books,Growth Analytics 101,Ava Thompson,3,USD,24.76,0,74.28,Partner
+SO-10260,2024-05-08,North,Sports,Trail Running Shoes,Nora Sanders,1,USD,152.24,0,152.24,Retail Store
+SO-10261,2024-05-09,East,Sports,Yoga Mat Pro,Lucas Nguyen,3,USD,75.73,0.05,215.83,Retail Store
+SO-10262,2024-05-10,Central,Books,Design Systems Handbook,Nora Sanders,3,USD,48.86,0,146.58,Retail Store
+SO-10263,2024-05-10,South,Home & Kitchen,Espresso Machine,Lucas Nguyen,1,USD,143.99,0.15,122.39,Retail Store
+SO-10264,2024-05-10,West,Sports,Trail Running Shoes,Elijah Torres,1,USD,127.62,0,127.62,Retail Store
+SO-10265,2024-05-11,North,Home & Kitchen,Nonstick Cookware Set,Ethan Brown,2,USD,121.99,0,243.98,Online
+SO-10266,2024-05-11,East,Beauty,Ceramic Hair Dryer,Chloe Diaz,3,USD,96.55,0,289.65,Retail Store
+SO-10267,2024-05-12,North,Electronics,Smart Watch S2,Harper Wright,1,USD,416.63,0,416.63,Partner
+SO-10268,2024-05-12,East,Beauty,Ceramic Hair Dryer,Henry Green,3,USD,86.2,0,258.6,Retail Store
+SO-10269,2024-05-13,East,Sports,Cycling Helmet,Noah Patel,4,USD,63.46,0.1,228.46,Partner
+SO-10270,2024-05-13,East,Beauty,Lavender Candle Set,Sofia Kim,3,USD,32.73,0,98.19,Partner
+SO-10271,2024-05-14,East,Electronics,4K Action Camera,Noah Patel,2,USD,162.79,0,325.58,Online
+SO-10272,2024-05-14,West,Beauty,Lavender Candle Set,Leo Martin,2,USD,31.7,0,63.4,Retail Store
+SO-10273,2024-05-15,West,Beauty,Lavender Candle Set,Ava Thompson,2,USD,37.04,0,74.08,Partner
+SO-10274,2024-05-15,West,Sports,Cycling Helmet,Ava Thompson,3,USD,69.07,0,207.21,Partner
+SO-10275,2024-05-16,South,Books,Design Systems Handbook,Charlotte Lee,1,USD,52.88,0,52.88,Retail Store
+SO-10276,2024-05-16,East,Electronics,4K Action Camera,Mason Hill,2,USD,177.23,0,354.46,Retail Store
+SO-10277,2024-05-17,Central,Books,The Data Cookbook,Chloe Diaz,3,USD,43.73,0,131.19,Partner
+SO-10278,2024-05-17,Central,Books,Design Systems Handbook,Aria Nelson,2,USD,49.9,0.05,94.81,Retail Store
+SO-10279,2024-05-18,West,Home & Kitchen,Robot Vacuum E5,Scarlet Clark,2,USD,308.2,0,616.4,Retail Store
+SO-10280,2024-05-18,Central,Beauty,Lavender Candle Set,Chloe Diaz,1,USD,32.47,0.1,29.22,Retail Store
+SO-10281,2024-05-19,West,Sports,Trail Running Shoes,Hudson Reed,1,USD,138.48,0,138.48,Online
+SO-10282,2024-05-19,East,Home & Kitchen,Espresso Machine,Lucas Nguyen,1,USD,158.63,0.15,134.84,Online
+SO-10283,2024-05-19,North,Sports,Trail Running Shoes,Evelyn Adams,1,USD,143.38,0.05,136.21,Online
+SO-10284,2024-05-20,West,Sports,Cycling Helmet,Charlotte Lee,3,USD,63.55,0,190.65,Retail Store
+SO-10285,2024-05-20,West,Books,Growth Analytics 101,Mason Hill,3,USD,23.36,0.05,66.58,Online
+SO-10286,2024-05-21,North,Electronics,Noise-Cancelling Headphones,Ella Lewis,1,USD,274.68,0.1,247.21,Retail Store
+SO-10287,2024-05-21,East,Beauty,Lavender Candle Set,James Hall,52,USD,34.42,0.15,1521.36,Partner
+SO-10288,2024-05-22,South,Sports,Yoga Mat Pro,Hudson Reed,1,USD,86.33,0.15,73.38,Partner
+SO-10289,2024-05-22,South,Sports,Yoga Mat Pro,Owen Baker,1,USD,87.02,0.1,78.32,Partner
+SO-10290,2024-05-22,Central,Beauty,Facial Serum 30ml,Chloe Diaz,3,USD,44.75,0,134.25,Online
+SO-10291,2024-05-23,East,Sports,Trail Running Shoes,Aria Nelson,1,USD,137.35,0.15,116.75,Partner
+SO-10292,2024-05-23,West,Sports,Adjustable Dumbbells,Amelia Scott,3,USD,248.17,0.1,670.06,Retail Store
+SO-10293,2024-05-24,West,Home & Kitchen,Air Purifier XL,Mason Hill,1,USD,131.16,0.15,111.49,Partner
+SO-10294,2024-05-25,South,Books,The Data Cookbook,Charlotte Lee,1,USD,37.69,0,37.69,Online
+SO-10295,2024-05-26,West,Home & Kitchen,Robot Vacuum E5,Lucas Nguyen,2,USD,287.23,0,574.46,Partner
+SO-10296,2024-05-26,North,Books,Growth Analytics 101,Nora Sanders,1,USD,23.48,0,23.48,Online
+SO-10297,2024-05-26,West,Books,The Data Cookbook,Isabella Garcia,1,USD,38.88,0,38.88,Partner
+SO-10298,2024-05-27,South,Beauty,Ceramic Hair Dryer,Liam Rodriguez,1,USD,95.6,0,95.6,Online
+SO-10299,2024-05-27,West,Sports,Trail Running Shoes,Scarlet Clark,1,USD,152.85,0,152.85,Retail Store
+SO-10300,2024-05-27,West,Beauty,Lavender Candle Set,Ethan Brown,1,USD,36.13,0,36.13,Online
+SO-10301,2024-05-28,East,Electronics,Smart Watch S2,Oliver King,1,USD,421.26,0,421.26,Retail Store
+SO-10302,2024-05-29,East,Books,Growth Analytics 101,Noah Patel,3,USD,26.96,0,80.88,Retail Store
+SO-10303,2024-05-29,Central,Beauty,Ceramic Hair Dryer,Isabella Garcia,3,USD,91.76,0,275.28,Retail Store
+SO-10304,2024-05-30,West,Home & Kitchen,Espresso Machine,Mia Chen,1,USD,150.11,0.1,135.1,Retail Store
+SO-10305,2024-05-30,West,Beauty,Facial Serum 30ml,Nora Sanders,1,USD,384.8,0.1,346.32,Retail Store
+SO-10306,2024-05-30,Central,Electronics,USB-C Hub 8-in-1,Owen Baker,1,USD,58.98,0.1,53.08,Partner
+SO-10307,2024-05-31,West,Sports,Adjustable Dumbbells,Leo Martin,2,USD,209.99,0,419.98,Retail Store
+SO-10308,2024-05-31,Central,Beauty,Lavender Candle Set,Hudson Reed,1,USD,34.2,0,34.2,Partner
+SO-10309,2024-06-01,North,Books,Design Systems Handbook,Mia Chen,1,USD,53.81,0,53.81,Retail Store
+SO-10310,2024-06-01,West,Books,Growth Analytics 101,Ava Thompson,3,USD,26.63,0,79.89,Retail Store
+SO-10311,2024-06-01,Central,Beauty,Ceramic Hair Dryer,Ava Thompson,3,USD,82.96,0,248.88,Partner
+SO-10312,2024-06-02,West,Sports,Adjustable Dumbbells,Ava Thompson,3,USD,226.23,0,678.69,Partner
+SO-10313,2024-06-02,North,Beauty,Lavender Candle Set,Elijah Torres,4,USD,36.14,0,144.56,Retail Store
+SO-10314,2024-06-02,South,Home & Kitchen,Nonstick Cookware Set,Isabella Garcia,3,USD,117.39,0,352.17,Online
+SO-10315,2024-06-03,East,Home & Kitchen,Robot Vacuum E5,Ava Thompson,4,USD,277.8,0,1111.2,Retail Store
+SO-10316,2024-06-03,Central,Sports,Cycling Helmet,Aria Nelson,4,USD,62.56,0,250.24,Partner
+SO-10317,2024-06-04,Central,Electronics,4K Action Camera,Aria Nelson,2,USD,180.82,0.1,325.48,Retail Store
+SO-10318,2024-06-04,West,Home & Kitchen,Robot Vacuum E5,Liam Rodriguez,3,USD,298.7,0.05,851.29,Online
+SO-10319,2024-06-05,West,Books,The Data Cookbook,Ava Thompson,1,USD,39.15,0.15,33.28,Retail Store
+SO-10320,2024-06-05,West,Home & Kitchen,Stand Mixer,Ava Thompson,1,USD,199.54,0.1,179.59,Partner
+SO-10321,2024-06-06,West,Home & Kitchen,Espresso Machine,Liam Rodriguez,1,USD,162.42,0.05,154.3,Retail Store
+SO-10322,2024-06-06,Central,Electronics,Smart Watch S2,Oliver King,2,USD,434.28,0,868.56,Online
+SO-10323,2024-06-07,West,Books,The Data Cookbook,Evelyn Adams,2,USD,37.51,0,75.02,Online
+SO-10324,2024-06-07,North,Books,Design Systems Handbook,Lucas Nguyen,3,USD,49.24,0,147.72,Online
+SO-10325,2024-06-08,Central,Electronics,Wireless Keyboard,Lucas Nguyen,1,USD,96.98,0.05,92.13,Online
+SO-10326,2024-06-08,North,Books,Design Systems Handbook,Henry Green,4,USD,50.48,0,201.92,Online
+SO-10327,2024-06-09,North,Home & Kitchen,Air Purifier XL,Sofia Kim,1,USD,137.88,0,137.88,Retail Store
+SO-10328,2024-06-09,North,Books,Growth Analytics 101,Isabella Garcia,2,USD,25.43,0,50.86,Online
+SO-10329,2024-06-09,East,Beauty,Lavender Candle Set,Abigail Young,3,USD,32.02,0,96.06,Retail Store
+SO-10330,2024-06-10,Central,Home & Kitchen,Stand Mixer,Ava Thompson,3,USD,213.31,0,639.93,Retail Store
+SO-10331,2024-06-10,West,Home & Kitchen,Robot Vacuum E5,Aria Nelson,3,USD,287.93,0,863.79,Partner
+SO-10332,2024-06-11,South,Electronics,Smart Watch S2,Owen Price,1,USD,380.12,0.05,361.11,Online
+SO-10333,2024-06-11,West,Sports,Cycling Helmet,Ethan Brown,2,USD,65.98,0.1,118.76,Retail Store
+SO-10334,2024-06-12,East,Beauty,Facial Serum 30ml,Liam Rodriguez,2,USD,42.78,0,85.56,Partner
+SO-10335,2024-06-12,West,Electronics,Smart Watch S2,Noah Patel,3,USD,432.03,0.05,1231.29,Retail Store
+SO-10336,2024-06-13,West,Electronics,USB-C Hub 8-in-1,Hudson Reed,2,USD,56.93,0,113.86,Online
+SO-10337,2024-06-13,West,Sports,Yoga Mat Pro,Lucas Nguyen,1,USD,87.01,0.1,78.31,Partner
+SO-10338,2024-06-13,East,Home & Kitchen,Espresso Machine,James Hall,2,USD,151.7,0,303.4,Online
+SO-10339,2024-06-14,East,Books,Design Systems Handbook,Amelia Scott,1,USD,51.24,0,51.24,Partner
+SO-10340,2024-06-14,East,Beauty,Lavender Candle Set,Ava Thompson,1,USD,34.6,0,34.6,Partner
+SO-10341,2024-06-15,West,Beauty,Lavender Candle Set,Hudson Reed,2,USD,35.94,0,71.88,Online
+SO-10342,2024-06-15,West,Books,Design Systems Handbook,Nora Sanders,4,USD,54.28,0,217.12,Retail Store
+SO-10343,2024-06-16,West,Home & Kitchen,Espresso Machine,Lucas Nguyen,1,USD,150.91,0,150.91,Online
+SO-10344,2024-06-16,North,Books,The Data Cookbook,Hudson Reed,2,USD,39.41,0,78.82,Retail Store
+SO-10345,2024-06-17,East,Sports,Cycling Helmet,Mason Hill,3,USD,59.06,0,177.18,Online
+SO-10346,2024-06-18,West,Books,Design Systems Handbook,Lucas Nguyen,3,USD,48.69,0,146.07,Partner
+SO-10347,2024-06-18,West,Home & Kitchen,Stand Mixer,Luna Cooper,1,USD,230.15,0,230.15,Online
+SO-10348,2024-06-19,South,Electronics,Smart Watch S2,Sofia Kim,2,USD,426.57,0,853.14,Online
+SO-10349,2024-06-19,Central,Sports,Cycling Helmet,Evelyn Adams,1,USD,67.02,0.1,60.32,Online
+SO-10350,2024-06-20,West,Beauty,Ceramic Hair Dryer,Lucas Nguyen,1,USD,81.56,0,81.56,Retail Store
+SO-10351,2024-06-20,West,Beauty,Ceramic Hair Dryer,Amelia Scott,3,USD,80.44,0.05,229.25,Partner
+SO-10352,2024-06-21,West,Books,Growth Analytics 101,Aria Nelson,3,USD,25.43,0.05,72.48,Retail Store
+SO-10353,2024-06-21,West,Beauty,Facial Serum 30ml,Isabella Garcia,1,USD,41.5,0.05,39.42,Partner
+SO-10354,2024-06-21,South,Electronics,Smart Watch S2,Evelyn Adams,3,USD,373.38,0,1120.14,Partner
+SO-10355,2024-06-22,North,Electronics,4K Action Camera,Noah Patel,4,USD,163.15,0,652.6,Retail Store
+SO-10356,2024-06-22,South,Electronics,Smart Watch S2,Nora Sanders,3,USD,387.34,0.15,987.72,Retail Store
+SO-10357,2024-06-23,West,Electronics,USB-C Hub 8-in-1,Ava Thompson,1,USD,61.58,0.1,55.42,Retail Store
+SO-10358,2024-06-23,East,Sports,Trail Running Shoes,Ella Lewis,2,USD,132.79,0.15,225.74,Retail Store
+SO-10359,2024-06-23,South,Books,The Data Cookbook,Ethan Brown,2,USD,42.92,0,85.84,Retail Store
+SO-10360,2024-06-24,North,Beauty,Facial Serum 30ml,Lucas Nguyen,1,USD,42.3,0.15,35.96,Online
+SO-10361,2024-06-24,West,Books,Growth Analytics 101,Noah Patel,1,USD,27.17,0,27.17,Online
+SO-10362,2024-06-25,West,Books,The Data Cookbook,Ava Thompson,4,USD,39.9,0.1,143.64,Online
+SO-10363,2024-06-25,North,Sports,Trail Running Shoes,Lucas Nguyen,1,USD,146.82,0,146.82,Retail Store
+SO-10364,2024-06-26,West,Books,Growth Analytics 101,Luna Cooper,1,USD,25.23,0,25.23,Retail Store
+SO-10365,2024-06-26,South,Home & Kitchen,Air Purifier XL,Noah Patel,1,USD,124.9,0.1,112.41,Partner
+SO-10366,2024-06-27,East,Beauty,Ceramic Hair Dryer,Lucas Nguyen,3,USD,91.17,0,273.51,Retail Store
+SO-10367,2024-06-27,West,Books,Design Systems Handbook,Owen Baker,3,USD,46.41,0.15,118.35,Online
+SO-10368,2024-06-27,North,Sports,Adjustable Dumbbells,Evelyn Adams,3,USD,246.06,0,738.18,Online
+SO-10369,2024-06-28,West,Books,The Data Cookbook,Liam Rodriguez,2,USD,41.04,0,82.08,Online
+SO-10370,2024-06-29,West,Home & Kitchen,Stand Mixer,Ella Lewis,1,USD,193.04,0,193.04,Online
+SO-10371,2024-06-29,West,Beauty,Lavender Candle Set,Chloe Diaz,3,USD,36.22,0.15,92.36,Retail Store
+SO-10372,2024-06-29,East,Electronics,4K Action Camera,Nora Sanders,1,USD,184.21,0,184.21,Online
+SO-10373,2024-06-30,North,Books,The Data Cookbook,Noah Patel,3,USD,40.77,0,122.31,Partner
+SO-10374,2024-06-30,West,Sports,Cycling Helmet,Lucas Nguyen,1,USD,58.72,0,58.72,Online
+SO-10375,2024-06-30,East,Books,Growth Analytics 101,Nora Sanders,2,USD,26.93,0.05,51.17,Partner
+SO-10376,2024-07-01,South,Beauty,Ceramic Hair Dryer,Abigail Young,1,USD,96.5,0.05,91.68,Online
+SO-10377,2024-07-01,East,Books,The Data Cookbook,Chloe Diaz,2,USD,36.79,0,73.58,Online
+SO-10378,2024-07-01,South,Beauty,Ceramic Hair Dryer,Scarlet Clark,2,USD,96.65,0.15,164.31,Partner
+SO-10379,2024-07-02,North,Beauty,Facial Serum 30ml,Charlotte Lee,1,USD,44.94,0.05,42.69,Partner
+SO-10380,2024-07-02,Central,Books,Design Systems Handbook,Leo Martin,1,USD,50.24,0.15,42.7,Retail Store
+SO-10381,2024-07-02,West,Beauty,Facial Serum 30ml,Isabella Garcia,4,USD,44.26,0,177.04,Retail Store
+SO-10382,2024-07-03,South,Sports,Adjustable Dumbbells,Luna Cooper,1,USD,245.26,0.1,220.73,Online
+SO-10383,2024-07-03,West,Electronics,Noise-Cancelling Headphones,Lucas Nguyen,4,USD,248.17,0.1,893.41,Partner
+SO-10384,2024-07-04,West,Electronics,Wireless Keyboard,Lucas Nguyen,1,USD,96.46,0,96.46,Retail Store
+SO-10385,2024-07-04,East,Beauty,Facial Serum 30ml,Hudson Reed,4,USD,49.47,0,197.88,Partner
+SO-10386,2024-07-04,North,Beauty,Lavender Candle Set,Lucas Nguyen,1,USD,36.38,0,36.38,Online
+SO-10387,2024-07-05,East,Books,The Data Cookbook,Lucas Nguyen,1,USD,40.8,0,40.8,Retail Store
+SO-10388,2024-07-05,West,Books,The Data Cookbook,Noah Patel,1,USD,40.83,0.15,34.71,Online
+SO-10389,2024-07-06,Central,Beauty,Lavender Candle Set,Ava Thompson,1,USD,31.98,0,31.98,Partner
+SO-10390,2024-07-06,East,Sports,Yoga Mat Pro,Ava Thompson,4,USD,74.29,0,297.16,Retail Store
+SO-10391,2024-07-06,West,Home & Kitchen,Air Purifier XL,Noah Patel,2,USD,130.82,0,261.64,Online
+SO-10392,2024-07-07,East,Beauty,Facial Serum 30ml,Noah Patel,2,USD,42.1,0.15,71.57,Partner
+SO-10393,2024-07-07,West,Electronics,Wireless Keyboard,Ava Thompson,1,USD,96.69,0.1,87.02,Online
+SO-10394,2024-07-08,Central,Home & Kitchen,Espresso Machine,Mia Chen,4,USD,134.87,0,539.48,Online
+SO-10395,2024-07-08,South,Home & Kitchen,Stand Mixer,Owen Baker,1,USD,213.91,0.15,181.82,Retail Store
+SO-10396,2024-07-09,East,Sports,Yoga Mat Pro,Aria Nelson,1,USD,86.37,0,86.37,Partner
+SO-10397,2024-07-09,West,Home & Kitchen,Robot Vacuum E5,Owen Baker,2,USD,278.33,0.1,500.99,Partner
+SO-10398,2024-07-10,North,Beauty,Facial Serum 30ml,Chloe Diaz,4,USD,43.54,0.05,165.45,Online
+SO-10399,2024-07-10,South,Beauty,Lavender Candle Set,Jack Rivera,3,USD,33.55,0.15,85.55,Partner
+SO-10400,2024-07-11,West,Home & Kitchen,Stand Mixer,Ava Thompson,2,USD,218.85,0,437.7,Retail Store
+SO-10401,2024-07-11,Central,Books,The Data Cookbook,Aria Nelson,2,USD,41.89,0,83.78,Partner
+SO-10402,2024-07-12,Central,Books,Growth Analytics 101,Ava Thompson,2,USD,23.55,0.05,44.75,Retail Store
+SO-10403,2024-07-13,South,Books,The Data Cookbook,Ava Thompson,4,USD,40.05,0,160.2,Retail Store
+SO-10404,2024-07-13,North,Books,The Data Cookbook,Leo Martin,2,USD,39.95,0,79.9,Retail Store
+SO-10405,2024-07-13,North,Home & Kitchen,Air Purifier XL,Owen Baker,4,USD,129.56,0,518.24,Online
+SO-10406,2024-07-14,Central,Electronics,Smart Watch S2,Aria Nelson,3,USD,417.63,0.1,1127.6,Partner
+SO-10407,2024-07-14,East,Beauty,Facial Serum 30ml,Hudson Reed,3,USD,42.21,0,126.63,Online
+SO-10408,2024-07-15,North,Electronics,Smart Watch S2,Noah Patel,2,USD,386.43,0.15,656.93,Online
+SO-10409,2024-07-15,East,Sports,Yoga Mat Pro,Nora Sanders,4,USD,82.21,0.15,279.51,Online
+SO-10410,2024-07-15,North,Electronics,Wireless Keyboard,Elijah Torres,2,USD,98.18,0.15,166.91,Online
+SO-10411,2024-07-16,West,Home & Kitchen,Nonstick Cookware Set,Ethan Brown,3,USD,124.37,0.15,317.14,Online
+SO-10412,2024-07-16,North,Beauty,Ceramic Hair Dryer,Ethan Walker,2,USD,88.76,0,177.52,Retail Store
+SO-10413,2024-07-17,East,Sports,Trail Running Shoes,Lucas Nguyen,3,USD,152.45,0.05,434.48,Retail Store
+SO-10414,2024-07-17,West,Home & Kitchen,Stand Mixer,Nora Sanders,4,USD,220.48,0.1,793.73,Retail Store
+SO-10415,2024-07-17,West,Books,Design Systems Handbook,Oliver King,1,USD,47.36,0.15,40.26,Partner
+SO-10416,2024-07-18,West,Books,Growth Analytics 101,Lucas Nguyen,1,USD,27.2,0.15,23.12,Online
+SO-10417,2024-07-18,South,Electronics,USB-C Hub 8-in-1,Harper Wright,2,USD,63.93,0.1,115.07,Online
+SO-10418,2024-07-19,West,Books,The Data Cookbook,Ella Lewis,4,USD,39.29,0,157.16,Partner
+SO-10419,2024-07-19,South,Electronics,4K Action Camera,Scarlet Clark,1,USD,168.04,0.05,159.64,Partner
+SO-10420,2024-07-19,North,Home & Kitchen,Air Purifier XL,Ethan Walker,1,USD,137.6,0.15,116.96,Online
+SO-10421,2024-07-20,West,Sports,Trail Running Shoes,Lucas Nguyen,4,USD,143.87,0.15,489.16,Online
+SO-10422,2024-07-20,East,Books,Design Systems Handbook,Ava Thompson,2,USD,48.76,0.15,82.89,Retail Store
+SO-10423,2024-07-20,East,Sports,Trail Running Shoes,Luna Cooper,2,USD,127.62,0,255.24,Partner
+SO-10424,2024-07-21,West,Sports,Cycling Helmet,Scarlet Clark,1,USD,61.49,0,61.49,Retail Store
+SO-10425,2024-07-21,East,Home & Kitchen,Espresso Machine,Chloe Diaz,4,USD,140.67,0.1,506.41,Online
+SO-10426,2024-07-21,Central,Home & Kitchen,Air Purifier XL,Noah Patel,2,USD,132.92,0.05,252.55,Partner
+SO-10427,2024-07-22,West,Sports,Yoga Mat Pro,Noah Patel,3,USD,648.8,0.1,1751.76,Partner
+SO-10428,2024-07-22,West,Beauty,Ceramic Hair Dryer,Sofia Kim,3,USD,86.77,0.05,247.29,Partner
+SO-10429,2024-07-23,Central,Home & Kitchen,Nonstick Cookware Set,Leo Martin,3,USD,121,0,363,Partner
+SO-10430,2024-07-23,West,Books,The Data Cookbook,Liam Rodriguez,1,USD,38.41,0,38.41,Partner
+SO-10431,2024-07-23,East,Sports,Trail Running Shoes,Scarlet Clark,2,USD,127.87,0,255.74,Retail Store
+SO-10432,2024-07-24,East,Electronics,Wireless Keyboard,Lucas Nguyen,1,USD,93.62,0,93.62,Partner
+SO-10433,2024-07-24,East,Electronics,Smart Watch S2,Sofia Kim,2,USD,404.97,0,809.94,Online
+SO-10434,2024-07-25,West,Books,Design Systems Handbook,Scarlet Clark,2,USD,46.32,0.05,88.01,Partner
+SO-10435,2024-07-25,West,Books,Growth Analytics 101,Owen Baker,3,USD,24.63,0.05,70.2,Retail Store
+SO-10436,2024-07-25,East,Books,The Data Cookbook,Ava Thompson,1,USD,41.74,0,41.74,Partner
+SO-10437,2024-07-26,South,Books,The Data Cookbook,Lucas Nguyen,1,USD,38.42,0,38.42,Partner
+SO-10438,2024-07-26,North,Electronics,4K Action Camera,Lucas Nguyen,2,USD,197.08,0,394.16,Retail Store
+SO-10439,2024-07-27,East,Electronics,Smart Watch S2,Ethan Brown,2,USD,381.84,0.05,725.5,Retail Store
+SO-10440,2024-07-27,West,Beauty,Lavender Candle Set,Noah Patel,1,USD,35,0,35,Partner
+SO-10441,2024-07-28,North,Electronics,Smart Watch S2,Mason Hill,2,USD,370.64,0.1,667.15,Online
+SO-10442,2024-07-28,West,Books,Growth Analytics 101,Charlotte Lee,1,USD,25.62,0,25.62,Retail Store
+SO-10443,2024-07-29,South,Beauty,Facial Serum 30ml,Ava Thompson,2,USD,48.62,0,97.24,Retail Store
+SO-10444,2024-07-29,West,Beauty,Lavender Candle Set,Ella Lewis,4,USD,32.51,0,130.04,Partner
+SO-10445,2024-07-29,South,Beauty,Lavender Candle Set,Hudson Reed,2,USD,32.26,0.1,58.07,Online
+SO-10446,2024-07-30,East,Beauty,Ceramic Hair Dryer,Henry Green,2,USD,90.07,0.1,162.13,Retail Store
+SO-10447,2024-07-30,North,Home & Kitchen,Air Purifier XL,Ava Thompson,3,USD,136.1,0,408.3,Online
+SO-10448,2024-07-31,West,Beauty,Ceramic Hair Dryer,Noah Patel,3,USD,94.39,0.05,269.01,Partner
+SO-10449,2024-07-31,East,Home & Kitchen,Stand Mixer,Noah Patel,1,USD,213.3,0,213.3,Retail Store
+SO-10450,2024-08-01,West,Sports,Yoga Mat Pro,Owen Baker,1,USD,83.69,0,83.69,Online
+SO-10451,2024-08-01,North,Home & Kitchen,Air Purifier XL,Abigail Young,2,USD,141.74,0.15,240.96,Retail Store
+SO-10452,2024-08-01,South,Home & Kitchen,Robot Vacuum E5,Noah Patel,2,USD,295.73,0,591.46,Partner
+SO-10453,2024-08-02,West,Electronics,USB-C Hub 8-in-1,James Hall,3,USD,58.61,0.05,167.04,Retail Store
+SO-10454,2024-08-03,South,Beauty,Facial Serum 30ml,Ethan Walker,2,USD,43.37,0,86.74,Partner
+SO-10455,2024-08-03,Central,Electronics,Wireless Keyboard,Owen Baker,3,USD,90.92,0.1,245.48,Online
+SO-10456,2024-08-03,Central,Beauty,Facial Serum 30ml,Lucas Nguyen,3,USD,42.34,0,127.02,Partner
+SO-10457,2024-08-04,South,Books,The Data Cookbook,Ava Thompson,1,USD,41.16,0.1,37.04,Partner
+SO-10458,2024-08-04,West,Home & Kitchen,Air Purifier XL,Owen Price,1,USD,120.62,0,120.62,Online
+SO-10459,2024-08-05,South,Sports,Adjustable Dumbbells,Lucas Nguyen,4,USD,228.43,0.15,776.66,Partner
+SO-10460,2024-08-05,East,Sports,Cycling Helmet,Charlotte Lee,3,USD,61.02,0.05,173.91,Retail Store
+SO-10461,2024-08-05,East,Sports,Yoga Mat Pro,Hudson Reed,1,USD,73.75,0.15,62.69,Partner
+SO-10462,2024-08-06,Central,Beauty,Facial Serum 30ml,Sofia Kim,3,USD,47.85,0,143.55,Partner
+SO-10463,2024-08-06,East,Sports,Adjustable Dumbbells,Jack Rivera,1,USD,235.87,0,235.87,Partner
+SO-10464,2024-08-07,North,Home & Kitchen,Robot Vacuum E5,Lucas Nguyen,1,USD,282.84,0.1,254.56,Partner
+SO-10465,2024-08-07,East,Sports,Yoga Mat Pro,Ava Thompson,2,USD,82.8,0.15,140.76,Partner
+SO-10466,2024-08-07,Central,Books,Design Systems Handbook,Noah Patel,3,USD,46.11,0.05,131.41,Online
+SO-10467,2024-08-08,North,Beauty,Ceramic Hair Dryer,Mia Chen,1,USD,80.75,0,80.75,Retail Store
+SO-10468,2024-08-08,South,Electronics,4K Action Camera,Nora Sanders,3,USD,182.53,0.15,465.45,Partner
+SO-10469,2024-08-09,Central,Beauty,Ceramic Hair Dryer,Mia Chen,3,USD,80.99,0,242.97,Partner
+SO-10470,2024-08-09,West,Books,The Data Cookbook,Henry Green,1,USD,40.96,0.1,36.86,Partner
+SO-10471,2024-08-09,South,Sports,Cycling Helmet,Noah Patel,1,USD,68.46,0.05,65.04,Retail Store
+SO-10472,2024-08-10,West,Home & Kitchen,Air Purifier XL,Hudson Reed,3,USD,118.64,0.15,302.53,Online
+SO-10473,2024-08-10,North,Sports,Yoga Mat Pro,Chloe Diaz,1,USD,78.35,0,78.35,Partner
+SO-10474,2024-08-11,South,Books,Growth Analytics 101,Noah Patel,2,USD,22.61,0.05,42.96,Retail Store
+SO-10475,2024-08-11,Central,Books,Design Systems Handbook,Ella Lewis,1,USD,53.38,0,53.38,Online
+SO-10476,2024-08-12,South,Books,The Data Cookbook,Noah Patel,1,USD,42.95,0.1,38.66,Retail Store
+SO-10477,2024-08-12,East,Home & Kitchen,Espresso Machine,Ethan Brown,4,USD,138.1,0,552.4,Online
+SO-10478,2024-08-13,North,Sports,Yoga Mat Pro,Owen Price,4,USD,78.31,0.15,266.25,Retail Store
+SO-10479,2024-08-13,West,Home & Kitchen,Robot Vacuum E5,Owen Price,4,USD,302.82,0,1211.28,Retail Store
+SO-10480,2024-08-14,West,Sports,Cycling Helmet,Oliver King,3,USD,63.85,0,191.55,Partner
+SO-10481,2024-08-15,Central,Electronics,Noise-Cancelling Headphones,Abigail Young,4,USD,259.05,0.1,932.58,Online
+SO-10482,2024-08-16,West,Electronics,Noise-Cancelling Headphones,Evelyn Adams,3,USD,241.94,0,725.82,Online
+SO-10483,2024-08-16,West,Beauty,Facial Serum 30ml,Amelia Scott,3,USD,49.15,0.15,125.33,Online
+SO-10484,2024-08-17,East,Books,Design Systems Handbook,Ethan Brown,2,USD,52.44,0,104.88,Retail Store
+SO-10485,2024-08-17,West,Beauty,Ceramic Hair Dryer,Lucas Nguyen,4,USD,91.07,0,364.28,Partner
+SO-10486,2024-08-17,South,Electronics,Smart Watch S2,Noah Patel,1,USD,383.36,0.05,364.19,Online
+SO-10487,2024-08-18,West,Beauty,Ceramic Hair Dryer,Ethan Brown,3,USD,93.72,0,281.16,Partner
+SO-10488,2024-08-18,East,Beauty,Ceramic Hair Dryer,Noah Patel,1,USD,91.27,0,91.27,Online
+SO-10489,2024-08-18,West,Sports,Adjustable Dumbbells,Noah Patel,3,USD,248.13,0,744.39,Online
+SO-10490,2024-08-19,Central,Sports,Trail Running Shoes,Noah Patel,3,USD,141.02,0,423.06,Retail Store
+SO-10491,2024-08-20,West,Beauty,Facial Serum 30ml,Mia Chen,2,USD,41.2,0.1,74.16,Online
+SO-10492,2024-08-20,East,Home & Kitchen,Stand Mixer,Oliver King,4,USD,206.56,0,826.24,Retail Store
+SO-10493,2024-08-20,West,Sports,Cycling Helmet,Oliver King,3,USD,60.15,0.05,171.43,Online
+SO-10494,2024-08-21,West,Beauty,Ceramic Hair Dryer,Abigail Young,2,USD,93.83,0.05,178.28,Online
+SO-10495,2024-08-21,East,Sports,Yoga Mat Pro,Mason Hill,1,USD,76.62,0.15,65.13,Partner
+SO-10496,2024-08-22,South,Beauty,Ceramic Hair Dryer,Isabella Garcia,3,USD,82.66,0.1,223.18,Online
+SO-10497,2024-08-23,West,Sports,Trail Running Shoes,Lucas Nguyen,2,USD,146.08,0,292.16,Partner
+SO-10498,2024-08-23,East,Sports,Yoga Mat Pro,Mia Chen,1,USD,74.24,0.1,66.82,Partner
+SO-10499,2024-08-24,West,Electronics,Noise-Cancelling Headphones,Liam Rodriguez,3,USD,235.75,0.15,601.16,Online
+SO-10500,2024-08-24,West,Sports,Cycling Helmet,Ella Lewis,1,USD,64.87,0,64.87,Partner
+SO-10501,2024-08-25,West,Beauty,Facial Serum 30ml,Ella Lewis,1,USD,46.33,0.1,41.7,Online
+SO-10502,2024-08-25,East,Beauty,Ceramic Hair Dryer,Lucas Nguyen,1,USD,88.4,0,88.4,Retail Store
+SO-10503,2024-08-25,West,Beauty,Ceramic Hair Dryer,Lucas Nguyen,1,USD,83.14,0.15,70.67,Partner
+SO-10504,2024-08-26,East,Home & Kitchen,Stand Mixer,Ella Lewis,2,USD,230.35,0,460.7,Retail Store
+SO-10505,2024-08-26,West,Sports,Adjustable Dumbbells,Henry Green,3,USD,211.09,0.1,569.94,Partner
+SO-10506,2024-08-27,East,Books,Growth Analytics 101,Jack Rivera,1,USD,24.74,0.05,23.5,Retail Store
+SO-10507,2024-08-27,West,Sports,Trail Running Shoes,Hudson Reed,1,USD,149.42,0.1,134.48,Partner
+SO-10508,2024-08-28,East,Electronics,USB-C Hub 8-in-1,Elijah Torres,4,USD,60.7,0.15,206.38,Retail Store
+SO-10509,2024-08-28,West,Electronics,Smart Watch S2,Lucas Nguyen,1,USD,438.72,0.1,394.85,Partner
+SO-10510,2024-08-29,South,Home & Kitchen,Air Purifier XL,Amelia Scott,1,USD,131.26,0.15,111.57,Partner
+SO-10511,2024-08-29,South,Sports,Trail Running Shoes,Noah Patel,2,USD,127.91,0,255.82,Retail Store
+SO-10512,2024-08-30,West,Beauty,Lavender Candle Set,Aria Nelson,1,USD,37,0,37,Online
+SO-10513,2024-08-30,West,Home & Kitchen,Air Purifier XL,Charlotte Lee,4,USD,139.21,0.1,501.16,Retail Store
+SO-10514,2024-08-31,West,Electronics,4K Action Camera,Harper Wright,2,USD,180.14,0.1,324.25,Partner
+SO-10515,2024-08-31,West,Books,Growth Analytics 101,James Hall,3,USD,24.55,0.15,62.6,Partner
+SO-10516,2024-09-01,East,Electronics,Noise-Cancelling Headphones,Aria Nelson,2,USD,256.6,0.05,487.54,Retail Store
+SO-10517,2024-09-01,West,Books,The Data Cookbook,Mia Chen,2,USD,38.66,0,77.32,Online
+SO-10518,2024-09-01,South,Home & Kitchen,Espresso Machine,Ava Thompson,4,USD,135.62,0,542.48,Retail Store
+SO-10519,2024-09-02,North,Sports,Cycling Helmet,Owen Price,1,USD,65.67,0.05,62.39,Retail Store
+SO-10520,2024-09-03,West,Books,Design Systems Handbook,Aria Nelson,2,USD,47.37,0.05,90,Online
+SO-10521,2024-09-03,East,Electronics,USB-C Hub 8-in-1,Ava Thompson,2,USD,60.01,0,120.02,Online
+SO-10522,2024-09-03,South,Books,Design Systems Handbook,Henry Green,1,USD,45.46,0,45.46,Online
+SO-10523,2024-09-04,West,Books,Growth Analytics 101,Ava Thompson,1,USD,24.23,0.15,20.6,Partner
+SO-10524,2024-09-04,West,Books,Design Systems Handbook,Luna Cooper,4,USD,54.35,0,217.4,Retail Store
+SO-10525,2024-09-05,Central,Electronics,Smart Watch S2,Owen Baker,1,USD,393.24,0.1,353.92,Partner
+SO-10526,2024-09-05,East,Beauty,Facial Serum 30ml,James Hall,2,USD,44.89,0,89.78,Retail Store
+SO-10527,2024-09-06,East,Electronics,Wireless Keyboard,Abigail Young,3,USD,82.25,0.1,222.08,Online
+SO-10528,2024-09-06,Central,Books,Design Systems Handbook,Oliver King,3,USD,50.55,0,151.65,Online
+SO-10529,2024-09-07,Central,Home & Kitchen,Nonstick Cookware Set,Lucas Nguyen,1,USD,130.65,0,130.65,Online
+SO-10530,2024-09-07,East,Books,Design Systems Handbook,Charlotte Lee,1,USD,53.94,0,53.94,Partner
+SO-10531,2024-09-08,East,Sports,Adjustable Dumbbells,Isabella Garcia,3,USD,242.01,0,726.03,Online
+SO-10532,2024-09-08,West,Books,The Data Cookbook,Ava Thompson,1,USD,42.97,0,42.97,Partner
+SO-10533,2024-09-08,South,Home & Kitchen,Espresso Machine,Owen Baker,1,USD,147.93,0.15,125.74,Online
+SO-10534,2024-09-09,West,Beauty,Ceramic Hair Dryer,Scarlet Clark,3,USD,86.78,0,260.34,Partner
+SO-10535,2024-09-09,West,Beauty,Lavender Candle Set,Nora Sanders,1,USD,32.29,0,32.29,Online
+SO-10536,2024-09-10,East,Home & Kitchen,Robot Vacuum E5,Owen Price,4,USD,283.62,0.05,1077.76,Partner
+SO-10537,2024-09-10,West,Sports,Adjustable Dumbbells,Ethan Walker,4,USD,213.45,0,853.8,Retail Store
+SO-10538,2024-09-11,North,Beauty,Lavender Candle Set,Liam Rodriguez,2,USD,33.58,0.1,60.44,Online
+SO-10539,2024-09-11,East,Home & Kitchen,Espresso Machine,Ava Thompson,2,USD,147.84,0.05,280.9,Online
+SO-10540,2024-09-12,West,Sports,Yoga Mat Pro,Isabella Garcia,1,USD,84.23,0.15,71.6,Retail Store
+SO-10541,2024-09-12,Central,Electronics,Smart Watch S2,Charlotte Lee,3,USD,364.97,0,1094.91,Partner
+SO-10542,2024-09-12,North,Sports,Adjustable Dumbbells,Noah Patel,3,USD,238.56,0.15,608.33,Retail Store
+SO-10543,2024-09-13,West,Home & Kitchen,Stand Mixer,Ella Lewis,2,USD,227.07,0.05,431.43,Partner
+SO-10544,2024-09-13,East,Books,Growth Analytics 101,Noah Patel,3,USD,26.23,0.05,74.76,Partner
+SO-10545,2024-09-14,West,Home & Kitchen,Air Purifier XL,Luna Cooper,2,USD,124.52,0.05,236.59,Retail Store
+SO-10546,2024-09-14,North,Beauty,Ceramic Hair Dryer,Leo Martin,1,USD,83.29,0.1,74.96,Online
+SO-10547,2024-09-14,South,Books,The Data Cookbook,Ella Lewis,4,USD,40.25,0,161,Online
+SO-10548,2024-09-15,West,Sports,Adjustable Dumbbells,Luna Cooper,3,USD,218.21,0,654.63,Partner
+SO-10549,2024-09-15,North,Sports,Yoga Mat Pro,Leo Martin,2,USD,72.68,0.05,138.09,Retail Store
+SO-10550,2024-09-15,North,Beauty,Facial Serum 30ml,Amelia Scott,3,USD,46.43,0.05,132.33,Online
+SO-10551,2024-09-15,West,Beauty,Lavender Candle Set,Chloe Diaz,4,USD,38.44,0,153.76,Partner
+SO-10552,2024-09-16,Central,Books,Design Systems Handbook,Harper Wright,3,USD,46.99,0.05,133.92,Online
+SO-10553,2024-09-16,South,Electronics,Smart Watch S2,Oliver King,1,USD,369.58,0.05,351.1,Online
+SO-10554,2024-09-16,West,Books,The Data Cookbook,Leo Martin,3,USD,36.11,0.05,102.91,Partner
+SO-10555,2024-09-17,South,Home & Kitchen,Air Purifier XL,James Hall,4,USD,117.1,0.1,421.56,Partner
+SO-10556,2024-09-17,West,Books,Design Systems Handbook,Lucas Nguyen,2,USD,48.77,0.05,92.66,Online
+SO-10557,2024-09-17,Central,Home & Kitchen,Robot Vacuum E5,Elijah Torres,2,USD,290.15,0.15,493.25,Retail Store
+SO-10558,2024-09-18,North,Sports,Trail Running Shoes,Lucas Nguyen,1,USD,131.97,0.1,118.77,Online
+SO-10559,2024-09-18,North,Electronics,Smart Watch S2,Elijah Torres,3,USD,386.19,0,1158.57,Online
+SO-10560,2024-09-19,Central,Sports,Cycling Helmet,Mason Hill,3,USD,67.85,0,203.55,Partner
+SO-10561,2024-09-19,Central,Books,Design Systems Handbook,Henry Green,4,USD,52.91,0,211.64,Online
+SO-10562,2024-09-20,East,Books,The Data Cookbook,Evelyn Adams,1,USD,38.52,0,38.52,Partner
+SO-10563,2024-09-21,West,Sports,Adjustable Dumbbells,Lucas Nguyen,3,USD,250.52,0,751.56,Retail Store
+SO-10564,2024-09-21,West,Electronics,Noise-Cancelling Headphones,Chloe Diaz,1,USD,266.39,0,266.39,Retail Store
+SO-10565,2024-09-21,West,Home & Kitchen,Stand Mixer,Sofia Kim,4,USD,223.83,0,895.32,Online
+SO-10566,2024-09-22,Central,Beauty,Facial Serum 30ml,Lucas Nguyen,4,USD,48.03,0.05,182.51,Retail Store
+SO-10567,2024-09-22,Central,Home & Kitchen,Stand Mixer,Mia Chen,1,USD,224.21,0.15,190.58,Online
+SO-10568,2024-09-22,West,Books,Growth Analytics 101,Ella Lewis,3,USD,25.23,0,75.69,Partner
+SO-10569,2024-09-23,West,Books,Design Systems Handbook,Owen Price,2,USD,47.82,0,95.64,Partner
+SO-10570,2024-09-23,East,Electronics,Noise-Cancelling Headphones,Ava Thompson,2,USD,270.86,0.1,487.55,Retail Store
+SO-10571,2024-09-23,North,Books,The Data Cookbook,Ethan Brown,2,USD,43.63,0,87.26,Retail Store
+SO-10572,2024-09-24,West,Home & Kitchen,Air Purifier XL,Ava Thompson,3,USD,139.56,0.15,355.88,Online
+SO-10573,2024-09-24,Central,Beauty,Facial Serum 30ml,Ethan Walker,3,USD,45.72,0,137.16,Retail Store
+SO-10574,2024-09-24,West,Books,The Data Cookbook,Ethan Walker,1,USD,36.7,0,36.7,Online
+SO-10575,2024-09-25,South,Books,Growth Analytics 101,Hudson Reed,2,USD,26.82,0.15,45.59,Partner
+SO-10576,2024-09-25,Central,Home & Kitchen,Robot Vacuum E5,Jack Rivera,2,USD,313.45,0.05,595.55,Partner
+SO-10577,2024-09-25,West,Electronics,4K Action Camera,Luna Cooper,2,USD,169.44,0,338.88,Partner
+SO-10578,2024-09-26,East,Home & Kitchen,Robot Vacuum E5,Sofia Kim,3,USD,288.94,0.05,823.48,Partner
+SO-10579,2024-09-26,West,Beauty,Ceramic Hair Dryer,Ava Thompson,1,USD,97.69,0,97.69,Partner
+SO-10580,2024-09-27,East,Home & Kitchen,Air Purifier XL,Amelia Scott,1,USD,141.39,0.05,134.32,Partner
+SO-10581,2024-09-28,Central,Sports,Yoga Mat Pro,Sofia Kim,2,USD,86.39,0.15,146.86,Online
+SO-10582,2024-09-28,West,Home & Kitchen,Espresso Machine,Oliver King,1,USD,138.36,0,138.36,Online
+SO-10583,2024-09-29,Central,Sports,Adjustable Dumbbells,Oliver King,1,USD,221.49,0,221.49,Partner
+SO-10584,2024-09-29,West,Books,Design Systems Handbook,Hudson Reed,2,USD,48.14,0,96.28,Online
+SO-10585,2024-09-29,West,Books,Growth Analytics 101,Ethan Walker,1,USD,26.24,0.05,24.93,Partner
+SO-10586,2024-09-30,North,Sports,Trail Running Shoes,Luna Cooper,1,USD,142.43,0.1,128.19,Online
+SO-10587,2024-09-30,East,Beauty,Ceramic Hair Dryer,Charlotte Lee,1,USD,82.74,0,82.74,Partner
+SO-10588,2024-10-01,West,Beauty,Lavender Candle Set,James Hall,1,USD,34.99,0.1,31.49,Retail Store
+SO-10589,2024-10-01,West,Electronics,Smart Watch S2,Jack Rivera,2,USD,432.27,0,864.54,Online
+SO-10590,2024-10-02,West,Beauty,Lavender Candle Set,James Hall,3,USD,33.65,0,100.95,Partner
+SO-10591,2024-10-02,West,Home & Kitchen,Espresso Machine,Noah Patel,2,USD,142.6,0,285.2,Retail Store
+SO-10592,2024-10-03,West,Electronics,Smart Watch S2,Ava Thompson,4,USD,372.63,0.05,1415.99,Online
+SO-10593,2024-10-03,West,Sports,Yoga Mat Pro,Mason Hill,2,USD,75.02,0,150.04,Partner
+SO-10594,2024-10-04,East,Electronics,Noise-Cancelling Headphones,Ella Lewis,4,USD,230.58,0.15,783.97,Retail Store
+SO-10595,2024-10-04,West,Beauty,Facial Serum 30ml,Mason Hill,1,USD,42.78,0.05,40.64,Retail Store
+SO-10596,2024-10-05,Central,Sports,Cycling Helmet,Nora Sanders,2,USD,62.95,0,125.9,Partner
+SO-10597,2024-10-05,Central,Books,Design Systems Handbook,Noah Patel,3,USD,53.71,0.15,136.96,Online
+SO-10598,2024-10-06,West,Books,Growth Analytics 101,Noah Patel,4,USD,25.46,0.05,96.75,Partner
+SO-10599,2024-10-06,East,Books,Growth Analytics 101,Owen Price,4,USD,25.7,0,102.8,Retail Store
+SO-10600,2024-10-06,East,Home & Kitchen,Espresso Machine,Harper Wright,2,USD,140.88,0.05,267.67,Online
+SO-10601,2024-10-07,North,Books,Growth Analytics 101,Owen Price,1,USD,24.36,0,24.36,Partner
+SO-10602,2024-10-07,North,Sports,Adjustable Dumbbells,Ava Thompson,4,USD,246.95,0,987.8,Partner
+SO-10603,2024-10-07,South,Sports,Trail Running Shoes,Isabella Garcia,3,USD,149.11,0,447.33,Retail Store
+SO-10604,2024-10-08,West,Books,Design Systems Handbook,Noah Patel,1,USD,48.54,0,48.54,Partner
+SO-10605,2024-10-08,West,Sports,Cycling Helmet,Evelyn Adams,1,USD,69.31,0,69.31,Retail Store
+SO-10606,2024-10-09,East,Home & Kitchen,Nonstick Cookware Set,Noah Patel,4,USD,127,0,508,Partner
+SO-10607,2024-10-09,West,Beauty,Ceramic Hair Dryer,Henry Green,4,USD,94.65,0,378.6,Partner
+SO-10608,2024-10-09,West,Electronics,Wireless Keyboard,Henry Green,1,USD,88.28,0.1,79.45,Online
+SO-10609,2024-10-10,South,Beauty,Facial Serum 30ml,Noah Patel,3,USD,44.19,0.1,119.31,Retail Store
+SO-10610,2024-10-10,South,Books,Growth Analytics 101,Noah Patel,3,USD,26.21,0.15,66.84,Partner
+SO-10611,2024-10-11,West,Home & Kitchen,Robot Vacuum E5,Mason Hill,2,USD,317.09,0.15,539.05,Partner
+SO-10612,2024-10-12,Central,Sports,Adjustable Dumbbells,Chloe Diaz,2,USD,207.39,0,414.78,Retail Store
+SO-10613,2024-10-12,East,Books,The Data Cookbook,Oliver King,1,USD,43.11,0.05,40.95,Online
+SO-10614,2024-10-13,East,Books,The Data Cookbook,Ava Thompson,1,USD,42.19,0.15,35.86,Online
+SO-10615,2024-10-13,West,Books,Design Systems Handbook,Sofia Kim,1,USD,51.15,0.15,43.48,Online
+SO-10616,2024-10-14,East,Beauty,Facial Serum 30ml,Amelia Scott,1,USD,41.43,0.1,37.29,Partner
+SO-10617,2024-10-14,East,Sports,Cycling Helmet,Nora Sanders,3,USD,67.6,0.05,192.66,Partner
+SO-10618,2024-10-15,West,Home & Kitchen,Stand Mixer,Ella Lewis,4,USD,197.2,0,788.8,Retail Store
+SO-10619,2024-10-15,Central,Beauty,Lavender Candle Set,Oliver King,4,USD,37.45,0.1,134.82,Online
+SO-10620,2024-10-16,East,Sports,Yoga Mat Pro,Chloe Diaz,1,USD,84.41,0.15,71.75,Online
+SO-10621,2024-10-16,West,Sports,Adjustable Dumbbells,Jack Rivera,3,USD,230.6,0,691.8,Retail Store
+SO-10622,2024-10-17,East,Beauty,Facial Serum 30ml,Lucas Nguyen,1,USD,41.26,0.05,39.2,Online
+SO-10623,2024-10-17,West,Sports,Trail Running Shoes,Nora Sanders,1,USD,137.39,0,137.39,Partner
+SO-10624,2024-10-18,South,Home & Kitchen,Air Purifier XL,Leo Martin,3,USD,130.43,0.15,332.6,Online
+SO-10625,2024-10-18,West,Books,Design Systems Handbook,Charlotte Lee,1,USD,53.94,0,53.94,Retail Store
+SO-10626,2024-10-19,North,Books,The Data Cookbook,Ava Thompson,2,USD,36.61,0,73.22,Partner
+SO-10627,2024-10-19,North,Beauty,Lavender Candle Set,Ava Thompson,1,USD,37.8,0.1,34.02,Partner
+SO-10628,2024-10-20,East,Sports,Yoga Mat Pro,Nora Sanders,1,USD,78.62,0.05,74.69,Partner
+SO-10629,2024-10-20,West,Electronics,Wireless Keyboard,James Hall,1,USD,88.84,0.15,75.51,Online
+SO-10630,2024-10-21,East,Sports,Yoga Mat Pro,Hudson Reed,2,USD,77.05,0.1,138.69,Partner
+SO-10631,2024-10-21,West,Beauty,Lavender Candle Set,Sofia Kim,3,USD,36.9,0.1,99.63,Retail Store
+SO-10632,2024-10-22,West,Sports,Cycling Helmet,Owen Price,1,USD,65.31,0,65.31,Online
+SO-10633,2024-10-22,West,Home & Kitchen,Stand Mixer,Aria Nelson,3,USD,199.45,0,598.35,Online
+SO-10634,2024-10-23,West,Sports,Trail Running Shoes,Lucas Nguyen,2,USD,139.02,0.1,250.24,Online
+SO-10635,2024-10-23,West,Sports,Yoga Mat Pro,Amelia Scott,1,USD,84.95,0,84.95,Partner
+SO-10636,2024-10-24,South,Electronics,USB-C Hub 8-in-1,Mia Chen,2,USD,63.09,0.05,119.87,Partner
+SO-10637,2024-10-24,Central,Electronics,4K Action Camera,Abigail Young,1,USD,171.3,0,171.3,Partner
+SO-10638,2024-10-25,West,Books,The Data Cookbook,Noah Patel,3,USD,36.33,0,108.99,Online
+SO-10639,2024-10-25,Central,Home & Kitchen,Robot Vacuum E5,Noah Patel,3,USD,292.24,0.1,789.05,Partner
+SO-10640,2024-10-26,South,Electronics,4K Action Camera,Evelyn Adams,4,USD,172.39,0,689.56,Retail Store
+SO-10641,2024-10-26,South,Beauty,Lavender Candle Set,Henry Green,1,USD,33.32,0.05,31.65,Online
+SO-10642,2024-10-27,North,Home & Kitchen,Nonstick Cookware Set,Leo Martin,1,USD,115.98,0,115.98,Online
+SO-10643,2024-10-27,Central,Beauty,Ceramic Hair Dryer,Oliver King,3,USD,85.23,0,255.69,Retail Store
+SO-10644,2024-10-27,East,Home & Kitchen,Stand Mixer,Evelyn Adams,2,USD,200.82,0,401.64,Online
+SO-10645,2024-10-28,Central,Sports,Cycling Helmet,Chloe Diaz,2,USD,69.78,0,139.56,Partner
+SO-10646,2024-10-29,East,Beauty,Lavender Candle Set,Luna Cooper,1,USD,36.61,0.05,34.78,Partner
+SO-10647,2024-10-29,Central,Sports,Yoga Mat Pro,Isabella Garcia,2,USD,87.6,0.1,157.68,Online
+SO-10648,2024-10-29,North,Electronics,Smart Watch S2,Isabella Garcia,4,USD,397.9,0,1591.6,Online
+SO-10649,2024-10-30,West,Books,The Data Cookbook,Nora Sanders,3,USD,43.93,0.05,125.2,Retail Store
+SO-10650,2024-10-30,Central,Home & Kitchen,Air Purifier XL,Jack Rivera,2,USD,136.96,0.05,260.22,Retail Store
+SO-10651,2024-10-30,East,Sports,Yoga Mat Pro,Nora Sanders,2,USD,77.08,0.1,138.74,Online
+SO-10652,2024-10-31,South,Electronics,4K Action Camera,Jack Rivera,1,USD,192.13,0.15,163.31,Retail Store
+SO-10653,2024-10-31,East,Electronics,USB-C Hub 8-in-1,Henry Green,1,USD,61.56,0.05,58.48,Retail Store
+SO-10654,2024-11-01,West,Beauty,Ceramic Hair Dryer,Noah Patel,3,USD,91.97,0.05,262.11,Online
+SO-10655,2024-11-01,Central,Home & Kitchen,Nonstick Cookware Set,Noah Patel,1,USD,128.9,0,128.9,Retail Store
+SO-10656,2024-11-02,West,Books,Growth Analytics 101,Liam Rodriguez,1,USD,23.82,0,23.82,Partner
+SO-10657,2024-11-02,Central,Electronics,Noise-Cancelling Headphones,Isabella Garcia,4,USD,274.74,0.1,989.06,Partner
+SO-10658,2024-11-02,West,Home & Kitchen,Robot Vacuum E5,Ava Thompson,3,USD,284.82,0.1,769.01,Retail Store
+SO-10659,2024-11-03,South,Beauty,Ceramic Hair Dryer,Chloe Diaz,4,USD,84.82,0.15,288.39,Partner
+SO-10660,2024-11-03,West,Electronics,Wireless Keyboard,Nora Sanders,3,USD,92,0,276,Online
+SO-10661,2024-11-04,East,Beauty,Facial Serum 30ml,Noah Patel,4,USD,45.95,0,183.8,Partner
+SO-10662,2024-11-04,West,Electronics,Wireless Keyboard,Isabella Garcia,1,USD,97.39,0,97.39,Retail Store
+SO-10663,2024-11-04,West,Electronics,Smart Watch S2,Abigail Young,2,USD,390.92,0,781.84,Online
+SO-10664,2024-11-05,East,Sports,Cycling Helmet,Isabella Garcia,1,USD,69.72,0,69.72,Partner
+SO-10665,2024-11-05,West,Beauty,Facial Serum 30ml,Aria Nelson,4,USD,44.36,0.1,159.7,Partner
+SO-10666,2024-11-06,West,Sports,Trail Running Shoes,Lucas Nguyen,4,USD,149.11,0.15,506.97,Partner
+SO-10667,2024-11-06,South,Books,The Data Cookbook,Ava Thompson,2,USD,40.11,0,80.22,Partner
+SO-10668,2024-11-07,Central,Books,The Data Cookbook,Abigail Young,2,USD,39.38,0.1,70.88,Online
+SO-10669,2024-11-07,South,Beauty,Lavender Candle Set,Isabella Garcia,2,USD,37.52,0,75.04,Retail Store
+SO-10670,2024-11-07,West,Home & Kitchen,Nonstick Cookware Set,Ava Thompson,1,USD,127.17,0,127.17,Retail Store
+SO-10671,2024-11-08,East,Electronics,Smart Watch S2,Mia Chen,1,USD,426.29,0.15,362.35,Retail Store
+SO-10672,2024-11-08,East,Electronics,Noise-Cancelling Headphones,Abigail Young,1,USD,254.83,0.15,216.61,Retail Store
+SO-10673,2024-11-08,West,Sports,Cycling Helmet,Ava Thompson,3,USD,58.79,0,176.37,Retail Store
+SO-10674,2024-11-09,West,Home & Kitchen,Espresso Machine,Ella Lewis,3,USD,142.72,0.1,385.34,Retail Store
+SO-10675,2024-11-09,West,Home & Kitchen,Nonstick Cookware Set,Ethan Walker,4,USD,113.59,0,454.36,Online
+SO-10676,2024-11-10,North,Beauty,Facial Serum 30ml,Luna Cooper,3,USD,46.9,0,140.7,Retail Store
+SO-10677,2024-11-10,North,Electronics,Wireless Keyboard,Lucas Nguyen,1,USD,97.71,0.1,87.94,Partner
+SO-10678,2024-11-11,West,Sports,Yoga Mat Pro,Henry Green,2,USD,81.75,0,163.5,Retail Store
+SO-10679,2024-11-11,Central,Sports,Cycling Helmet,Abigail Young,1,USD,65.85,0,65.85,Retail Store
+SO-10680,2024-11-12,South,Home & Kitchen,Nonstick Cookware Set,Ava Thompson,2,USD,123.21,0,246.42,Partner
+SO-10681,2024-11-13,East,Home & Kitchen,Nonstick Cookware Set,Harper Wright,1,USD,123.38,0.15,104.87,Online
+SO-10682,2024-11-13,South,Home & Kitchen,Stand Mixer,Ava Thompson,4,USD,218.53,0.05,830.41,Online
+SO-10683,2024-11-13,West,Electronics,4K Action Camera,Evelyn Adams,2,USD,174.32,0.05,331.21,Retail Store
+SO-10684,2024-11-14,East,Books,The Data Cookbook,Charlotte Lee,1,USD,39.58,0,39.58,Online
+SO-10685,2024-11-15,East,Books,Design Systems Handbook,Ella Lewis,1,USD,48.25,0.05,45.84,Retail Store
+SO-10686,2024-11-15,West,Sports,Trail Running Shoes,Isabella Garcia,1,USD,145.16,0.05,137.9,Partner
+SO-10687,2024-11-16,West,Electronics,Noise-Cancelling Headphones,Noah Patel,1,USD,252.23,0,252.23,Partner
+SO-10688,2024-11-16,Central,Books,The Data Cookbook,Isabella Garcia,3,USD,38.97,0,116.91,Retail Store
+SO-10689,2024-11-17,East,Beauty,Lavender Candle Set,Nora Sanders,1,USD,35.09,0.15,29.83,Online
+SO-10690,2024-11-17,Central,Books,Design Systems Handbook,Lucas Nguyen,1,USD,51.19,0.05,48.63,Online
+SO-10691,2024-11-17,West,Electronics,Noise-Cancelling Headphones,Harper Wright,1,USD,239.89,0.15,203.91,Online
+SO-10692,2024-11-18,East,Electronics,Wireless Keyboard,Harper Wright,1,USD,680.64,0.15,578.54,Online
+SO-10693,2024-11-19,West,Sports,Cycling Helmet,Mia Chen,3,USD,64.1,0.1,173.07,Retail Store
+SO-10694,2024-11-19,West,Books,Growth Analytics 101,Henry Green,3,USD,26.54,0,79.62,Online
+SO-10695,2024-11-20,West,Home & Kitchen,Stand Mixer,Mia Chen,1,USD,196.6,0.15,167.11,Online
+SO-10696,2024-11-20,Central,Home & Kitchen,Robot Vacuum E5,Harper Wright,1,USD,278.67,0,278.67,Partner
+SO-10697,2024-11-20,East,Electronics,Noise-Cancelling Headphones,Isabella Garcia,3,USD,260.2,0,780.6,Retail Store
+SO-10698,2024-11-21,East,Electronics,Noise-Cancelling Headphones,Noah Patel,2,USD,265.11,0.1,477.2,Retail Store
+SO-10699,2024-11-21,West,Home & Kitchen,Air Purifier XL,Noah Patel,1,USD,128.06,0.1,115.25,Partner
+SO-10700,2024-11-22,West,Sports,Trail Running Shoes,Ethan Walker,1,USD,139.48,0.1,125.53,Partner
+SO-10701,2024-11-22,West,Sports,Cycling Helmet,Nora Sanders,1,USD,63.43,0,63.43,Online
+SO-10702,2024-11-23,West,Home & Kitchen,Robot Vacuum E5,Luna Cooper,2,USD,261.05,0,522.1,Retail Store
+SO-10703,2024-11-23,Central,Electronics,Noise-Cancelling Headphones,James Hall,1,USD,266.51,0,266.51,Partner
+SO-10704,2024-11-24,East,Electronics,Smart Watch S2,Harper Wright,1,USD,377.52,0.15,320.89,Partner
+SO-10705,2024-11-24,West,Sports,Trail Running Shoes,Lucas Nguyen,4,USD,141.55,0,566.2,Online
+SO-10706,2024-11-25,South,Beauty,Facial Serum 30ml,Noah Patel,3,USD,46.21,0.15,117.84,Retail Store
+SO-10707,2024-11-26,North,Electronics,Noise-Cancelling Headphones,Lucas Nguyen,3,USD,266.89,0,800.67,Partner
+SO-10708,2024-11-26,West,Books,Growth Analytics 101,Mia Chen,2,USD,23.95,0,47.9,Partner
+SO-10709,2024-11-27,East,Sports,Cycling Helmet,Oliver King,1,USD,61.21,0.1,55.09,Online
+SO-10710,2024-11-27,West,Home & Kitchen,Robot Vacuum E5,Lucas Nguyen,2,USD,314.08,0,628.16,Online
+SO-10711,2024-11-27,West,Books,The Data Cookbook,Luna Cooper,1,USD,40.67,0.15,34.57,Retail Store
+SO-10712,2024-11-28,Central,Sports,Yoga Mat Pro,Henry Green,3,USD,81.39,0.05,231.96,Online
+SO-10713,2024-11-28,South,Electronics,USB-C Hub 8-in-1,Ella Lewis,1,USD,55.45,0.15,47.13,Partner
+SO-10714,2024-11-28,North,Beauty,Lavender Candle Set,Elijah Torres,1,USD,36.76,0,36.76,Retail Store
+SO-10715,2024-11-29,West,Books,Design Systems Handbook,Luna Cooper,1,USD,48.35,0,48.35,Online
+SO-10716,2024-11-29,Central,Electronics,Wireless Keyboard,Owen Baker,2,USD,87.45,0,174.9,Retail Store
+SO-10717,2024-11-29,East,Beauty,Lavender Candle Set,Ava Thompson,4,USD,33.66,0,134.64,Online
+SO-10718,2024-11-30,West,Electronics,Smart Watch S2,Ava Thompson,1,USD,379.65,0,379.65,Online
+SO-10719,2024-11-30,West,Electronics,Smart Watch S2,Ethan Brown,3,USD,362.46,0,1087.38,Retail Store
+SO-10720,2024-12-01,North,Electronics,Noise-Cancelling Headphones,Owen Baker,1,USD,225.46,0,225.46,Online
+SO-10721,2024-12-01,Central,Electronics,Noise-Cancelling Headphones,Amelia Scott,1,USD,252.98,0.15,215.03,Online
+SO-10722,2024-12-02,East,Books,Growth Analytics 101,Isabella Garcia,4,USD,24.4,0,97.6,Partner
+SO-10723,2024-12-02,South,Books,Growth Analytics 101,Owen Baker,3,USD,23.45,0,70.35,Retail Store
+SO-10724,2024-12-03,Central,Electronics,Noise-Cancelling Headphones,Hudson Reed,4,USD,233.22,0.15,792.95,Partner
+SO-10725,2024-12-03,South,Books,Growth Analytics 101,Leo Martin,1,USD,24.96,0.1,22.46,Retail Store
+SO-10726,2024-12-03,North,Home & Kitchen,Nonstick Cookware Set,Isabella Garcia,3,USD,118.04,0.15,301,Partner
+SO-10727,2024-12-04,West,Sports,Yoga Mat Pro,Ava Thompson,2,USD,74.96,0,149.92,Partner
+SO-10728,2024-12-04,East,Books,Design Systems Handbook,Ella Lewis,2,USD,48.36,0.1,87.05,Retail Store
+SO-10729,2024-12-05,West,Home & Kitchen,Robot Vacuum E5,Aria Nelson,2,USD,302.57,0.05,574.88,Online
+SO-10730,2024-12-05,East,Beauty,Ceramic Hair Dryer,Ethan Walker,2,USD,84.21,0.05,160,Partner
+SO-10731,2024-12-06,East,Books,Design Systems Handbook,Lucas Nguyen,1,USD,53.74,0.15,45.68,Online
+SO-10732,2024-12-06,East,Sports,Trail Running Shoes,Ava Thompson,4,USD,125.23,0.05,475.87,Retail Store
+SO-10733,2024-12-06,Central,Sports,Yoga Mat Pro,Chloe Diaz,3,USD,76.53,0.1,206.63,Retail Store
+SO-10734,2024-12-07,West,Books,Growth Analytics 101,Noah Patel,4,USD,25.12,0.1,90.43,Partner
+SO-10735,2024-12-07,West,Electronics,4K Action Camera,Ava Thompson,3,USD,189.6,0,568.8,Partner
+SO-10736,2024-12-08,West,Beauty,Facial Serum 30ml,Ethan Walker,3,USD,44.99,0,134.97,Retail Store
+SO-10737,2024-12-08,West,Beauty,Facial Serum 30ml,Ava Thompson,3,USD,48.2,0.1,130.14,Retail Store
+SO-10738,2024-12-09,South,Beauty,Facial Serum 30ml,Ava Thompson,3,USD,41.42,0,124.26,Online
+SO-10739,2024-12-09,West,Sports,Yoga Mat Pro,Amelia Scott,1,USD,81.84,0.05,77.75,Retail Store
+SO-10740,2024-12-10,West,Sports,Cycling Helmet,Henry Green,1,USD,62.89,0,62.89,Partner
+SO-10741,2024-12-10,East,Beauty,Lavender Candle Set,Isabella Garcia,1,USD,32.78,0.15,27.86,Retail Store
+SO-10742,2024-12-11,South,Beauty,Lavender Candle Set,Lucas Nguyen,1,USD,31.58,0,31.58,Partner
+SO-10743,2024-12-11,West,Home & Kitchen,Robot Vacuum E5,Lucas Nguyen,2,USD,278.97,0.15,474.25,Retail Store
+SO-10744,2024-12-12,West,Home & Kitchen,Air Purifier XL,Ethan Brown,1,USD,128.03,0.15,108.83,Retail Store
+SO-10745,2024-12-12,East,Sports,Trail Running Shoes,Harper Wright,2,USD,139.44,0.15,237.05,Partner
+SO-10746,2024-12-12,Central,Home & Kitchen,Air Purifier XL,Henry Green,4,USD,127.05,0.1,457.38,Retail Store
+SO-10747,2024-12-13,East,Books,Growth Analytics 101,Ava Thompson,1,USD,22.77,0,22.77,Partner
+SO-10748,2024-12-13,West,Home & Kitchen,Espresso Machine,Sofia Kim,3,USD,147.47,0,442.41,Retail Store
+SO-10749,2024-12-13,West,Books,Design Systems Handbook,Luna Cooper,2,USD,48.62,0.05,92.38,Partner
+SO-10750,2024-12-14,East,Home & Kitchen,Stand Mixer,James Hall,1,USD,199.82,0.15,169.85,Online
+SO-10751,2024-12-14,East,Sports,Trail Running Shoes,Evelyn Adams,61,USD,128.33,0.15,6653.91,Partner
+SO-10752,2024-12-14,East,Home & Kitchen,Stand Mixer,Sofia Kim,1,USD,216.17,0,216.17,Partner
+SO-10753,2024-12-15,East,Books,Design Systems Handbook,Ava Thompson,3,USD,47.79,0,143.37,Online
+SO-10754,2024-12-15,South,Books,The Data Cookbook,Noah Patel,4,USD,42.59,0.05,161.84,Partner
+SO-10755,2024-12-15,North,Sports,Cycling Helmet,Scarlet Clark,3,USD,66.56,0,199.68,Partner
+SO-10756,2024-12-16,Central,Home & Kitchen,Espresso Machine,Noah Patel,2,USD,137.95,0,275.9,Online
+SO-10757,2024-12-17,West,Beauty,Ceramic Hair Dryer,Ava Thompson,1,USD,95.4,0.05,90.63,Partner
+SO-10758,2024-12-17,West,Electronics,4K Action Camera,Ethan Brown,3,USD,193.9,0.15,494.45,Partner
+SO-10759,2024-12-18,South,Sports,Yoga Mat Pro,Lucas Nguyen,1,USD,85.25,0,85.25,Partner
+SO-10760,2024-12-18,West,Electronics,Smart Watch S2,Lucas Nguyen,1,USD,417,0,417,Partner
+SO-10761,2024-12-18,West,Beauty,Lavender Candle Set,Abigail Young,2,USD,36.41,0,72.82,Online
+SO-10762,2024-12-19,West,Electronics,4K Action Camera,Noah Patel,1,USD,174.8,0.15,148.58,Partner
+SO-10763,2024-12-19,Central,Electronics,Smart Watch S2,Luna Cooper,4,USD,434.54,0,1738.16,Partner
+SO-10764,2024-12-20,North,Sports,Yoga Mat Pro,Owen Baker,3,USD,79.22,0.05,225.78,Online
+SO-10765,2024-12-21,Central,Books,Growth Analytics 101,Owen Baker,2,USD,24.82,0,49.64,Partner
+SO-10766,2024-12-21,North,Sports,Trail Running Shoes,Noah Patel,3,USD,151.56,0,454.68,Online
+SO-10767,2024-12-22,East,Home & Kitchen,Stand Mixer,Harper Wright,1,USD,204.19,0,204.19,Partner
+SO-10768,2024-12-22,Central,Home & Kitchen,Nonstick Cookware Set,Evelyn Adams,3,USD,125.79,0.05,358.5,Partner
+SO-10769,2024-12-22,West,Books,Design Systems Handbook,Mia Chen,2,USD,44.71,0.05,84.95,Retail Store
+SO-10770,2024-12-23,West,Electronics,Noise-Cancelling Headphones,Lucas Nguyen,1,USD,241.21,0.05,229.15,Retail Store
+SO-10771,2024-12-23,Central,Sports,Yoga Mat Pro,Noah Patel,2,USD,75.45,0,150.9,Retail Store
+SO-10772,2024-12-24,West,Home & Kitchen,Robot Vacuum E5,Henry Green,4,USD,313.96,0,1255.84,Retail Store
+SO-10773,2024-12-24,East,Sports,Adjustable Dumbbells,Ava Thompson,3,USD,232.19,0,696.57,Online
+SO-10774,2024-12-24,West,Books,The Data Cookbook,Lucas Nguyen,2,USD,42.99,0.15,73.08,Online
+SO-10775,2024-12-25,South,Books,The Data Cookbook,Scarlet Clark,2,USD,42.54,0,85.08,Retail Store
+SO-10776,2024-12-25,Central,Sports,Yoga Mat Pro,Ava Thompson,3,USD,74.06,0,222.18,Partner
+SO-10777,2024-12-25,North,Sports,Trail Running Shoes,Ava Thompson,1,USD,138.85,0.15,118.02,Retail Store
+SO-10778,2024-12-26,South,Books,Growth Analytics 101,Owen Price,1,USD,23.6,0.15,20.06,Online
+SO-10779,2024-12-26,East,Home & Kitchen,Robot Vacuum E5,Mason Hill,2,USD,292.52,0.1,526.54,Retail Store
+SO-10780,2024-12-26,West,Beauty,Ceramic Hair Dryer,Lucas Nguyen,4,USD,90.96,0,363.84,Retail Store
+SO-10781,2024-12-27,West,Electronics,4K Action Camera,Jack Rivera,4,USD,170.01,0.05,646.04,Retail Store
+SO-10782,2024-12-27,North,Sports,Yoga Mat Pro,Sofia Kim,3,USD,76.26,0,228.78,Online
+SO-10783,2024-12-27,East,Home & Kitchen,Air Purifier XL,Ava Thompson,2,USD,120.34,0.1,216.61,Retail Store
+SO-10784,2024-12-28,West,Home & Kitchen,Air Purifier XL,Ethan Brown,1,USD,121.16,0.15,102.99,Retail Store
+SO-10785,2024-12-28,East,Home & Kitchen,Nonstick Cookware Set,Isabella Garcia,1,USD,121.19,0.05,115.13,Online
+SO-10786,2024-12-29,North,Beauty,Facial Serum 30ml,Jack Rivera,2,USD,46.65,0.1,83.97,Retail Store
+SO-10787,2024-12-29,Central,Electronics,Noise-Cancelling Headphones,Liam Rodriguez,1,USD,242.26,0.05,230.15,Online
+SO-10788,2024-12-29,East,Beauty,Lavender Candle Set,Mia Chen,1,USD,35.1,0.15,29.84,Retail Store
+SO-10789,2024-12-30,East,Beauty,Ceramic Hair Dryer,James Hall,2,USD,82.84,0,165.68,Online
+SO-10790,2024-12-31,East,Home & Kitchen,Robot Vacuum E5,Sofia Kim,1,USD,305.03,0,305.03,Partner
+SO-10791,2024-12-31,Central,Beauty,Lavender Candle Set,Harper Wright,2,USD,36.55,0,73.1,Online
+SO-10792,2024-12-31,South,Home & Kitchen,Espresso Machine,Ava Thompson,4,USD,143.69,0,574.76,Partner
+SO-10793,2025-01-01,East,Books,The Data Cookbook,Leo Martin,2,USD,39.39,0.05,74.84,Retail Store
+SO-10794,2025-01-01,North,Books,The Data Cookbook,Owen Price,2,USD,39.16,0.1,70.49,Partner
+SO-10795,2025-01-02,West,Beauty,Lavender Candle Set,Amelia Scott,4,USD,33.15,0.15,112.71,Online
+SO-10796,2025-01-02,South,Books,Growth Analytics 101,Nora Sanders,3,USD,22.71,0.15,57.91,Partner
+SO-10797,2025-01-03,West,Books,Growth Analytics 101,Ella Lewis,3,USD,23.49,0,70.47,Retail Store
+SO-10798,2025-01-03,West,Beauty,Ceramic Hair Dryer,Mia Chen,4,USD,82.17,0.05,312.25,Partner
+SO-10799,2025-01-04,Central,Home & Kitchen,Nonstick Cookware Set,Hudson Reed,2,USD,124.13,0.1,223.43,Partner
+SO-10800,2025-01-04,West,Beauty,Facial Serum 30ml,Luna Cooper,1,USD,49.36,0.05,46.89,Retail Store
+SO-10801,2025-01-04,West,Beauty,Ceramic Hair Dryer,Ava Thompson,2,USD,93.22,0.15,158.47,Retail Store
+SO-10802,2025-01-05,North,Electronics,USB-C Hub 8-in-1,Chloe Diaz,1,USD,63.92,0.15,54.33,Online
+SO-10803,2025-01-05,South,Beauty,Lavender Candle Set,Scarlet Clark,3,USD,35.4,0.05,100.89,Retail Store
+SO-10804,2025-01-05,East,Books,Growth Analytics 101,Aria Nelson,1,USD,25.33,0.1,22.8,Online
+SO-10805,2025-01-06,West,Beauty,Lavender Candle Set,Lucas Nguyen,3,USD,33.32,0.15,84.97,Partner
+SO-10806,2025-01-06,West,Books,The Data Cookbook,Elijah Torres,2,USD,37.28,0.15,63.38,Online
+SO-10807,2025-01-07,East,Home & Kitchen,Robot Vacuum E5,Aria Nelson,2,USD,312.56,0.05,593.86,Online
+SO-10808,2025-01-07,East,Beauty,Facial Serum 30ml,Lucas Nguyen,2,USD,47.28,0,94.56,Partner
+SO-10809,2025-01-08,West,Sports,Cycling Helmet,Elijah Torres,2,USD,61.35,0.1,110.43,Online
+SO-10810,2025-01-09,West,Sports,Trail Running Shoes,Lucas Nguyen,1,USD,132.61,0,132.61,Online
+SO-10811,2025-01-10,West,Electronics,Smart Watch S2,Lucas Nguyen,1,USD,405.82,0.1,365.24,Retail Store
+SO-10812,2025-01-10,East,Books,Growth Analytics 101,Lucas Nguyen,4,USD,26.44,0,105.76,Partner
+SO-10813,2025-01-11,West,Beauty,Lavender Candle Set,Nora Sanders,2,USD,36.01,0.15,61.22,Retail Store
+SO-10814,2025-01-11,West,Electronics,Noise-Cancelling Headphones,Chloe Diaz,1,USD,266.52,0,266.52,Online
+SO-10815,2025-01-12,West,Books,Growth Analytics 101,Noah Patel,1,USD,23.79,0.1,21.41,Online
+SO-10816,2025-01-12,West,Beauty,Ceramic Hair Dryer,Isabella Garcia,1,USD,89.7,0.05,85.22,Partner
+SO-10817,2025-01-12,South,Beauty,Ceramic Hair Dryer,Ethan Walker,2,USD,89.52,0,179.04,Partner
+SO-10818,2025-01-12,Central,Sports,Adjustable Dumbbells,Owen Baker,1,USD,216.72,0.1,195.05,Partner
+SO-10819,2025-01-13,Central,Sports,Trail Running Shoes,Ella Lewis,1,USD,134.1,0,134.1,Retail Store
+SO-10820,2025-01-14,East,Home & Kitchen,Air Purifier XL,Liam Rodriguez,3,USD,134.99,0.1,364.47,Partner
+SO-10821,2025-01-14,West,Sports,Adjustable Dumbbells,Jack Rivera,2,USD,243.06,0.05,461.81,Online
+SO-10822,2025-01-15,South,Home & Kitchen,Espresso Machine,Mason Hill,1,USD,150.2,0.15,127.67,Online
+SO-10823,2025-01-16,South,Books,The Data Cookbook,Ethan Brown,3,USD,42.02,0.05,119.76,Online
+SO-10824,2025-01-16,South,Sports,Adjustable Dumbbells,Luna Cooper,1,USD,228.11,0.1,205.3,Partner
+SO-10825,2025-01-16,West,Home & Kitchen,Robot Vacuum E5,Lucas Nguyen,1,USD,300.41,0.05,285.39,Retail Store
+SO-10826,2025-01-17,Central,Beauty,Lavender Candle Set,Leo Martin,4,USD,35.75,0,143,Retail Store
+SO-10827,2025-01-17,North,Home & Kitchen,Stand Mixer,James Hall,4,USD,198.08,0,792.32,Online
+SO-10828,2025-01-18,East,Home & Kitchen,Nonstick Cookware Set,Abigail Young,3,USD,123.1,0.15,313.9,Partner
+SO-10829,2025-01-18,South,Sports,Cycling Helmet,Lucas Nguyen,1,USD,60.34,0.15,51.29,Online
+SO-10830,2025-01-18,East,Books,The Data Cookbook,Scarlet Clark,1,USD,41.11,0.15,34.94,Retail Store
+SO-10831,2025-01-19,West,Electronics,Noise-Cancelling Headphones,Hudson Reed,1,USD,229.26,0.15,194.87,Online
+SO-10832,2025-01-19,East,Electronics,4K Action Camera,Nora Sanders,1,USD,187.91,0.1,169.12,Partner
+SO-10833,2025-01-19,East,Electronics,Wireless Keyboard,Lucas Nguyen,1,USD,98.2,0.05,93.29,Retail Store
+SO-10834,2025-01-19,South,Beauty,Ceramic Hair Dryer,Liam Rodriguez,3,USD,83.18,0,249.54,Retail Store
+SO-10835,2025-01-20,South,Home & Kitchen,Air Purifier XL,Abigail Young,1,USD,129.16,0,129.16,Online
+SO-10836,2025-01-20,South,Beauty,Facial Serum 30ml,James Hall,1,USD,43.3,0.05,41.14,Partner
+SO-10837,2025-01-21,West,Home & Kitchen,Robot Vacuum E5,Jack Rivera,1,USD,307.2,0,307.2,Online
+SO-10838,2025-01-21,South,Home & Kitchen,Espresso Machine,Scarlet Clark,1,USD,148.18,0.15,125.95,Online
+SO-10839,2025-01-22,West,Beauty,Lavender Candle Set,Hudson Reed,3,USD,35.08,0,105.24,Retail Store
+SO-10840,2025-01-22,South,Beauty,Lavender Candle Set,Elijah Torres,3,USD,33.76,0.1,91.15,Online
+SO-10841,2025-01-22,South,Beauty,Facial Serum 30ml,Isabella Garcia,2,USD,43.46,0.1,78.23,Partner
+SO-10842,2025-01-23,North,Sports,Adjustable Dumbbells,Noah Patel,4,USD,216.1,0.05,821.18,Partner
+SO-10843,2025-01-23,West,Home & Kitchen,Espresso Machine,James Hall,1,USD,146.58,0.1,131.92,Partner
+SO-10844,2025-01-24,East,Home & Kitchen,Air Purifier XL,Lucas Nguyen,1,USD,124.32,0.15,105.67,Online
+SO-10845,2025-01-24,West,Electronics,USB-C Hub 8-in-1,Liam Rodriguez,1,USD,55.56,0,55.56,Retail Store
+SO-10846,2025-01-25,West,Books,Growth Analytics 101,Evelyn Adams,3,USD,23.65,0,70.95,Partner
+SO-10847,2025-01-25,East,Electronics,Noise-Cancelling Headphones,Harper Wright,2,USD,253.75,0.05,482.13,Partner
+SO-10848,2025-01-25,West,Home & Kitchen,Nonstick Cookware Set,Owen Baker,3,USD,130.72,0,392.16,Partner
+SO-10849,2025-01-26,Central,Books,Design Systems Handbook,Ethan Walker,3,USD,45.92,0.05,130.87,Retail Store
+SO-10850,2025-01-26,Central,Books,The Data Cookbook,Isabella Garcia,1,USD,37.68,0.1,33.91,Online
+SO-10851,2025-01-26,East,Books,The Data Cookbook,Isabella Garcia,2,USD,43.22,0.15,73.47,Online
+SO-10852,2025-01-27,North,Electronics,Smart Watch S2,Ava Thompson,1,USD,425.35,0.05,404.08,Online
+SO-10853,2025-01-27,North,Sports,Cycling Helmet,Lucas Nguyen,3,USD,60.93,0.05,173.65,Online
+SO-10854,2025-01-28,East,Sports,Trail Running Shoes,Ava Thompson,2,USD,146.03,0,292.06,Retail Store
+SO-10855,2025-01-28,East,Electronics,Smart Watch S2,Ava Thompson,1,USD,417.19,0.1,375.47,Online
+SO-10856,2025-01-28,West,Books,Growth Analytics 101,Jack Rivera,2,USD,25.38,0.1,45.68,Partner
+SO-10857,2025-01-29,West,Beauty,Ceramic Hair Dryer,Harper Wright,2,USD,82.3,0.05,156.37,Retail Store
+SO-10858,2025-01-29,Central,Electronics,Smart Watch S2,Ava Thompson,1,USD,379.05,0.1,341.15,Retail Store
+SO-10859,2025-01-30,West,Home & Kitchen,Air Purifier XL,Ava Thompson,1,USD,122.01,0.15,103.71,Online
+SO-10860,2025-01-30,Central,Home & Kitchen,Robot Vacuum E5,Aria Nelson,4,USD,276.79,0,1107.16,Partner
+SO-10861,2025-01-30,South,Books,Design Systems Handbook,Scarlet Clark,1,USD,45.06,0.15,38.3,Retail Store
+SO-10862,2025-01-31,Central,Electronics,Noise-Cancelling Headphones,Mason Hill,2,USD,264.58,0.1,476.24,Online
+SO-10863,2025-01-31,South,Sports,Cycling Helmet,Abigail Young,3,USD,69.19,0.1,186.81,Online
+SO-10864,2025-02-01,West,Electronics,Wireless Keyboard,Aria Nelson,3,USD,94.16,0,282.48,Retail Store
+SO-10865,2025-02-01,North,Beauty,Ceramic Hair Dryer,Lucas Nguyen,1,USD,87.84,0,87.84,Online
+SO-10866,2025-02-02,West,Home & Kitchen,Nonstick Cookware Set,Noah Patel,1,USD,110.53,0.05,105,Partner
+SO-10867,2025-02-02,East,Home & Kitchen,Air Purifier XL,Ava Thompson,4,USD,130.23,0,520.92,Partner
+SO-10868,2025-02-02,South,Home & Kitchen,Nonstick Cookware Set,Scarlet Clark,2,USD,108.57,0.05,206.28,Retail Store
+SO-10869,2025-02-03,West,Home & Kitchen,Stand Mixer,Noah Patel,1,USD,202.41,0.1,182.17,Retail Store
+SO-10870,2025-02-03,West,Books,The Data Cookbook,Isabella Garcia,3,USD,40.22,0.1,108.59,Partner
+SO-10871,2025-02-03,South,Beauty,Facial Serum 30ml,Noah Patel,1,USD,40.79,0.1,36.71,Partner
+SO-10872,2025-02-04,West,Beauty,Lavender Candle Set,Lucas Nguyen,1,USD,37.73,0.05,35.84,Online
+SO-10873,2025-02-04,South,Books,Growth Analytics 101,Ethan Walker,3,USD,25.09,0,75.27,Retail Store
+SO-10874,2025-02-04,West,Books,Growth Analytics 101,Noah Patel,2,USD,23.79,0,47.58,Retail Store
+SO-10875,2025-02-05,West,Electronics,USB-C Hub 8-in-1,Noah Patel,1,USD,57.13,0,57.13,Retail Store
+SO-10876,2025-02-05,South,Beauty,Lavender Candle Set,Mia Chen,2,USD,37.16,0.1,66.89,Retail Store
+SO-10877,2025-02-06,Central,Beauty,Facial Serum 30ml,Amelia Scott,3,USD,45.91,0,137.73,Partner
+SO-10878,2025-02-06,South,Electronics,Noise-Cancelling Headphones,Jack Rivera,2,USD,272.96,0.05,518.62,Online
+SO-10879,2025-02-07,West,Beauty,Lavender Candle Set,Noah Patel,3,USD,38.38,0.1,103.63,Online
+SO-10880,2025-02-07,West,Books,Design Systems Handbook,Ava Thompson,3,USD,53.34,0.15,136.02,Partner
+SO-10881,2025-02-08,North,Beauty,Lavender Candle Set,Lucas Nguyen,1,USD,31.86,0.1,28.67,Partner
+SO-10882,2025-02-08,West,Electronics,4K Action Camera,Abigail Young,1,USD,163.59,0,163.59,Partner
+SO-10883,2025-02-08,South,Home & Kitchen,Robot Vacuum E5,Mason Hill,3,USD,271.04,0,813.12,Partner
+SO-10884,2025-02-09,Central,Electronics,4K Action Camera,Hudson Reed,1,USD,194.1,0.05,184.4,Partner
+SO-10885,2025-02-09,West,Beauty,Ceramic Hair Dryer,Mia Chen,4,USD,81.03,0.15,275.5,Retail Store
+SO-10886,2025-02-10,East,Home & Kitchen,Nonstick Cookware Set,Sofia Kim,2,USD,125.34,0,250.68,Retail Store
+SO-10887,2025-02-10,East,Home & Kitchen,Espresso Machine,Noah Patel,3,USD,146.22,0,438.66,Retail Store
+SO-10888,2025-02-10,West,Books,The Data Cookbook,Isabella Garcia,3,USD,42.75,0,128.25,Partner
+SO-10889,2025-02-11,North,Beauty,Lavender Candle Set,Aria Nelson,2,USD,35.23,0.05,66.94,Partner
+SO-10890,2025-02-11,North,Home & Kitchen,Robot Vacuum E5,Amelia Scott,4,USD,278.92,0.15,948.33,Partner
+SO-10891,2025-02-12,South,Books,The Data Cookbook,Liam Rodriguez,4,USD,41.64,0,166.56,Retail Store
+SO-10892,2025-02-12,Central,Books,Design Systems Handbook,Henry Green,1,USD,50.36,0,50.36,Partner
+SO-10893,2025-02-12,South,Electronics,USB-C Hub 8-in-1,Harper Wright,1,USD,65.1,0.1,58.59,Retail Store
+SO-10894,2025-02-13,West,Sports,Trail Running Shoes,Charlotte Lee,2,USD,138.68,0,277.36,Retail Store
+SO-10895,2025-02-13,West,Electronics,Wireless Keyboard,Scarlet Clark,2,USD,94.91,0.15,161.35,Retail Store
+SO-10896,2025-02-14,East,Home & Kitchen,Robot Vacuum E5,Scarlet Clark,1,USD,279.58,0.15,237.64,Online
+SO-10897,2025-02-14,East,Electronics,Noise-Cancelling Headphones,Ethan Brown,61,USD,225.96,0.05,13094.38,Online
+SO-10898,2025-02-14,West,Home & Kitchen,Espresso Machine,Owen Baker,3,USD,152.55,0.15,389,Retail Store
+SO-10899,2025-02-15,South,Home & Kitchen,Nonstick Cookware Set,Lucas Nguyen,2,USD,117.51,0.1,211.52,Retail Store
+SO-10900,2025-02-15,North,Electronics,USB-C Hub 8-in-1,Aria Nelson,1,USD,64.13,0.15,54.51,Retail Store
+SO-10901,2025-02-15,South,Books,Growth Analytics 101,Elijah Torres,4,USD,22.59,0.15,76.81,Partner
+SO-10902,2025-02-16,East,Electronics,Wireless Keyboard,Chloe Diaz,2,USD,89.08,0.15,151.44,Partner
+SO-10903,2025-02-16,South,Home & Kitchen,Espresso Machine,Ethan Brown,2,USD,159.1,0.05,302.29,Partner
+SO-10904,2025-02-16,Central,Books,The Data Cookbook,Jack Rivera,3,USD,38.17,0,114.51,Online
+SO-10905,2025-02-16,Central,Home & Kitchen,Espresso Machine,Harper Wright,3,USD,158.22,0,474.66,Partner
+SO-10906,2025-02-17,Central,Home & Kitchen,Nonstick Cookware Set,Evelyn Adams,2,USD,118.85,0,237.7,Retail Store
+SO-10907,2025-02-17,Central,Electronics,Noise-Cancelling Headphones,Jack Rivera,1,USD,272.13,0.1,244.92,Online
+SO-10908,2025-02-18,East,Electronics,USB-C Hub 8-in-1,Lucas Nguyen,4,USD,54.17,0,216.68,Online
+SO-10909,2025-02-18,Central,Sports,Cycling Helmet,Ethan Walker,3,USD,58.18,0.1,157.09,Online
+SO-10910,2025-02-19,South,Sports,Yoga Mat Pro,Owen Price,2,USD,81.12,0,162.24,Partner
+SO-10911,2025-02-20,North,Sports,Trail Running Shoes,Charlotte Lee,1,USD,152.67,0,152.67,Retail Store
+SO-10912,2025-02-20,East,Sports,Adjustable Dumbbells,Lucas Nguyen,1,USD,225.58,0.15,191.74,Retail Store
+SO-10913,2025-02-20,Central,Books,Design Systems Handbook,Abigail Young,3,USD,48.12,0.1,129.92,Online
+SO-10914,2025-02-21,West,Beauty,Lavender Candle Set,Chloe Diaz,3,USD,37.7,0,113.1,Partner
+SO-10915,2025-02-21,South,Electronics,Noise-Cancelling Headphones,Nora Sanders,2,USD,257.22,0,514.44,Online
+SO-10916,2025-02-21,West,Sports,Trail Running Shoes,Liam Rodriguez,2,USD,128.15,0.15,217.86,Partner
+SO-10917,2025-02-22,West,Sports,Adjustable Dumbbells,Isabella Garcia,3,USD,233.03,0,699.09,Online
+SO-10918,2025-02-22,Central,Beauty,Lavender Candle Set,Abigail Young,2,USD,34.93,0.15,59.38,Online
+SO-10919,2025-02-23,East,Sports,Cycling Helmet,Mason Hill,1,USD,58.56,0.15,49.78,Retail Store
+SO-10920,2025-02-23,West,Electronics,Noise-Cancelling Headphones,Oliver King,3,USD,243.83,0,731.49,Partner
+SO-10921,2025-02-24,East,Beauty,Lavender Candle Set,Chloe Diaz,1,USD,37.03,0.15,31.48,Retail Store
+SO-10922,2025-02-24,South,Electronics,4K Action Camera,Lucas Nguyen,1,USD,171.71,0,171.71,Retail Store
+SO-10923,2025-02-25,West,Electronics,Noise-Cancelling Headphones,Aria Nelson,3,USD,253.98,0,761.94,Retail Store
+SO-10924,2025-02-25,South,Electronics,Noise-Cancelling Headphones,Evelyn Adams,3,USD,261.36,0,784.08,Retail Store
+SO-10925,2025-02-26,West,Electronics,Noise-Cancelling Headphones,Nora Sanders,1,USD,263.01,0,263.01,Partner
+SO-10926,2025-02-27,West,Books,The Data Cookbook,Lucas Nguyen,3,USD,36.66,0.15,93.48,Online
+SO-10927,2025-02-27,South,Electronics,Noise-Cancelling Headphones,Nora Sanders,3,USD,229.59,0.15,585.45,Retail Store
+SO-10928,2025-02-28,South,Beauty,Lavender Candle Set,Mia Chen,4,USD,36.76,0.05,139.69,Partner
+SO-10929,2025-03-01,North,Electronics,Smart Watch S2,Lucas Nguyen,4,USD,416.84,0,1667.36,Retail Store
+SO-10930,2025-03-02,East,Beauty,Lavender Candle Set,Charlotte Lee,3,USD,32.28,0,96.84,Online
+SO-10931,2025-03-04,East,Books,Design Systems Handbook,Lucas Nguyen,3,USD,46.12,0,138.36,Retail Store
+SO-10932,2025-03-05,West,Sports,Trail Running Shoes,Lucas Nguyen,3,USD,143.3,0,429.9,Partner
+SO-10933,2025-03-06,West,Sports,Trail Running Shoes,Charlotte Lee,2,USD,150.4,0.05,285.76,Partner
+SO-10934,2025-03-07,South,Electronics,4K Action Camera,Henry Green,2,USD,186.02,0,372.04,Online
+SO-10935,2025-03-08,South,Electronics,4K Action Camera,Ava Thompson,2,USD,181.98,0,363.96,Partner
+SO-10936,2025-03-08,North,Beauty,Facial Serum 30ml,Chloe Diaz,1,USD,44.99,0.15,38.24,Online
+SO-10937,2025-03-08,East,Books,Design Systems Handbook,Ava Thompson,3,USD,49.85,0,149.55,Online
+SO-10938,2025-03-09,North,Books,Growth Analytics 101,Ava Thompson,1,USD,24.95,0.1,22.46,Partner
+SO-10939,2025-03-09,Central,Sports,Trail Running Shoes,Charlotte Lee,1,USD,145.07,0.15,123.31,Partner
+SO-10940,2025-03-09,West,Beauty,Facial Serum 30ml,Lucas Nguyen,3,USD,42.67,0,128.01,Online
+SO-10941,2025-03-09,East,Electronics,Smart Watch S2,Elijah Torres,1,USD,359.94,0.15,305.95,Partner
+SO-10942,2025-03-10,North,Home & Kitchen,Stand Mixer,Oliver King,2,USD,230.54,0,461.08,Partner
+SO-10943,2025-03-11,West,Home & Kitchen,Espresso Machine,Lucas Nguyen,1,USD,137.54,0.05,130.66,Partner
+SO-10944,2025-03-11,West,Beauty,Ceramic Hair Dryer,Liam Rodriguez,1,USD,90.08,0.1,81.07,Online
+SO-10945,2025-03-12,East,Electronics,USB-C Hub 8-in-1,Ethan Brown,1,USD,56.7,0.1,51.03,Retail Store
+SO-10946,2025-03-12,East,Home & Kitchen,Nonstick Cookware Set,Ethan Walker,1,USD,118.1,0,118.1,Partner
+SO-10947,2025-03-13,West,Electronics,Noise-Cancelling Headphones,Ava Thompson,2,USD,258.76,0,517.52,Partner
+SO-10948,2025-03-13,West,Electronics,Wireless Keyboard,Noah Patel,4,USD,97.04,0,388.16,Partner
+SO-10949,2025-03-14,East,Beauty,Lavender Candle Set,Owen Price,2,USD,33.54,0,67.08,Partner
+SO-10950,2025-03-14,East,Electronics,Noise-Cancelling Headphones,Henry Green,1,USD,259.23,0.1,233.31,Online
+SO-10951,2025-03-15,North,Beauty,Lavender Candle Set,Lucas Nguyen,2,USD,34.1,0.15,57.97,Online
+SO-10952,2025-03-15,East,Electronics,4K Action Camera,Ava Thompson,4,USD,181.7,0.15,617.78,Online
+SO-10953,2025-03-16,West,Books,Design Systems Handbook,Chloe Diaz,1,USD,46.87,0,46.87,Online
+SO-10954,2025-03-16,West,Books,Design Systems Handbook,Scarlet Clark,1,USD,45.42,0.05,43.15,Retail Store
+SO-10955,2025-03-16,West,Sports,Yoga Mat Pro,Ava Thompson,2,USD,75.28,0.1,135.5,Partner
+SO-10956,2025-03-16,West,Sports,Adjustable Dumbbells,Noah Patel,2,USD,209.66,0.1,377.39,Retail Store
+SO-10957,2025-03-17,East,Books,Design Systems Handbook,Elijah Torres,1,USD,45.8,0,45.8,Online
+SO-10958,2025-03-17,South,Electronics,USB-C Hub 8-in-1,Ethan Brown,4,USD,62.99,0,251.96,Online
+SO-10959,2025-03-18,East,Beauty,Facial Serum 30ml,James Hall,1,USD,49.26,0,49.26,Retail Store
+SO-10960,2025-03-18,South,Beauty,Ceramic Hair Dryer,Luna Cooper,1,USD,97.15,0,97.15,Retail Store
+SO-10961,2025-03-19,Central,Sports,Cycling Helmet,Luna Cooper,3,USD,60,0,180,Online
+SO-10962,2025-03-19,East,Electronics,4K Action Camera,Lucas Nguyen,3,USD,174.56,0.1,471.31,Partner
+SO-10963,2025-03-19,South,Sports,Yoga Mat Pro,Chloe Diaz,1,USD,78.5,0,78.5,Retail Store
+SO-10964,2025-03-20,North,Sports,Yoga Mat Pro,Jack Rivera,3,USD,85.13,0,255.39,Online
+SO-10965,2025-03-20,North,Beauty,Ceramic Hair Dryer,Ella Lewis,3,USD,86.02,0.05,245.16,Retail Store
+SO-10966,2025-03-21,West,Sports,Cycling Helmet,Scarlet Clark,1,USD,66.52,0.15,56.54,Online
+SO-10967,2025-03-21,Central,Electronics,USB-C Hub 8-in-1,Elijah Torres,1,USD,65.86,0,65.86,Online
+SO-10968,2025-03-21,Central,Books,Growth Analytics 101,Ava Thompson,1,USD,27.45,0.15,23.33,Partner
+SO-10969,2025-03-22,Central,Sports,Yoga Mat Pro,Leo Martin,1,USD,84.89,0.05,80.65,Retail Store
+SO-10970,2025-03-22,South,Electronics,Wireless Keyboard,Noah Patel,3,USD,92.22,0,276.66,Partner
+SO-10971,2025-03-22,South,Sports,Trail Running Shoes,Chloe Diaz,2,USD,126.15,0.05,239.69,Retail Store
+SO-10972,2025-03-22,West,Books,Growth Analytics 101,Ella Lewis,1,USD,24.65,0.15,20.95,Retail Store
+SO-10973,2025-03-23,South,Books,Growth Analytics 101,Liam Rodriguez,3,USD,25.05,0,75.15,Retail Store
+SO-10974,2025-03-23,North,Books,Growth Analytics 101,Jack Rivera,3,USD,25.69,0.1,69.36,Retail Store
+SO-10975,2025-03-24,Central,Electronics,USB-C Hub 8-in-1,Lucas Nguyen,3,USD,55.76,0,167.28,Retail Store
+SO-10976,2025-03-24,South,Sports,Yoga Mat Pro,Charlotte Lee,3,USD,85.62,0,256.86,Partner
+SO-10977,2025-03-24,West,Home & Kitchen,Air Purifier XL,Owen Price,4,USD,129.99,0.05,493.96,Partner
+SO-10978,2025-03-25,South,Electronics,Noise-Cancelling Headphones,Ethan Brown,2,USD,237.26,0,474.52,Retail Store
+SO-10979,2025-03-25,West,Electronics,Wireless Keyboard,Hudson Reed,3,USD,95.76,0.15,244.19,Retail Store
+SO-10980,2025-03-26,West,Books,Growth Analytics 101,Lucas Nguyen,2,USD,23.76,0,47.52,Online
+SO-10981,2025-03-26,North,Electronics,4K Action Camera,Chloe Diaz,2,USD,175.35,0,350.7,Partner
+SO-10982,2025-03-27,West,Books,The Data Cookbook,Hudson Reed,1,USD,41.79,0,41.79,Retail Store
+SO-10983,2025-03-27,West,Home & Kitchen,Espresso Machine,Lucas Nguyen,1,USD,149.46,0.15,127.04,Retail Store
+SO-10984,2025-03-28,West,Sports,Trail Running Shoes,Liam Rodriguez,2,USD,127.94,0,255.88,Partner
+SO-10985,2025-03-28,West,Books,Design Systems Handbook,Elijah Torres,3,USD,53.49,0,160.47,Retail Store
+SO-10986,2025-03-29,West,Home & Kitchen,Espresso Machine,Nora Sanders,2,USD,162.41,0,324.82,Partner
+SO-10987,2025-03-29,West,Books,Growth Analytics 101,James Hall,2,USD,25.61,0,51.22,Online
+SO-10988,2025-03-29,East,Books,Design Systems Handbook,Ava Thompson,3,USD,49.76,0.1,134.35,Partner
+SO-10989,2025-03-29,East,Electronics,4K Action Camera,Jack Rivera,1,USD,179.04,0,179.04,Partner
+SO-10990,2025-03-30,South,Home & Kitchen,Air Purifier XL,Ava Thompson,4,USD,131.14,0.05,498.33,Partner
+SO-10991,2025-03-30,West,Beauty,Ceramic Hair Dryer,Mia Chen,1,USD,90.55,0,90.55,Retail Store
+SO-10992,2025-03-30,Central,Beauty,Facial Serum 30ml,Mason Hill,2,USD,47.95,0.1,86.31,Partner
+SO-10993,2025-03-31,North,Beauty,Ceramic Hair Dryer,Abigail Young,4,USD,81.08,0.1,291.89,Online
+SO-10994,2025-04-01,West,Home & Kitchen,Robot Vacuum E5,Ava Thompson,3,USD,305.12,0.15,778.06,Retail Store
+SO-10995,2025-04-01,East,Sports,Adjustable Dumbbells,Noah Patel,37,USD,223.76,0.15,7037.25,Partner
+SO-10996,2025-04-02,North,Beauty,Facial Serum 30ml,Lucas Nguyen,3,USD,41.71,0.15,106.36,Partner
+SO-10997,2025-04-02,East,Home & Kitchen,Nonstick Cookware Set,Ava Thompson,1,USD,126.1,0.05,119.79,Retail Store
+SO-10998,2025-04-02,West,Books,Growth Analytics 101,Lucas Nguyen,2,USD,22.76,0,45.52,Online
+SO-10999,2025-04-03,West,Books,The Data Cookbook,Mason Hill,1,USD,42.31,0.1,38.08,Retail Store
+SO-11000,2025-04-03,North,Books,Growth Analytics 101,Ethan Brown,1,USD,23.97,0,23.97,Retail Store
+SO-11001,2025-04-03,South,Home & Kitchen,Air Purifier XL,Lucas Nguyen,2,USD,136.53,0.1,245.75,Online
+SO-11002,2025-04-04,Central,Beauty,Facial Serum 30ml,Aria Nelson,4,USD,47.87,0,191.48,Online
+SO-11003,2025-04-04,West,Electronics,4K Action Camera,Ava Thompson,2,USD,192.43,0.1,346.37,Retail Store
+SO-11004,2025-04-04,West,Sports,Yoga Mat Pro,Leo Martin,3,USD,80.41,0,241.23,Retail Store
+SO-11005,2025-04-05,West,Beauty,Facial Serum 30ml,Lucas Nguyen,4,USD,45.41,0.05,172.56,Partner
+SO-11006,2025-04-05,West,Home & Kitchen,Air Purifier XL,Charlotte Lee,3,USD,116.59,0.15,297.3,Partner
+SO-11007,2025-04-05,West,Books,Design Systems Handbook,Ava Thompson,2,USD,45.34,0.1,81.61,Online
+SO-11008,2025-04-05,East,Home & Kitchen,Air Purifier XL,Lucas Nguyen,1,USD,140.96,0.1,126.86,Retail Store
+SO-11009,2025-04-06,East,Books,The Data Cookbook,Lucas Nguyen,2,USD,36.66,0.1,65.99,Partner
+SO-11010,2025-04-06,Central,Sports,Adjustable Dumbbells,Elijah Torres,1,USD,212.34,0.15,180.49,Retail Store
+SO-11011,2025-04-06,West,Books,Growth Analytics 101,Jack Rivera,1,USD,25.14,0,25.14,Online
+SO-11012,2025-04-07,South,Electronics,USB-C Hub 8-in-1,Ava Thompson,2,USD,63.86,0,127.72,Online
+SO-11013,2025-04-07,Central,Home & Kitchen,Espresso Machine,Isabella Garcia,2,USD,139,0,278,Partner
+SO-11014,2025-04-07,Central,Beauty,Facial Serum 30ml,Ava Thompson,2,USD,47.68,0.1,85.82,Retail Store
+SO-11015,2025-04-08,West,Books,Design Systems Handbook,Evelyn Adams,2,USD,47.36,0,94.72,Online
+SO-11016,2025-04-08,West,Beauty,Lavender Candle Set,Abigail Young,4,USD,31.77,0,127.08,Partner
+SO-11017,2025-04-09,West,Electronics,4K Action Camera,Ava Thompson,1,USD,196.81,0.05,186.97,Retail Store
+SO-11018,2025-04-09,West,Beauty,Facial Serum 30ml,Liam Rodriguez,2,USD,41.29,0.15,70.19,Retail Store
+SO-11019,2025-04-10,West,Sports,Yoga Mat Pro,Mia Chen,1,USD,83.85,0.05,79.66,Online
+SO-11020,2025-04-10,North,Sports,Trail Running Shoes,Lucas Nguyen,1,USD,126.51,0.15,107.53,Partner
+SO-11021,2025-04-11,West,Books,The Data Cookbook,Lucas Nguyen,2,USD,43.71,0.05,83.05,Online
+SO-11022,2025-04-11,North,Home & Kitchen,Stand Mixer,Lucas Nguyen,1,USD,204.38,0.15,173.72,Partner
+SO-11023,2025-04-11,West,Home & Kitchen,Robot Vacuum E5,Noah Patel,3,USD,275.32,0,825.96,Retail Store
+SO-11024,2025-04-12,Central,Books,Growth Analytics 101,Ava Thompson,4,USD,27.26,0,109.04,Online
+SO-11025,2025-04-12,West,Electronics,Smart Watch S2,Ava Thompson,1,USD,419.42,0,419.42,Partner
+SO-11026,2025-04-12,West,Electronics,USB-C Hub 8-in-1,Luna Cooper,3,USD,58.38,0,175.14,Retail Store
+SO-11027,2025-04-12,West,Electronics,Wireless Keyboard,Scarlet Clark,1,USD,81.61,0,81.61,Online
+SO-11028,2025-04-13,West,Electronics,USB-C Hub 8-in-1,Isabella Garcia,1,USD,63.05,0,63.05,Retail Store
+SO-11029,2025-04-13,North,Beauty,Ceramic Hair Dryer,Scarlet Clark,3,USD,87.34,0.15,222.72,Partner
+SO-11030,2025-04-13,North,Electronics,4K Action Camera,Abigail Young,1,USD,189.96,0.15,161.47,Partner
+SO-11031,2025-04-13,West,Sports,Trail Running Shoes,Ethan Walker,1,USD,149.4,0,149.4,Partner
+SO-11032,2025-04-14,West,Home & Kitchen,Espresso Machine,James Hall,1,USD,160.96,0.15,136.82,Retail Store
+SO-11033,2025-04-14,West,Home & Kitchen,Robot Vacuum E5,Aria Nelson,1,USD,307.21,0.15,261.13,Partner
+SO-11034,2025-04-14,Central,Books,Design Systems Handbook,Hudson Reed,2,USD,54.12,0,108.24,Retail Store
+SO-11035,2025-04-15,East,Beauty,Ceramic Hair Dryer,Scarlet Clark,3,USD,90.02,0,270.06,Partner
+SO-11036,2025-04-15,East,Sports,Yoga Mat Pro,Henry Green,1,USD,72.15,0.15,61.33,Partner
+SO-11037,2025-04-15,West,Beauty,Lavender Candle Set,Ava Thompson,2,USD,32.86,0,65.72,Online
+SO-11038,2025-04-16,West,Books,The Data Cookbook,Lucas Nguyen,1,USD,42.69,0.15,36.29,Partner
+SO-11039,2025-04-16,West,Beauty,Ceramic Hair Dryer,Lucas Nguyen,1,USD,84.6,0,84.6,Partner
+SO-11040,2025-04-17,South,Home & Kitchen,Air Purifier XL,Ethan Walker,1,USD,142.37,0.1,128.13,Retail Store
+SO-11041,2025-04-17,North,Beauty,Lavender Candle Set,Leo Martin,1,USD,37.73,0.1,33.96,Partner
+SO-11042,2025-04-18,West,Electronics,Noise-Cancelling Headphones,Mason Hill,3,USD,228.15,0,684.45,Online
+SO-11043,2025-04-18,North,Beauty,Ceramic Hair Dryer,Noah Patel,1,USD,88.25,0.1,79.43,Partner
+SO-11044,2025-04-18,West,Books,Growth Analytics 101,Noah Patel,2,USD,25.3,0.05,48.07,Partner
+SO-11045,2025-04-19,East,Home & Kitchen,Robot Vacuum E5,Noah Patel,2,USD,286.39,0.1,515.5,Online
+SO-11046,2025-04-19,West,Beauty,Ceramic Hair Dryer,Ella Lewis,1,USD,85.14,0,85.14,Partner
+SO-11047,2025-04-20,East,Electronics,Smart Watch S2,Aria Nelson,1,USD,434.23,0.15,369.1,Online
+SO-11048,2025-04-20,Central,Electronics,Wireless Keyboard,Owen Price,3,USD,86.09,0.05,245.36,Partner
+SO-11049,2025-04-21,East,Home & Kitchen,Espresso Machine,Ava Thompson,3,USD,159.15,0,477.45,Partner
+SO-11050,2025-04-21,West,Electronics,4K Action Camera,Liam Rodriguez,3,USD,197.43,0,592.29,Retail Store
+SO-11051,2025-04-22,West,Electronics,USB-C Hub 8-in-1,Harper Wright,4,USD,60.34,0.15,205.16,Retail Store
+SO-11052,2025-04-22,West,Sports,Trail Running Shoes,Hudson Reed,1,USD,146.51,0,146.51,Partner
+SO-11053,2025-04-22,Central,Books,Growth Analytics 101,Aria Nelson,2,USD,25.6,0,51.2,Retail Store
+SO-11054,2025-04-23,West,Sports,Adjustable Dumbbells,Lucas Nguyen,1,USD,247.2,0,247.2,Retail Store
+SO-11055,2025-04-23,West,Home & Kitchen,Espresso Machine,Abigail Young,1,USD,158.09,0.15,134.38,Retail Store
+SO-11056,2025-04-23,West,Books,Growth Analytics 101,Evelyn Adams,1,USD,23.5,0,23.5,Partner
+SO-11057,2025-04-24,Central,Home & Kitchen,Espresso Machine,Charlotte Lee,4,USD,155.57,0.1,560.05,Partner
+SO-11058,2025-04-24,East,Books,Growth Analytics 101,Ava Thompson,4,USD,22.52,0.15,76.57,Online
+SO-11059,2025-04-25,East,Beauty,Facial Serum 30ml,Luna Cooper,1,USD,42.45,0.1,38.21,Online
+SO-11060,2025-04-25,Central,Beauty,Ceramic Hair Dryer,James Hall,4,USD,97.41,0,389.64,Partner
+SO-11061,2025-04-25,West,Beauty,Facial Serum 30ml,Noah Patel,2,USD,43.99,0.15,74.78,Online
+SO-11062,2025-04-26,North,Sports,Adjustable Dumbbells,Liam Rodriguez,2,USD,215.05,0.1,387.09,Online
+SO-11063,2025-04-26,West,Home & Kitchen,Espresso Machine,Aria Nelson,1,USD,134.79,0,134.79,Retail Store
+SO-11064,2025-04-27,East,Sports,Cycling Helmet,Luna Cooper,1,USD,59.64,0,59.64,Partner
+SO-11065,2025-04-27,East,Books,Design Systems Handbook,Chloe Diaz,1,USD,50.23,0,50.23,Partner
+SO-11066,2025-04-27,West,Electronics,USB-C Hub 8-in-1,Chloe Diaz,2,USD,61.51,0.05,116.87,Retail Store
+SO-11067,2025-04-28,East,Electronics,Wireless Keyboard,Harper Wright,3,USD,83.26,0.05,237.29,Online
+SO-11068,2025-04-28,East,Electronics,4K Action Camera,Luna Cooper,1,USD,188.74,0,188.74,Partner
+SO-11069,2025-04-28,West,Electronics,Noise-Cancelling Headphones,Lucas Nguyen,1,USD,241.27,0,241.27,Online
+SO-11070,2025-04-29,West,Electronics,Noise-Cancelling Headphones,Isabella Garcia,1,USD,274.37,0.1,246.93,Online
+SO-11071,2025-04-29,West,Books,Design Systems Handbook,Harper Wright,1,USD,52.8,0,52.8,Partner
+SO-11072,2025-04-29,South,Sports,Adjustable Dumbbells,Abigail Young,2,USD,244.14,0,488.28,Online
+SO-11073,2025-04-30,East,Home & Kitchen,Air Purifier XL,Ava Thompson,2,USD,139.16,0,278.32,Partner
+SO-11074,2025-05-01,West,Sports,Cycling Helmet,Charlotte Lee,4,USD,58.13,0.15,197.64,Online
+SO-11075,2025-05-01,Central,Beauty,Facial Serum 30ml,Abigail Young,2,USD,45.96,0.05,87.32,Online
+SO-11076,2025-05-02,West,Electronics,Wireless Keyboard,Harper Wright,2,USD,90.4,0.1,162.72,Partner
+SO-11077,2025-05-03,South,Sports,Trail Running Shoes,Lucas Nguyen,3,USD,135.03,0,405.09,Partner
+SO-11078,2025-05-03,West,Electronics,USB-C Hub 8-in-1,Ethan Walker,4,USD,57.75,0,231,Retail Store
+SO-11079,2025-05-03,East,Home & Kitchen,Air Purifier XL,Charlotte Lee,2,USD,123.89,0.1,223,Online
+SO-11080,2025-05-03,North,Home & Kitchen,Nonstick Cookware Set,Ava Thompson,1,USD,126.39,0.05,120.07,Online
+SO-11081,2025-05-04,North,Sports,Cycling Helmet,Harper Wright,1,USD,60.27,0,60.27,Online
+SO-11082,2025-05-04,North,Home & Kitchen,Espresso Machine,Mason Hill,1,USD,142.05,0.1,127.85,Retail Store
+SO-11083,2025-05-05,Central,Beauty,Facial Serum 30ml,Owen Price,1,USD,47.7,0,47.7,Online
+SO-11084,2025-05-05,East,Sports,Adjustable Dumbbells,Ava Thompson,4,USD,241.29,0.15,820.39,Online
+SO-11085,2025-05-06,East,Electronics,Wireless Keyboard,Sofia Kim,2,USD,97.45,0.1,175.41,Partner
+SO-11086,2025-05-06,East,Books,The Data Cookbook,Noah Patel,3,USD,42.65,0,127.95,Partner
+SO-11087,2025-05-06,West,Beauty,Lavender Candle Set,Ella Lewis,2,USD,34.07,0.1,61.33,Online
+SO-11088,2025-05-07,West,Electronics,Noise-Cancelling Headphones,Ella Lewis,3,USD,266.07,0,798.21,Retail Store
+SO-11089,2025-05-08,Central,Sports,Trail Running Shoes,Noah Patel,2,USD,145.4,0.15,247.18,Online
+SO-11090,2025-05-09,West,Books,Design Systems Handbook,Noah Patel,1,USD,50.28,0,50.28,Retail Store
+SO-11091,2025-05-09,East,Beauty,Facial Serum 30ml,Ava Thompson,4,USD,47.09,0,188.36,Online
+SO-11092,2025-05-10,East,Books,The Data Cookbook,Lucas Nguyen,3,USD,40.49,0.1,109.32,Partner
+SO-11093,2025-05-10,South,Sports,Adjustable Dumbbells,Noah Patel,1,USD,233.92,0,233.92,Retail Store
+SO-11094,2025-05-10,South,Home & Kitchen,Nonstick Cookware Set,Lucas Nguyen,4,USD,131.79,0.05,500.8,Retail Store
+SO-11095,2025-05-11,West,Sports,Trail Running Shoes,Ava Thompson,2,USD,134.36,0.1,241.85,Retail Store
+SO-11096,2025-05-11,Central,Home & Kitchen,Stand Mixer,Sofia Kim,4,USD,193.05,0,772.2,Partner
+SO-11097,2025-05-12,West,Sports,Adjustable Dumbbells,Sofia Kim,4,USD,245.99,0.05,934.76,Partner
+SO-11098,2025-05-12,West,Electronics,Smart Watch S2,Noah Patel,3,USD,418.32,0.15,1066.72,Partner
+SO-11099,2025-05-13,West,Home & Kitchen,Stand Mixer,Scarlet Clark,1,USD,212.98,0,212.98,Online
+SO-11100,2025-05-14,North,Home & Kitchen,Robot Vacuum E5,Aria Nelson,3,USD,260.5,0.1,703.35,Retail Store
+SO-11101,2025-05-14,Central,Beauty,Lavender Candle Set,Mason Hill,1,USD,35.26,0,35.26,Online
+SO-11102,2025-05-15,West,Books,Growth Analytics 101,Henry Green,1,USD,24.9,0,24.9,Retail Store
+SO-11103,2025-05-15,East,Home & Kitchen,Espresso Machine,Chloe Diaz,1,USD,137.7,0.1,123.93,Partner
+SO-11104,2025-05-15,West,Books,The Data Cookbook,Henry Green,1,USD,43.18,0,43.18,Online
+SO-11105,2025-05-16,West,Books,The Data Cookbook,Owen Price,2,USD,38.06,0.15,64.7,Partner
+SO-11106,2025-05-16,North,Beauty,Facial Serum 30ml,Oliver King,3,USD,47.04,0.05,134.06,Partner
+SO-11107,2025-05-17,Central,Beauty,Lavender Candle Set,Hudson Reed,2,USD,35.23,0,70.46,Retail Store
+SO-11108,2025-05-17,West,Beauty,Facial Serum 30ml,Elijah Torres,3,USD,45.3,0.05,129.1,Partner
+SO-11109,2025-05-17,West,Home & Kitchen,Stand Mixer,Noah Patel,1,USD,229.15,0.1,206.24,Retail Store
+SO-11110,2025-05-18,South,Sports,Yoga Mat Pro,Chloe Diaz,1,USD,85.26,0,85.26,Retail Store
+SO-11111,2025-05-18,Central,Beauty,Ceramic Hair Dryer,Lucas Nguyen,3,USD,89.52,0,268.56,Partner
+SO-11112,2025-05-19,West,Beauty,Facial Serum 30ml,Ava Thompson,2,USD,49.48,0,98.96,Retail Store
+SO-11113,2025-05-19,East,Sports,Adjustable Dumbbells,Ava Thompson,4,USD,214.62,0.05,815.56,Partner
+SO-11114,2025-05-20,Central,Electronics,Noise-Cancelling Headphones,Ava Thompson,2,USD,226,0,452,Partner
+SO-11115,2025-05-20,West,Sports,Trail Running Shoes,Oliver King,3,USD,135.42,0.1,365.63,Retail Store
+SO-11116,2025-05-20,West,Books,Design Systems Handbook,Scarlet Clark,2,USD,47.47,0,94.94,Partner
+SO-11117,2025-05-21,West,Books,Growth Analytics 101,Hudson Reed,3,USD,26.19,0,78.57,Online
+SO-11118,2025-05-21,North,Sports,Adjustable Dumbbells,Ava Thompson,4,USD,226.91,0,907.64,Partner
+SO-11119,2025-05-22,East,Electronics,USB-C Hub 8-in-1,Aria Nelson,1,USD,54.62,0.05,51.89,Retail Store
+SO-11120,2025-05-22,South,Beauty,Facial Serum 30ml,Lucas Nguyen,1,USD,47.41,0,47.41,Online
+SO-11121,2025-05-23,West,Books,The Data Cookbook,Noah Patel,2,USD,39.81,0,79.62,Retail Store
+SO-11122,2025-05-24,West,Books,Growth Analytics 101,Liam Rodriguez,2,USD,26.39,0,52.78,Online
+SO-11123,2025-05-24,West,Home & Kitchen,Robot Vacuum E5,Amelia Scott,4,USD,301.44,0.15,1024.9,Retail Store
+SO-11124,2025-05-24,North,Electronics,Wireless Keyboard,Ethan Brown,2,USD,95.99,0,191.98,Partner
+SO-11125,2025-05-24,West,Beauty,Ceramic Hair Dryer,James Hall,1,USD,85.94,0,85.94,Partner
+SO-11126,2025-05-25,West,Beauty,Ceramic Hair Dryer,Ethan Walker,2,USD,82.02,0.1,147.64,Retail Store
+SO-11127,2025-05-25,South,Electronics,4K Action Camera,Chloe Diaz,4,USD,163.53,0.15,556,Online
+SO-11128,2025-05-25,Central,Home & Kitchen,Air Purifier XL,Aria Nelson,1,USD,126.94,0,126.94,Partner
+SO-11129,2025-05-26,West,Sports,Trail Running Shoes,Owen Price,2,USD,132.14,0.05,251.07,Partner
+SO-11130,2025-05-26,West,Electronics,Wireless Keyboard,Luna Cooper,2,USD,81.79,0,163.58,Partner
+SO-11131,2025-05-27,West,Home & Kitchen,Stand Mixer,Owen Baker,1,USD,212.54,0,212.54,Online
+SO-11132,2025-05-27,North,Books,Design Systems Handbook,Ava Thompson,3,USD,45.2,0.1,122.04,Online
+SO-11133,2025-05-27,West,Electronics,4K Action Camera,Isabella Garcia,4,USD,182.14,0,728.56,Online
+SO-11134,2025-05-28,West,Electronics,4K Action Camera,Owen Price,2,USD,187.46,0.15,318.68,Online
+SO-11135,2025-05-28,Central,Electronics,Wireless Keyboard,Hudson Reed,4,USD,91.97,0,367.88,Retail Store
+SO-11136,2025-05-29,South,Electronics,Smart Watch S2,Sofia Kim,2,USD,364.83,0.1,656.69,Retail Store
+SO-11137,2025-05-29,South,Sports,Adjustable Dumbbells,Ethan Walker,1,USD,239.9,0,239.9,Partner
+SO-11138,2025-05-30,East,Electronics,Wireless Keyboard,Noah Patel,4,USD,96.42,0.15,327.83,Retail Store
+SO-11139,2025-05-30,West,Home & Kitchen,Espresso Machine,James Hall,1,USD,156.95,0.1,141.26,Retail Store
+SO-11140,2025-05-30,East,Sports,Adjustable Dumbbells,Leo Martin,1,USD,224.11,0.05,212.9,Partner
+SO-11141,2025-05-31,East,Home & Kitchen,Robot Vacuum E5,Hudson Reed,4,USD,286.17,0.15,972.98,Online
+SO-11142,2025-05-31,West,Books,The Data Cookbook,Leo Martin,1,USD,43.33,0,43.33,Partner
+SO-11143,2025-05-31,North,Electronics,4K Action Camera,Amelia Scott,3,USD,161.89,0.05,461.39,Online
+SO-11144,2025-05-31,East,Beauty,Ceramic Hair Dryer,Sofia Kim,1,USD,84.45,0.1,76.01,Online
+SO-11145,2025-06-01,East,Sports,Trail Running Shoes,Leo Martin,2,USD,137.31,0.1,247.16,Partner
+SO-11146,2025-06-01,South,Beauty,Lavender Candle Set,Noah Patel,2,USD,31.71,0.05,60.25,Partner
+SO-11147,2025-06-02,West,Beauty,Ceramic Hair Dryer,Amelia Scott,1,USD,82.92,0.1,74.63,Retail Store
+SO-11148,2025-06-02,East,Beauty,Facial Serum 30ml,Jack Rivera,2,USD,40.75,0.15,69.27,Retail Store
+SO-11149,2025-06-03,East,Electronics,Smart Watch S2,Ava Thompson,3,USD,426.12,0,1278.36,Retail Store
+SO-11150,2025-06-03,South,Books,Growth Analytics 101,Ava Thompson,1,USD,26.41,0,26.41,Partner
+SO-11151,2025-06-03,North,Electronics,4K Action Camera,Luna Cooper,2,USD,171.96,0,343.92,Partner
+SO-11152,2025-06-04,South,Sports,Cycling Helmet,Noah Patel,1,USD,70.58,0.15,59.99,Partner
+SO-11153,2025-06-04,North,Beauty,Ceramic Hair Dryer,Lucas Nguyen,4,USD,95.93,0,383.72,Retail Store
+SO-11154,2025-06-04,East,Electronics,Noise-Cancelling Headphones,Ava Thompson,4,USD,239.6,0.1,862.56,Retail Store
+SO-11155,2025-06-05,West,Books,Design Systems Handbook,Noah Patel,3,USD,49.12,0,147.36,Online
+SO-11156,2025-06-05,East,Books,Growth Analytics 101,Ava Thompson,3,USD,25.69,0.15,65.51,Partner
+SO-11157,2025-06-06,East,Sports,Trail Running Shoes,Ethan Brown,2,USD,137.78,0.05,261.78,Online
+SO-11158,2025-06-07,North,Beauty,Lavender Candle Set,Ella Lewis,1,USD,34.46,0,34.46,Partner
+SO-11159,2025-06-07,Central,Home & Kitchen,Nonstick Cookware Set,Ethan Brown,3,USD,108.65,0.05,309.65,Partner
+SO-11160,2025-06-07,East,Home & Kitchen,Espresso Machine,Ava Thompson,3,USD,156.64,0.1,422.93,Online
+SO-11161,2025-06-07,West,Beauty,Ceramic Hair Dryer,Chloe Diaz,3,USD,85.86,0,257.58,Online
+SO-11162,2025-06-08,West,Books,Growth Analytics 101,Leo Martin,1,USD,22.53,0,22.53,Online
+SO-11163,2025-06-08,Central,Electronics,4K Action Camera,Lucas Nguyen,3,USD,173.62,0.15,442.73,Online
+SO-11164,2025-06-08,North,Books,The Data Cookbook,Amelia Scott,3,USD,37.05,0.15,94.48,Partner
+SO-11165,2025-06-08,West,Beauty,Lavender Candle Set,Harper Wright,2,USD,37.4,0.15,63.58,Retail Store
+SO-11166,2025-06-09,East,Books,Design Systems Handbook,Liam Rodriguez,2,USD,47.08,0,94.16,Partner
+SO-11167,2025-06-09,West,Beauty,Lavender Candle Set,Owen Baker,3,USD,35.91,0,107.73,Partner
+SO-11168,2025-06-09,East,Books,Design Systems Handbook,Leo Martin,1,USD,51.06,0.1,45.95,Online
+SO-11169,2025-06-10,West,Electronics,4K Action Camera,Lucas Nguyen,1,USD,180.84,0.05,171.8,Online
+SO-11170,2025-06-10,East,Books,Design Systems Handbook,Owen Baker,4,USD,47.85,0,191.4,Retail Store
+SO-11171,2025-06-10,Central,Home & Kitchen,Stand Mixer,Ethan Walker,1,USD,194.3,0,194.3,Partner
+SO-11172,2025-06-11,West,Beauty,Facial Serum 30ml,Oliver King,2,USD,48.38,0.15,82.25,Partner
+SO-11173,2025-06-11,South,Sports,Trail Running Shoes,Jack Rivera,1,USD,148.15,0,148.15,Partner
+SO-11174,2025-06-12,North,Home & Kitchen,Robot Vacuum E5,Lucas Nguyen,2,USD,260.53,0,521.06,Partner
+SO-11175,2025-06-12,West,Beauty,Lavender Candle Set,Amelia Scott,3,USD,35.5,0,106.5,Online
+SO-11176,2025-06-13,South,Books,The Data Cookbook,Aria Nelson,1,USD,39.12,0.05,37.16,Retail Store
+SO-11177,2025-06-13,Central,Sports,Trail Running Shoes,Jack Rivera,3,USD,142.6,0,427.8,Partner
+SO-11178,2025-06-13,West,Beauty,Lavender Candle Set,Lucas Nguyen,3,USD,36.19,0,108.57,Partner
+SO-11179,2025-06-14,West,Beauty,Ceramic Hair Dryer,Lucas Nguyen,4,USD,91.92,0.15,312.53,Retail Store
+SO-11180,2025-06-14,North,Sports,Adjustable Dumbbells,Jack Rivera,4,USD,232.88,0.1,838.37,Online
+SO-11181,2025-06-14,West,Beauty,Ceramic Hair Dryer,Noah Patel,4,USD,82.9,0,331.6,Online
+SO-11182,2025-06-14,Central,Home & Kitchen,Nonstick Cookware Set,Liam Rodriguez,1,USD,119.35,0,119.35,Online
+SO-11183,2025-06-15,Central,Home & Kitchen,Robot Vacuum E5,Noah Patel,1,USD,317.57,0.1,285.81,Partner
+SO-11184,2025-06-15,East,Sports,Cycling Helmet,Lucas Nguyen,1,USD,61.45,0.05,58.38,Retail Store
+SO-11185,2025-06-15,West,Sports,Cycling Helmet,Harper Wright,4,USD,67.22,0,268.88,Online
+SO-11186,2025-06-16,South,Sports,Cycling Helmet,Liam Rodriguez,1,USD,61.07,0.1,54.96,Partner
+SO-11187,2025-06-16,West,Home & Kitchen,Stand Mixer,Lucas Nguyen,3,USD,215.6,0,646.8,Online
+SO-11188,2025-06-16,South,Beauty,Ceramic Hair Dryer,Luna Cooper,1,USD,97.14,0,97.14,Retail Store
+SO-11189,2025-06-17,South,Home & Kitchen,Air Purifier XL,Ava Thompson,3,USD,127.55,0,382.65,Partner
+SO-11190,2025-06-17,South,Sports,Trail Running Shoes,Noah Patel,1,USD,130.79,0.1,117.71,Retail Store
+SO-11191,2025-06-17,Central,Beauty,Facial Serum 30ml,Ethan Brown,1,USD,47.13,0,47.13,Partner
+SO-11192,2025-06-18,South,Home & Kitchen,Stand Mixer,Ella Lewis,4,USD,227.28,0,909.12,Online
+SO-11193,2025-06-18,East,Electronics,Wireless Keyboard,Noah Patel,1,USD,85.39,0,85.39,Retail Store
+SO-11194,2025-06-19,Central,Home & Kitchen,Stand Mixer,Noah Patel,2,USD,219.48,0,438.96,Retail Store
+SO-11195,2025-06-19,South,Books,The Data Cookbook,Lucas Nguyen,4,USD,38.12,0,152.48,Retail Store
+SO-11196,2025-06-20,North,Home & Kitchen,Air Purifier XL,Elijah Torres,3,USD,116.69,0,350.07,Retail Store
+SO-11197,2025-06-20,West,Sports,Cycling Helmet,James Hall,3,USD,61.71,0.05,175.87,Online
+SO-11198,2025-06-20,East,Sports,Adjustable Dumbbells,Mia Chen,2,USD,216.13,0.15,367.42,Online
+SO-11199,2025-06-21,South,Sports,Yoga Mat Pro,Sofia Kim,1,USD,79.27,0,79.27,Online
+SO-11200,2025-06-21,South,Electronics,Smart Watch S2,Mason Hill,1,USD,437.95,0,437.95,Retail Store
+SO-11201,2025-06-22,North,Electronics,4K Action Camera,Evelyn Adams,1,USD,183.57,0.05,174.39,Partner
+SO-11202,2025-06-22,East,Sports,Yoga Mat Pro,Owen Price,3,USD,83.06,0.15,211.8,Partner
+SO-11203,2025-06-23,Central,Books,The Data Cookbook,Sofia Kim,1,USD,43.02,0.15,36.57,Partner
+SO-11204,2025-06-23,West,Electronics,Noise-Cancelling Headphones,Harper Wright,1,USD,255.52,0,255.52,Retail Store
+SO-11205,2025-06-23,East,Beauty,Facial Serum 30ml,Isabella Garcia,1,USD,41.56,0,41.56,Online
+SO-11206,2025-06-24,East,Sports,Cycling Helmet,Ava Thompson,1,USD,62.53,0,62.53,Partner
+SO-11207,2025-06-24,Central,Electronics,Noise-Cancelling Headphones,Lucas Nguyen,1,USD,248.02,0.15,210.82,Retail Store
+SO-11208,2025-06-24,West,Home & Kitchen,Robot Vacuum E5,Noah Patel,1,USD,298.53,0.1,268.68,Partner
+SO-11209,2025-06-25,West,Beauty,Lavender Candle Set,Ella Lewis,1,USD,33.18,0,33.18,Partner
+SO-11210,2025-06-25,North,Electronics,Noise-Cancelling Headphones,Ethan Brown,2,USD,264.75,0,529.5,Online
+SO-11211,2025-06-25,West,Home & Kitchen,Robot Vacuum E5,Noah Patel,2,USD,296.1,0.15,503.37,Retail Store
+SO-11212,2025-06-26,East,Sports,Adjustable Dumbbells,Luna Cooper,1,USD,245.17,0.15,208.39,Retail Store
+SO-11213,2025-06-26,West,Electronics,Noise-Cancelling Headphones,Lucas Nguyen,2,USD,251.93,0.1,453.47,Retail Store
+SO-11214,2025-06-27,Central,Home & Kitchen,Air Purifier XL,Henry Green,1,USD,120.65,0,120.65,Online
+SO-11215,2025-06-27,East,Electronics,USB-C Hub 8-in-1,Noah Patel,2,USD,56.82,0,113.64,Online
+SO-11216,2025-06-27,West,Electronics,USB-C Hub 8-in-1,Evelyn Adams,3,USD,63.88,0.05,182.06,Online
+SO-11217,2025-06-28,West,Electronics,Noise-Cancelling Headphones,Lucas Nguyen,3,USD,241.83,0.1,652.94,Partner
+SO-11218,2025-06-28,Central,Books,Design Systems Handbook,Lucas Nguyen,1,USD,54,0,54,Retail Store
+SO-11219,2025-06-28,South,Home & Kitchen,Robot Vacuum E5,Elijah Torres,3,USD,278.28,0,834.84,Partner
+SO-11220,2025-06-29,South,Electronics,USB-C Hub 8-in-1,Ava Thompson,1,USD,57.77,0,57.77,Retail Store
+SO-11221,2025-06-29,West,Sports,Yoga Mat Pro,Henry Green,4,USD,85.06,0.15,289.2,Partner
+SO-11222,2025-06-29,West,Home & Kitchen,Nonstick Cookware Set,Noah Patel,3,USD,121.57,0.05,346.47,Retail Store
+SO-11223,2025-06-29,North,Beauty,Ceramic Hair Dryer,Jack Rivera,4,USD,88.83,0.05,337.55,Retail Store

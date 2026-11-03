@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+.git
+.github
+coverage
+.e2e-artifacts
+test-results
+datasets/*.bak
+.env
+.env*.local
+*.log
+README.md
+Dockerfile
+docker-compose.yml

@@ -1,0 +1,18 @@
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      # Server-side only — never shipped to the browser
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY:-}
+      - OPENROUTER_MODEL=${OPENROUTER_MODEL:-meta-llama/llama-3.3-70b-instruct}
+    restart: unless-stopped
+
+  # Optional deterministic LLM backend for demos without an API key:
+  #   docker compose --profile demo up
+  # In the web service set OPENROUTER_BASE_URL=http://mock-llm:9999.
+  mock-llm:
+    build: .
+    command: ["node", "scripts/mock-openrouter.mjs", "9999"]
+    profiles: ["demo"]

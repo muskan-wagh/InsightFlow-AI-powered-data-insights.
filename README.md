@@ -21,7 +21,7 @@ DuckDB-Wasm executes on your rows → chart + table + narrative grounded in the 
 
 - 🎥 **Demo video:** [docs/project.mp4](docs/project.mp4) (short walkthrough of upload → question → chart → insights → anomalies)
 
-<video src="docs/project.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/muskan-wagh/InsightFlow-AI-powered-data-insights./main/docs/project.mp4" controls width="100%"></video>
 - 🌐 **Live app:** _add link if deployed_
 - 📸 **Screenshots:** see [`docs/screenshots/`](docs/screenshots/) (landing, upload, answer with chart, explorer, insights, anomalies, dark mode)
 
